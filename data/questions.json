@@ -1,0 +1,3628 @@
+[
+  {
+    "id": "r_001",
+    "category": "Rights & Responsibilities",
+    "difficulty": "easy",
+    "q": "What are the four fundamental freedoms that Canadian law protects?",
+    "opts": [
+      "Conscience and religion; thought and expression; peaceful assembly; association",
+      "Speech and press; bearing arms; free movement; access to healthcare",
+      "Religion, education, movement, and employment rights",
+      "Press, religion, privacy, and the right to vote"
+    ],
+    "ans": 0,
+    "exp": "Canadian law protects freedom of conscience and religion; freedom of thought, belief, opinion and expression (including freedom of speech and of the press); freedom of peaceful assembly; and freedom of association. These date back 800 years to the Magna Carta of 1215."
+  },
+  {
+    "id": "r_002",
+    "category": "Rights & Responsibilities",
+    "difficulty": "easy",
+    "q": "What is habeas corpus?",
+    "opts": [
+      "The right to vote in federal elections",
+      "The right to challenge unlawful detention by the state",
+      "The right to a fair and speedy trial",
+      "The right to address Parliament directly"
+    ],
+    "ans": 1,
+    "exp": "Habeas corpus, which comes from English common law, is the right to challenge unlawful detention by the state."
+  },
+  {
+    "id": "r_003",
+    "category": "Rights & Responsibilities",
+    "difficulty": "easy",
+    "q": "What does the Canadian Charter of Rights and Freedoms protect?",
+    "opts": [
+      "Only the rights of citizens born in Canada",
+      "Only criminal rights during court proceedings",
+      "Mobility, Aboriginal, official language rights, and multiculturalism among others",
+      "Only the rights of permanent residents and refugees"
+    ],
+    "ans": 2,
+    "exp": "The Charter, which became part of Canada's Constitution in 1982, protects mobility rights, Aboriginal peoples' rights, official language rights, minority language educational rights, and multiculturalism among other fundamental rights."
+  },
+  {
+    "id": "r_004",
+    "category": "Rights & Responsibilities",
+    "difficulty": "medium",
+    "q": "What are mobility rights under the Canadian Charter?",
+    "opts": [
+      "The right to travel abroad using only a Canadian passport",
+      "The right to live, work, enter, and leave Canada freely and apply for a passport",
+      "The right to relocate to any country in the world",
+      "The right to use public transit anywhere in Canada"
+    ],
+    "ans": 1,
+    "exp": "Mobility rights mean Canadians can live and work anywhere they choose in Canada, enter and leave the country freely, and apply for a passport."
+  },
+  {
+    "id": "r_005",
+    "category": "Rights & Responsibilities",
+    "difficulty": "easy",
+    "q": "What are three responsibilities of Canadian citizenship?",
+    "opts": [
+      "Loyalty to Canada, recycling newspapers, and serving in the navy",
+      "Learning both official languages, voting in all elections, joining a union",
+      "Obeying the law, caring for one's family, and serving on a jury",
+      "Buying Canadian products, owning a business, and conserving water"
+    ],
+    "ans": 2,
+    "exp": "Three key responsibilities of citizenship are: obeying the law, taking responsibility for oneself and one's family, and serving on a jury when called to do so."
+  },
+  {
+    "id": "r_006",
+    "category": "Rights & Responsibilities",
+    "difficulty": "easy",
+    "q": "What is the meaning of the Remembrance Day poppy?",
+    "opts": [
+      "To honour our Sovereign and the Royal Family",
+      "To celebrate Confederation and Canada's founding",
+      "To remember the sacrifice of Canadians who served or died in wars",
+      "To honour Prime Ministers who have passed away"
+    ],
+    "ans": 2,
+    "exp": "The red poppy is worn on Remembrance Day (November 11) to remember the sacrifice of Canadians who have served or died in wars up to the present day."
+  },
+  {
+    "id": "r_007",
+    "category": "Rights & Responsibilities",
+    "difficulty": "medium",
+    "q": "What does the equality of women and men mean in Canada?",
+    "opts": [
+      "Women and men must have equal seats in Parliament",
+      "Men and women are equal under the law",
+      "Women and men must earn identical salaries by law",
+      "Women and men must serve equal time in the military"
+    ],
+    "ans": 1,
+    "exp": "In Canada, men and women are equal under the law. Canada's openness and generosity do not extend to practices that tolerate spousal abuse, honour killings, female genital mutilation, forced marriage or other gender-based violence."
+  },
+  {
+    "id": "r_008",
+    "category": "Rights & Responsibilities",
+    "difficulty": "medium",
+    "q": "What does voting in elections mean as a Canadian responsibility?",
+    "opts": [
+      "Canadians are legally required to vote or face a fine",
+      "The right to vote carries a responsibility to vote in federal, provincial, and local elections",
+      "Only citizens born in Canada are required to vote",
+      "Voting is optional and carries no civic responsibility"
+    ],
+    "ans": 1,
+    "exp": "Voting in elections is described in the guide as both a right and a responsibility. The right to vote comes with a responsibility to vote in federal, provincial or territorial and local elections."
+  },
+  {
+    "id": "r_009",
+    "category": "Rights & Responsibilities",
+    "difficulty": "medium",
+    "q": "What does 'helping others in the community' mean as a Canadian responsibility?",
+    "opts": [
+      "Paying a mandatory community tax each year",
+      "Donating at least ten percent of your income to registered charities",
+      "Working for a government agency for at least one year",
+      "Volunteering time freely to help people and gain skills and contacts"
+    ],
+    "ans": 3,
+    "exp": "Helping others in the community means volunteering — millions of Canadians freely donate their time to help people in need, assist at schools, volunteer at food banks or charities, or encourage newcomers to integrate. Volunteering is an excellent way to gain useful skills and develop friends and contacts."
+  },
+  {
+    "id": "r_010",
+    "category": "Rights & Responsibilities",
+    "difficulty": "easy",
+    "q": "What does 'protecting and enjoying our heritage and environment' mean as a Canadian responsibility?",
+    "opts": [
+      "Joining an environmental or heritage political party",
+      "Every citizen helps avoid waste and protects Canada's natural and cultural heritage for future generations",
+      "Only paying the taxes that fund national parks and museums",
+      "Purchasing only Canadian-made goods and products"
+    ],
+    "ans": 1,
+    "exp": "Every citizen has a role to play in avoiding waste and pollution while protecting Canada's natural, cultural and architectural heritage for future generations."
+  },
+  {
+    "id": "r_011",
+    "category": "Rights & Responsibilities",
+    "difficulty": "medium",
+    "q": "What does serving on a jury mean as a Canadian responsibility?",
+    "opts": [
+      "All Canadians must serve in the military reserves",
+      "Jury duty is a fully voluntary community service program",
+      "Only licensed lawyers and legal professionals may serve on juries",
+      "When called, you are legally required to serve — it upholds an impartial justice system"
+    ],
+    "ans": 3,
+    "exp": "When called to serve on a jury, you are legally required to do so. Serving on a jury is a privilege that makes the justice system work as it depends on impartial juries made up of citizens."
+  },
+  {
+    "id": "r_012",
+    "category": "Rights & Responsibilities",
+    "difficulty": "medium",
+    "q": "What is multiculturalism described as in the Canadian Charter?",
+    "opts": [
+      "A law requiring all Canadians to speak a second language",
+      "A fundamental characteristic of Canadian heritage where Canadians celebrate diversity and respect pluralism",
+      "A policy that only applies to recent immigrants",
+      "A temporary government program first introduced in 2000"
+    ],
+    "ans": 1,
+    "exp": "The Charter describes multiculturalism as a fundamental characteristic of the Canadian heritage and identity. Canadians celebrate the gift of one another's presence and work hard to respect pluralism and live in harmony."
+  },
+  {
+    "id": "r_013",
+    "category": "Rights & Responsibilities",
+    "difficulty": "hard",
+    "q": "What does Aboriginal peoples' rights under the Charter mean?",
+    "opts": [
+      "The Charter replaces all Aboriginal treaty rights entirely",
+      "Charter rights will not adversely affect any Aboriginal treaty or other rights",
+      "Aboriginal peoples are fully exempt from Canadian laws",
+      "Aboriginal peoples have no distinct rights under the Charter"
+    ],
+    "ans": 1,
+    "exp": "Under the Charter, Aboriginal peoples' rights means the rights guaranteed in the Charter will not adversely affect any treaty or other rights or freedoms of Aboriginal peoples."
+  },
+  {
+    "id": "r_014",
+    "category": "Rights & Responsibilities",
+    "difficulty": "medium",
+    "q": "What does official language rights mean under the Charter?",
+    "opts": [
+      "All Canadians must speak both English and French fluently",
+      "French and English have equal status in Parliament and throughout the government",
+      "French language rights are protected only in Quebec",
+      "English is the sole official language of federal courts"
+    ],
+    "ans": 1,
+    "exp": "Official Language Rights and Minority Language Educational Rights means French and English have equal status in Parliament and throughout the government. The federal government is required by law to provide services throughout Canada in English and French."
+  },
+  {
+    "id": "r_015",
+    "category": "Rights & Responsibilities",
+    "difficulty": "easy",
+    "q": "What is the rule of law in Canada?",
+    "opts": [
+      "Only the Prime Minister is above the law",
+      "The law can be changed by the Prime Minister at any time",
+      "Laws apply only to ordinary citizens and not the government",
+      "Individuals and governments are regulated by law — no person is above it"
+    ],
+    "ans": 3,
+    "exp": "One of Canada's founding principles is the rule of law. Individuals and governments are regulated by laws and not by arbitrary actions. No person or group is above the law."
+  },
+  {
+    "id": "r_016",
+    "category": "Rights & Responsibilities",
+    "difficulty": "medium",
+    "q": "Is there compulsory military service in Canada?",
+    "opts": [
+      "Yes, all citizens must serve at least two years in the military",
+      "No, there is no compulsory military service in Canada",
+      "Yes, but only for men between the ages of 18 and 25",
+      "Yes, but only during a wartime declared by Parliament"
+    ],
+    "ans": 1,
+    "exp": "There is no compulsory military service in Canada. However, serving in the regular Canadian Forces (navy, army and air force) is described as a noble way to contribute to Canada and an excellent career choice."
+  },
+  {
+    "id": "r_017",
+    "category": "Rights & Responsibilities",
+    "difficulty": "easy",
+    "q": "What does obeying the law mean as a Canadian responsibility?",
+    "opts": [
+      "Only following federal laws, not provincial ones",
+      "Obeying laws is optional for permanent residents",
+      "One of Canada's founding principles — no one is above the law",
+      "Only obeying the laws you personally agree with"
+    ],
+    "ans": 2,
+    "exp": "Obeying the law is one of Canada's founding principles — the rule of law. Individuals and governments are regulated by laws and not by arbitrary actions, and no person or group is above the law."
+  },
+  {
+    "id": "r_018",
+    "category": "Rights & Responsibilities",
+    "difficulty": "medium",
+    "q": "What does 'taking responsibility for oneself and one's family' mean as a Canadian value?",
+    "opts": [
+      "The government provides for all citizens' basic daily needs",
+      "Family responsibility only applies to parents with children under age 12",
+      "This value only applies to immigrants, not to natural-born citizens",
+      "Getting a job, caring for one's family, and working hard are important Canadian values"
+    ],
+    "ans": 3,
+    "exp": "Getting a job, taking care of one's family and working hard in keeping with one's abilities are important Canadian values. Work contributes to personal dignity and self-respect, and to Canada's prosperity."
+  },
+  {
+    "id": "r_019",
+    "category": "Rights & Responsibilities",
+    "difficulty": "easy",
+    "q": "What are the two official languages of Canada?",
+    "opts": [
+      "English and Spanish",
+      "English and French",
+      "French and Inuktitut",
+      "English and Mandarin"
+    ],
+    "ans": 1,
+    "exp": "English and French are the two official languages of Canada and are important symbols of identity. English speakers (Anglophones) and French speakers (Francophones) have lived together in partnership for more than 300 years."
+  },
+  {
+    "id": "r_020",
+    "category": "Rights & Responsibilities",
+    "difficulty": "medium",
+    "q": "What does Canada's diversity include regarding gay and lesbian Canadians?",
+    "opts": [
+      "Gay and lesbian Canadians have limited legal rights in some provinces",
+      "Gay and lesbian Canadians enjoy full legal protection and equal treatment, including civil marriage",
+      "Same-sex relationships are only recognized in certain provinces",
+      "Gay and lesbian rights are not yet addressed in Canadian law"
+    ],
+    "ans": 1,
+    "exp": "Canada's diversity includes gay and lesbian Canadians, who enjoy the full protection of and equal treatment under the law, including access to civil marriage."
+  },
+  {
+    "id": "w_001",
+    "category": "Who We Are",
+    "difficulty": "easy",
+    "q": "Who are the three founding peoples of Canada?",
+    "opts": [
+      "French, English, and Irish",
+      "Aboriginal, French and British",
+      "Inuit, French and American",
+      "First Nations, Métis and European"
+    ],
+    "ans": 1,
+    "exp": "To understand what it means to be Canadian, it is important to know about the three founding peoples — Aboriginal, French and British."
+  },
+  {
+    "id": "w_002",
+    "category": "Who We Are",
+    "difficulty": "easy",
+    "q": "Where are the ancestors of Aboriginal peoples believed to have come from?",
+    "opts": [
+      "Europe",
+      "Africa",
+      "Asia",
+      "South America"
+    ],
+    "ans": 2,
+    "exp": "The ancestors of Aboriginal peoples are believed to have migrated from Asia many thousands of years ago. They were well established here long before explorers from Europe first came to North America."
+  },
+  {
+    "id": "w_003",
+    "category": "Who We Are",
+    "difficulty": "medium",
+    "q": "What are the three distinct groups that the term 'Aboriginal peoples' refers to today?",
+    "opts": [
+      "Cree, Inuit, and Algonquin",
+      "Indian (First Nations), Inuit, and Métis",
+      "Mohawk, Inuit, and Huron",
+      "First Nations, Acadian, and Inuit"
+    ],
+    "ans": 1,
+    "exp": "Today, the term Aboriginal peoples refers to three distinct groups: Indian (First Nations), Inuit, and Métis. About 65% of Aboriginal people are First Nations, while 30% are Métis and 4% are Inuit."
+  },
+  {
+    "id": "w_004",
+    "category": "Who We Are",
+    "difficulty": "medium",
+    "q": "What does the word 'Inuit' mean?",
+    "opts": [
+      "The hunters",
+      "The people",
+      "The northerners",
+      "The Arctic dwellers"
+    ],
+    "ans": 1,
+    "exp": "The Inuit, which means 'the people' in the Inuktitut language, live in small, scattered communities across the Arctic. Their knowledge of the land, sea and wildlife enabled them to adapt to one of the harshest environments on earth."
+  },
+  {
+    "id": "w_005",
+    "category": "Who We Are",
+    "difficulty": "medium",
+    "q": "Who are the Métis?",
+    "opts": [
+      "A distinct people of mixed Aboriginal and European ancestry who speak their own dialect, Michif",
+      "Indigenous peoples of the Pacific Coast and Rocky Mountains",
+      "French settlers who first came to Canada in the 1600s",
+      "Inuit peoples who relocated from the Arctic to the Prairies"
+    ],
+    "ans": 0,
+    "exp": "The Métis are a distinct people of mixed Aboriginal and European ancestry, the majority of whom live in the Prairie provinces. They come from both French- and English-speaking backgrounds and speak their own dialect, Michif."
+  },
+  {
+    "id": "w_006",
+    "category": "Who We Are",
+    "difficulty": "easy",
+    "q": "From 1800s to 1980s, what did the federal government do with many Aboriginal children?",
+    "opts": [
+      "Sent them to study in France or Britain for education",
+      "Gave them special rights and designated reserve lands",
+      "Placed them in residential schools to educate and assimilate them into mainstream Canadian culture",
+      "Encouraged them to move to urban centres for work"
+    ],
+    "ans": 2,
+    "exp": "From the 1800s until the 1980s, the federal government placed many Aboriginal children in residential schools to educate and assimilate them into mainstream Canadian culture. The schools were poorly funded and inflicted hardship on the students; some were physically abused. Aboriginal languages and cultural practices were mostly prohibited. In 2008, Ottawa formally apologized to the former students."
+  },
+  {
+    "id": "w_007",
+    "category": "Who We Are",
+    "difficulty": "easy",
+    "q": "When did Ottawa formally apologize to former residential school students?",
+    "opts": [
+      "1982",
+      "1995",
+      "2008",
+      "2015"
+    ],
+    "ans": 2,
+    "exp": "In 2008, Ottawa formally apologized to the former students of residential schools."
+  },
+  {
+    "id": "w_008",
+    "category": "Who We Are",
+    "difficulty": "medium",
+    "q": "How many Anglophones (English speakers) and Francophones (French speakers) are there in Canada?",
+    "opts": [
+      "20 million Anglophones and 10 million Francophones",
+      "18 million Anglophones and 7 million Francophones",
+      "15 million Anglophones and 15 million Francophones",
+      "25 million Anglophones and 5 million Francophones"
+    ],
+    "ans": 1,
+    "exp": "Today, there are 18 million Anglophones — people who speak English as a first language — and seven million Francophones — people who speak French as their first language."
+  },
+  {
+    "id": "w_009",
+    "category": "Who We Are",
+    "difficulty": "easy",
+    "q": "Which is the only officially bilingual province in Canada?",
+    "opts": [
+      "Quebec",
+      "Ontario",
+      "New Brunswick",
+      "Prince Edward Island"
+    ],
+    "ans": 2,
+    "exp": "New Brunswick is the only officially bilingual province. While the majority of Francophones live in Quebec, one million Francophones live in Ontario, New Brunswick and Manitoba, with a smaller presence in other provinces."
+  },
+  {
+    "id": "w_010",
+    "category": "Who We Are",
+    "difficulty": "medium",
+    "q": "Who are the Acadians?",
+    "opts": [
+      "English settlers who arrived in Atlantic Canada in the 1700s",
+      "Descendants of French colonists settling the Maritimes in 1604, many deported in the Great Upheaval",
+      "Métis peoples who originally settled along the New Brunswick coast",
+      "Inuit communities that established villages throughout Nova Scotia"
+    ],
+    "ans": 1,
+    "exp": "The Acadians are descendants of French colonists who began settling in what are now the Maritime provinces in 1604. Between 1755 and 1763, during the war between Britain and France, more than two-thirds of the Acadians were deported from their homeland — an event known as the Great Upheaval. Despite this ordeal, the Acadians survived and maintained their unique identity."
+  },
+  {
+    "id": "w_011",
+    "category": "Who We Are",
+    "difficulty": "medium",
+    "q": "Who are the Quebecers?",
+    "opts": [
+      "The people of Quebec, mostly French-speaking descendants of 8,500 French settlers",
+      "Only those who were born in Quebec City",
+      "All people who currently reside in the city of Quebec",
+      "French Canadians who live outside of Quebec province"
+    ],
+    "ans": 0,
+    "exp": "Quebecers are the people of Quebec, the vast majority French-speaking. Most are descendants of 8,500 French settlers from the 1600s and 1700s and maintain a unique identity, culture and language. The House of Commons recognized in 2006 that the Quebecois form a nation within a united Canada."
+  },
+  {
+    "id": "w_012",
+    "category": "Who We Are",
+    "difficulty": "hard",
+    "q": "What did the House of Commons recognize about the Quebecois in 2006?",
+    "opts": [
+      "That Quebec should become a fully independent country",
+      "That the Quebecois form a nation within a united Canada",
+      "That French is the only official language within Quebec",
+      "That Quebec holds the right to separate from Canada"
+    ],
+    "ans": 1,
+    "exp": "The House of Commons recognized in 2006 that the Quebecois form a nation within a united Canada."
+  },
+  {
+    "id": "w_013",
+    "category": "Who We Are",
+    "difficulty": "medium",
+    "q": "What percentage of Aboriginal people are First Nations, Métis, and Inuit respectively?",
+    "opts": [
+      "50% First Nations, 40% Métis, 10% Inuit",
+      "About 65% First Nations, 30% Métis, 4% Inuit",
+      "70% First Nations, 20% Métis, 10% Inuit",
+      "80% First Nations, 15% Métis, 5% Inuit"
+    ],
+    "ans": 1,
+    "exp": "About 65% of the Aboriginal people are First Nations, while 30% are Métis and 4% are Inuit."
+  },
+  {
+    "id": "w_014",
+    "category": "Who We Are",
+    "difficulty": "easy",
+    "q": "Canada is known around the world as what kind of country?",
+    "opts": [
+      "A republic governed by an elected president",
+      "A country governed entirely by a council of premiers",
+      "A strong and free country — the only constitutional monarchy in North America",
+      "A country with no official religion, culture, or heritage"
+    ],
+    "ans": 2,
+    "exp": "Canada is known around the world as a strong and free country. We are the only constitutional monarchy in North America. Our institutions uphold a commitment to Peace, Order and Good Government."
+  },
+  {
+    "id": "w_015",
+    "category": "Who We Are",
+    "difficulty": "medium",
+    "q": "What is the largest religious affiliation in Canada?",
+    "opts": [
+      "Protestant",
+      "Muslim",
+      "Catholic",
+      "Jewish"
+    ],
+    "ans": 2,
+    "exp": "The great majority of Canadians identify as Christians. The largest religious affiliation is Catholic, followed by various Protestant churches. The numbers of Muslims, Jews, Hindus, Sikhs and members of other religions are also growing."
+  },
+  {
+    "id": "h_001",
+    "category": "Canada's History",
+    "difficulty": "easy",
+    "q": "Who was the first European to draw a map of Canada's East Coast?",
+    "opts": [
+      "Jacques Cartier",
+      "Samuel de Champlain",
+      "John Cabot",
+      "Henry Hudson"
+    ],
+    "ans": 2,
+    "exp": "European exploration began in earnest in 1497 with the expedition of John Cabot, who was the first to draw a map of Canada's East Coast. He set foot on Newfoundland or Cape Breton Island and claimed the New Founde Land for England."
+  },
+  {
+    "id": "h_002",
+    "category": "Canada's History",
+    "difficulty": "easy",
+    "q": "Who claimed Canada for France and what word gave Canada its name?",
+    "opts": [
+      "John Cabot; the word 'new land' in Latin",
+      "Jacques Cartier; the Iroquoian word 'kanata' meaning village",
+      "Samuel de Champlain; the French word for 'great river'",
+      "Henry Hudson; the Dutch word for 'northern land'"
+    ],
+    "ans": 1,
+    "exp": "Between 1534 and 1542, Jacques Cartier made three voyages across the Atlantic, claiming the land for King Francis I of France. Cartier heard two captured guides speak the Iroquoian word kanata, meaning 'village.' By the 1550s, the name of Canada began appearing on maps."
+  },
+  {
+    "id": "h_003",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "Who founded Quebec City and when?",
+    "opts": [
+      "Jacques Cartier in 1534",
+      "Samuel de Champlain in 1608",
+      "John Cabot in 1497",
+      "Pierre de Monts in 1604"
+    ],
+    "ans": 1,
+    "exp": "In 1608 Champlain built a fortress at what is now Quebec City. In 1604, the first European settlement north of Florida was established by French explorers Pierre de Monts and Samuel de Champlain, first on St. Croix Island, then at Port-Royal in Acadia."
+  },
+  {
+    "id": "h_004",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What was the Battle of the Plains of Abraham and when did it occur?",
+    "opts": [
+      "A 1759 British victory near Quebec City — both commanders Wolfe and Montcalm were killed",
+      "A French victory over Britain in 1713 fought near Montreal",
+      "A 1775 border battle between Canada and the United States",
+      "An Indigenous victory over British forces fought in 1763"
+    ],
+    "ans": 0,
+    "exp": "In 1759, the British defeated the French in the Battle of the Plains of Abraham at Quebec City — marking the end of France's empire in America. The commanders of both armies, Brigadier James Wolfe and the Marquis de Montcalm, were killed leading their troops in battle."
+  },
+  {
+    "id": "h_005",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What did the Quebec Act of 1774 do?",
+    "opts": [
+      "It made Quebec an independent country from Britain",
+      "It banned the French language from all Quebec public life",
+      "It allowed religious freedom for Catholics and French civil law, while maintaining British criminal law",
+      "It made English the only official language of Quebec"
+    ],
+    "ans": 2,
+    "exp": "The Quebec Act of 1774 accommodated the principles of British institutions to the reality of the province. It allowed religious freedom for Catholics and permitted them to hold public office — a practice not then allowed in Britain. The Quebec Act restored French civil law while maintaining British criminal law."
+  },
+  {
+    "id": "h_006",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "Who were the United Empire Loyalists and how many came to Canada?",
+    "opts": [
+      "French settlers loyal to France; about 10,000 came to Canada",
+      "Irish immigrants loyal to Britain; about 5,000 came to Canada",
+      "People loyal to the British Crown who fled the American Revolution; more than 40,000 came",
+      "British soldiers who remained in Canada after the War of 1812"
+    ],
+    "ans": 2,
+    "exp": "In 1776, the 13 British colonies to the south of Quebec declared independence and formed the United States. More than 40,000 people loyal to the Crown, called 'Loyalists,' fled the oppression of the American Revolution to settle in Nova Scotia and Quebec. About 3,000 black Loyalists, freedmen and slaves also came north seeking a better life."
+  },
+  {
+    "id": "h_007",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What was the first representative assembly in Canada and where was it elected?",
+    "opts": [
+      "The first representative assembly was elected in Halifax, Nova Scotia, in 1758",
+      "The first assembly was elected in Quebec City in 1791",
+      "The first assembly was elected in Upper Canada in 1792",
+      "The first assembly was elected in Montreal in 1800"
+    ],
+    "ans": 0,
+    "exp": "Democratic institutions developed gradually and peacefully. The first representative assembly was elected in Halifax, Nova Scotia, in 1758. Prince Edward Island followed in 1773, New Brunswick in 1785."
+  },
+  {
+    "id": "h_008",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What did the Constitutional Act of 1791 do?",
+    "opts": [
+      "It created Canada as a fully independent country",
+      "It gave women the right to vote for the first time",
+      "It divided Quebec into Upper and Lower Canada and granted elected legislative assemblies",
+      "It formally united Upper and Lower Canada into a single province"
+    ],
+    "ans": 2,
+    "exp": "The Constitutional Act of 1791 divided the Province of Quebec into Upper Canada (later Ontario), which was mainly Loyalist, Protestant and English-speaking, and Lower Canada (later Quebec), heavily Catholic and French-speaking. The Act also granted legislative assemblies elected by the people for the first time."
+  },
+  {
+    "id": "h_009",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "Who led Upper Canada toward abolishing slavery and when?",
+    "opts": [
+      "Sir John A. Macdonald introduced abolition legislation in 1867",
+      "Lieutenant Governor John Graves Simcoe led Upper Canada toward abolition in 1793",
+      "Lord Durham recommended abolition in his 1838 report to Britain",
+      "Robert Baldwin achieved abolition through responsible government reforms in 1848"
+    ],
+    "ans": 1,
+    "exp": "In 1793, Upper Canada, led by Lieutenant Governor John Graves Simcoe, a Loyalist military officer, became the first province in the British Empire to move toward abolition of slavery. In 1807, the British Parliament prohibited the buying and selling of slaves, and in 1833 abolished slavery throughout the Empire."
+  },
+  {
+    "id": "h_010",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What was the War of 1812?",
+    "opts": [
+      "A war between Canada and France fought over fur trade routes",
+      "A war between Britain and France fought on Canadian soil",
+      "An Indigenous uprising against European settlers in the interior",
+      "A US invasion of Canada repelled by Canadian volunteers, First Nations, and British soldiers"
+    ],
+    "ans": 3,
+    "exp": "Believing it would be easy to conquer Canada, the United States launched an invasion in June 1812. Canadian volunteers and First Nations, including Shawnee led by Chief Tecumseh, supported British soldiers in Canada's defence. By 1814, the American attempt to conquer Canada had failed. The present-day Canada-U.S.A. border is partly an outcome of the War of 1812."
+  },
+  {
+    "id": "h_011",
+    "category": "Canada's History",
+    "difficulty": "easy",
+    "q": "What is Confederation and when did it occur?",
+    "opts": [
+      "The signing of a major trade deal with the US in 1867",
+      "The birth of Canada on July 1, 1867, when the British North America Act united four provinces",
+      "The formal union of Canada and Britain as one nation in 1867",
+      "The first Canadian election, held on July 1, 1870"
+    ],
+    "ans": 1,
+    "exp": "The British Parliament passed the British North America Act in 1867. The Dominion of Canada was officially born on July 1, 1867. The four founding provinces were Ontario, Quebec, Nova Scotia and New Brunswick. Until 1982, July 1 was celebrated as 'Dominion Day' — today it is officially known as Canada Day."
+  },
+  {
+    "id": "h_012",
+    "category": "Canada's History",
+    "difficulty": "easy",
+    "q": "Who was Canada's first Prime Minister?",
+    "opts": [
+      "Sir Wilfrid Laurier",
+      "Sir George-Étienne Cartier",
+      "Sir John Alexander Macdonald",
+      "Sir Leonard Tilley"
+    ],
+    "ans": 2,
+    "exp": "In 1867, Sir John Alexander Macdonald, a Father of Confederation, became Canada's first Prime Minister. Born in Scotland on January 11, 1815, he came to Upper Canada as a child. Parliament has recognized January 11 as Sir John A. Macdonald Day. His portrait is on the $10 bill."
+  },
+  {
+    "id": "h_013",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "When was the Canadian Pacific Railway completed and what was its significance?",
+    "opts": [
+      "1871 — it linked Ontario and Quebec by rail for the first time",
+      "1873 — it was built primarily to transport goods to the United States",
+      "1880 — it was built specifically to bring settlers to the Prairies",
+      "November 7, 1885 — a symbol of unity connecting Canada coast to coast"
+    ],
+    "ans": 3,
+    "exp": "On November 7, 1885, a powerful symbol of unity was completed when Donald Smith (Lord Strathcona) drove the last spike of the Canadian Pacific Railway. The project was financed by British and American investors and built by both European and Chinese labour. The CPR's 'ribbons of steel' fulfilled a national dream."
+  },
+  {
+    "id": "h_014",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What was the Chinese Head Tax and when did the government apologize for it?",
+    "opts": [
+      "A tax on Chinese goods imported to Canada; apologized for in 1982",
+      "A race-based entry fee charged to Chinese immigrants after the CPR; government apologized in 2006",
+      "A special business tax on Chinese-Canadian businesses; apologized for in 1988",
+      "A tax levied to fund CPR construction that was never officially apologized for"
+    ],
+    "ans": 1,
+    "exp": "After the CPR was built, Chinese workers were subject to discrimination, including the Head Tax, a race-based entry fee. The Government of Canada apologized in 2006 for this discriminatory policy."
+  },
+  {
+    "id": "h_015",
+    "category": "Canada's History",
+    "difficulty": "easy",
+    "q": "Who was Sir Wilfrid Laurier?",
+    "opts": [
+      "Canada's first Prime Minister, who served from 1867 to 1873",
+      "The first French-Canadian Prime Minister since Confederation, featured on the $5 bill",
+      "The Father of Confederation who represented Quebec at the 1864 conference",
+      "The first Governor General appointed after Canada achieved full independence"
+    ],
+    "ans": 1,
+    "exp": "Sir Wilfrid Laurier became the first French-Canadian prime minister since Confederation and encouraged immigration to the West. His portrait is on the $5 bill."
+  },
+  {
+    "id": "h_016",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What happened at the Battle of Vimy Ridge?",
+    "opts": [
+      "Canadian forces liberated the Netherlands from German occupation in 1945",
+      "Canadian and British forces together captured a key German port in 1918",
+      "Canadian forces defeated American troops along the border in 1813",
+      "In April 1917 all four Canadian divisions fought together, capturing Vimy Ridge with 10,000 casualties"
+    ],
+    "ans": 3,
+    "exp": "The Canadian Corps captured Vimy Ridge in April 1917, with 10,000 killed or wounded, securing the Canadians' reputation for valour as the 'shock troops of the British Empire.' April 9 is celebrated as Vimy Day. One Canadian officer said: 'It was Canada from the Atlantic to the Pacific on parade... In those few minutes I witnessed the birth of a nation.'"
+  },
+  {
+    "id": "h_017",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "How many Canadians served in the First World War and how many were killed?",
+    "opts": [
+      "300,000 served; 30,000 were killed in combat",
+      "More than 600,000 served; 60,000 were killed and 170,000 wounded",
+      "500,000 served; 50,000 were killed in action",
+      "200,000 served; 20,000 were killed in battle"
+    ],
+    "ans": 1,
+    "exp": "More than 600,000 Canadians served in the First World War, most of them volunteers, out of a total population of eight million. In total 60,000 Canadians were killed and 170,000 were wounded."
+  },
+  {
+    "id": "h_018",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "When did women gain the right to vote in federal elections in Canada?",
+    "opts": [
+      "1897",
+      "1918",
+      "1929",
+      "1940"
+    ],
+    "ans": 1,
+    "exp": "In 1917, thanks to women's leadership, the federal government of Sir Robert Borden gave women the right to vote in federal elections — first to nurses at the battle front, then to women related to men in active wartime service. In 1918, most Canadian female citizens aged 21 and over were granted the right to vote in federal elections."
+  },
+  {
+    "id": "h_019",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "Who was Agnes Macphail?",
+    "opts": [
+      "Canada's first female Prime Minister",
+      "A farmer and teacher who became the first woman MP in 1921",
+      "The first woman appointed to the Supreme Court of Canada",
+      "The founder of the women's suffrage movement in Canada"
+    ],
+    "ans": 1,
+    "exp": "In 1921, Agnes Macphail, a farmer and teacher, became the first woman MP in Canada."
+  },
+  {
+    "id": "h_020",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What happened on D-Day, June 6, 1944?",
+    "opts": [
+      "Canada formally declared war on Germany at Normandy",
+      "Canadian forces liberated Paris from German occupation",
+      "Canada signed a peace treaty with Imperial Japan",
+      "15,000 Canadians stormed Juno Beach in the Allied D-Day invasion of Normandy"
+    ],
+    "ans": 3,
+    "exp": "In the epic invasion of Normandy in northern France on June 6, 1944 (D-Day), 15,000 Canadian troops stormed and captured Juno Beach from the German Army — approximately one in ten Allied soldiers on D-Day was Canadian. The Canadian Army liberated the Netherlands in 1944–45 and helped force the German surrender of May 8, 1945."
+  },
+  {
+    "id": "h_021",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "How many Canadians served in the Second World War and how many were killed?",
+    "opts": [
+      "Approximately 500,000 served; around 30,000 were killed in action",
+      "Over one million Canadians and Newfoundlanders served; about 44,000 were killed",
+      "Approximately 750,000 served; around 60,000 were killed in combat",
+      "Approximately 250,000 served; around 10,000 were killed in action"
+    ],
+    "ans": 1,
+    "exp": "More than one million Canadians and Newfoundlanders (Newfoundland was a separate British entity at the time) served in the Second World War, out of a population of 11.5 million. Of these, 44,000 were killed."
+  },
+  {
+    "id": "h_022",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What was the Royal Canadian Navy's role in the Second World War?",
+    "opts": [
+      "It transported troops to Europe but did not engage in combat",
+      "It fought exclusively in the Pacific theatre against Japan",
+      "It invaded Normandy on D-Day as the lead naval force",
+      "It protected Atlantic convoys from German submarines, ending the war as the third-largest navy"
+    ],
+    "ans": 3,
+    "exp": "The Royal Canadian Navy (RCN) saw its finest hour in the Battle of the Atlantic, protecting convoys of merchant ships against German submarines. Canada's Merchant Navy helped to feed, clothe and resupply Britain. At the end of the Second World War, Canada had the third-largest navy in the world."
+  },
+  {
+    "id": "h_023",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What was the responsible government system established in Canada?",
+    "opts": [
+      "A system where provinces can override any federal law",
+      "A system where the Governor General manages the country day to day",
+      "If the government loses a confidence vote it must resign — first in Nova Scotia in 1847–48",
+      "A system where the Senate controls the elected government"
+    ],
+    "ans": 2,
+    "exp": "The first British North American colony to attain full responsible government was Nova Scotia in 1847–48. Responsible government means: if the government loses a confidence vote in the assembly it must resign. This is the system Canada has today."
+  },
+  {
+    "id": "h_024",
+    "category": "Canada's History",
+    "difficulty": "easy",
+    "q": "When did Newfoundland and Labrador join Canada?",
+    "opts": [
+      "1905",
+      "1931",
+      "1945",
+      "1949"
+    ],
+    "ans": 3,
+    "exp": "Newfoundland and Labrador joined Canada in 1949, becoming the 10th province."
+  },
+  {
+    "id": "h_025",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "Who was Louis Riel and what did he lead?",
+    "opts": [
+      "The first French-Canadian Prime Minister after Confederation",
+      "Canada's second Prime Minister, who oversaw the building of the CPR",
+      "A First Nations chief who negotiated the numbered treaties with Ottawa",
+      "A Métis leader who led the Red River uprising and 1885 rebellion — father of Manitoba"
+    ],
+    "ans": 3,
+    "exp": "When Canada took over the vast northwest region from the Hudson's Bay Company in 1869, the 12,000 Métis of the Red River were not consulted. Louis Riel led an armed uprising and seized Fort Garry. Canada established a new province — Manitoba. Riel led a second rebellion in 1885. He is seen by many as a hero, a defender of Métis rights and the father of Manitoba."
+  },
+  {
+    "id": "h_026",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "When was the North West Mounted Police established and what did it later become?",
+    "opts": [
+      "Established by Prime Minister Macdonald in 1873 to pacify the West — today it is the RCMP",
+      "Established in 1867 as the Canadian Border Police, later became the RCMP",
+      "Established in 1885 after the Canadian Pacific Railway was completed",
+      "Established in 1896 during the height of the Klondike Gold Rush"
+    ],
+    "ans": 0,
+    "exp": "Prime Minister Macdonald established the North West Mounted Police (NWMP) in 1873 to pacify the West and assist in negotiations with the Indians. Today, the Royal Canadian Mounted Police (RCMP) or 'the Mounties' are the national police force and one of Canada's best-known symbols."
+  },
+  {
+    "id": "h_027",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What was the term 'Dominion of Canada' and who suggested it?",
+    "opts": [
+      "Suggested by Sir John A. Macdonald, inspired by the British word for colony",
+      "Suggested by Sir Leonard Tilley, inspired by Psalm 72 referring to 'dominion from sea to sea'",
+      "Suggested personally by Queen Victoria in a letter to Parliament",
+      "Suggested by Sir Wilfrid Laurier as a symbol of French-Canadian national pride"
+    ],
+    "ans": 1,
+    "exp": "Sir Leonard Tilley, an elected official and Father of Confederation from New Brunswick, suggested the term Dominion of Canada in 1864. He was inspired by Psalm 72 in the Bible which refers to 'dominion from sea to sea and from the river to the ends of the earth.'"
+  },
+  {
+    "id": "h_028",
+    "category": "Canada's History",
+    "difficulty": "easy",
+    "q": "When was Nunavut created?",
+    "opts": [
+      "1982",
+      "1990",
+      "1999",
+      "2005"
+    ],
+    "ans": 2,
+    "exp": "Nunavut, meaning 'our land' in Inuktitut, was established in 1999 from the eastern part of the Northwest Territories. Its capital is Iqaluit and its population is about 85% Inuit."
+  },
+  {
+    "id": "h_029",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What was the Klondike Gold Rush?",
+    "opts": [
+      "A major gold rush in British Columbia in the 1850s",
+      "Thousands of miners rushed to the Yukon during the Gold Rush of the 1890s",
+      "A significant gold discovery in Alberta in 1947",
+      "A gold rush in northern Ontario in the early 1900s"
+    ],
+    "ans": 1,
+    "exp": "Thousands of miners came to the Yukon during the Gold Rush of the 1890s. Mining remains a significant part of the Yukon's economy today."
+  },
+  {
+    "id": "h_030",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What was the Statute of Westminster?",
+    "opts": [
+      "A 1982 Canadian law that patriated the constitution from Britain",
+      "A 1931 British law granting Canada and other Dominions full legislative independence",
+      "The original British North America Act that created Canada in 1867",
+      "A Quebec law establishing French as the province's sole official language"
+    ],
+    "ans": 1,
+    "exp": "After the First World War, the British Empire evolved into a free association of states known as the British Commonwealth of Nations. Canada remains a leading member of the Commonwealth to this day."
+  },
+  {
+    "id": "h_031",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "When did Aboriginal people gain the right to vote in federal elections?",
+    "opts": [
+      "1918",
+      "1948",
+      "1960",
+      "1982"
+    ],
+    "ans": 2,
+    "exp": "Most Canadians of Asian descent had in the past been denied the vote in federal and provincial elections. In 1948 the last of these, the Japanese-Canadians, gained the right to vote. Aboriginal people were granted the vote in 1960. Today every citizen over the age of 18 may vote."
+  },
+  {
+    "id": "h_032",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What are some great Canadian discoveries and inventions?",
+    "opts": [
+      "The automobile, the airplane, and the World Wide Web",
+      "Telephone, snowmobile, standard time zones, insulin, and the pacemaker",
+      "The radio, television, and the first personal computer",
+      "The steam engine, the electric light bulb, and penicillin"
+    ],
+    "ans": 1,
+    "exp": "Famous Canadian inventions and discoveries include: Alexander Graham Bell — the telephone; Joseph-Armand Bombardier — the snowmobile; Sir Sandford Fleming — the worldwide system of standard time zones; Sir Frederick Banting and Charles Best — insulin; and Dr. John A. Hopps — the first cardiac pacemaker."
+  },
+  {
+    "id": "h_033",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "Who discovered insulin and what is its significance?",
+    "opts": [
+      "Dr. Wilder Penfield — used to treat neurological brain disorders",
+      "Sir Frederick Banting and Charles Best — discovered insulin to treat diabetes, saving millions of lives",
+      "Reginald Fessenden — used in pioneering early radio communications",
+      "Dr. John A. Hopps — invented the first cardiac pacemaker device"
+    ],
+    "ans": 1,
+    "exp": "Sir Frederick Banting of Toronto and Charles Best discovered insulin, a hormone to treat diabetes that has saved 16 million lives worldwide."
+  },
+  {
+    "id": "h_034",
+    "category": "Canada's History",
+    "difficulty": "easy",
+    "q": "What sport did Canadian James Naismith invent and in what year?",
+    "opts": [
+      "Football in 1880",
+      "Basketball in 1891",
+      "Ice hockey in 1875",
+      "Lacrosse in 1860"
+    ],
+    "ans": 1,
+    "exp": "Basketball was invented by Canadian James Naismith in 1891."
+  },
+  {
+    "id": "h_035",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What is Terry Fox known for?",
+    "opts": [
+      "He was the first Canadian to win an Olympic gold medal",
+      "He was a famous Canadian hockey player for the Maple Leafs",
+      "He was the first Canadian astronaut to go to space",
+      "In 1980 he ran the Marathon of Hope across Canada after losing his leg to cancer"
+    ],
+    "ans": 3,
+    "exp": "In 1980, Terry Fox, a British Columbian who lost his right leg to cancer at the age of 18, began a cross-country run, the 'Marathon of Hope,' to raise money for cancer research. He became a hero to Canadians. While he did not finish the run and ultimately lost his battle with cancer, his legacy continues through yearly fundraising events in his name."
+  },
+  {
+    "id": "m_001",
+    "category": "Modern Canada",
+    "difficulty": "easy",
+    "q": "When was oil discovered in Alberta and what did it begin?",
+    "opts": [
+      "1930 — it began Canada's mining industry",
+      "1947 — it began Canada's modern energy industry",
+      "1965 — it began Canada's export economy",
+      "1980 — it began large-scale oil sands development"
+    ],
+    "ans": 1,
+    "exp": "The discovery of oil in Alberta in 1947 began Canada's modern energy industry."
+  },
+  {
+    "id": "m_002",
+    "category": "Modern Canada",
+    "difficulty": "medium",
+    "q": "What is the Canada Health Act?",
+    "opts": [
+      "A law requiring all Canadians to purchase private health insurance",
+      "A federal act ensuring common elements and a basic standard of healthcare coverage across Canada",
+      "A law that created the Canadian university medical school system",
+      "A Quebec law that established the provincial health insurance system"
+    ],
+    "ans": 1,
+    "exp": "The Canada Health Act ensures common elements and a basic standard of coverage for healthcare across Canada."
+  },
+  {
+    "id": "m_003",
+    "category": "Modern Canada",
+    "difficulty": "medium",
+    "q": "When was unemployment insurance (now called employment insurance) introduced?",
+    "opts": [
+      "1927",
+      "1934",
+      "1940",
+      "1965"
+    ],
+    "ans": 2,
+    "exp": "Unemployment insurance (now called 'employment insurance') was introduced by the federal government in 1940."
+  },
+  {
+    "id": "m_004",
+    "category": "Modern Canada",
+    "difficulty": "medium",
+    "q": "When were the Canada and Quebec Pension Plans established?",
+    "opts": [
+      "1927",
+      "1940",
+      "1965",
+      "1982"
+    ],
+    "ans": 2,
+    "exp": "Old Age Security was devised as early as 1927, and the Canada and Quebec Pension Plans were established in 1965."
+  },
+  {
+    "id": "m_005",
+    "category": "Modern Canada",
+    "difficulty": "easy",
+    "q": "What military alliance did Canada join with other democratic Western nations?",
+    "opts": [
+      "The League of Nations after World War I",
+      "The Commonwealth Defence Alliance with Britain",
+      "The North Atlantic Treaty Organization (NATO) and NORAD with the United States",
+      "The Pacific Security Pact with Japan and Australia"
+    ],
+    "ans": 2,
+    "exp": "Canada joined with other democratic countries of the West to form the North Atlantic Treaty Organization (NATO), a military alliance, and with the United States in the North American Aerospace Defence Command (NORAD)."
+  },
+  {
+    "id": "m_006",
+    "category": "Modern Canada",
+    "difficulty": "medium",
+    "q": "What was Canada's role in the Korean War (1950–53)?",
+    "opts": [
+      "Canada led all United Nations forces throughout Korea",
+      "Canada participated in the UN operation defending South Korea, with 500 dead and 1,000 wounded",
+      "Canada provided only financial support and no troops",
+      "Canada did not participate in the Korean War at all"
+    ],
+    "ans": 1,
+    "exp": "Canada joined international organizations such as the United Nations. It participated in the UN operation defending South Korea in the Korean War (1950–53), with 500 dead and 1,000 wounded."
+  },
+  {
+    "id": "m_007",
+    "category": "Modern Canada",
+    "difficulty": "medium",
+    "q": "What was the Quiet Revolution in Quebec?",
+    "opts": [
+      "A peaceful Indigenous land rights movement across Quebec",
+      "An era of rapid change in 1960s Quebec where French-Canadian culture flourished and many sought separation",
+      "A series of protests against conscription in Quebec during WWII",
+      "A movement that led directly to Quebec's official bilingualism in 1969"
+    ],
+    "ans": 1,
+    "exp": "Quebec experienced an era of rapid change in the 1960s known as the Quiet Revolution. French-Canadian society and culture flourished in the postwar years. Many Quebecers sought to separate from Canada."
+  },
+  {
+    "id": "m_008",
+    "category": "Modern Canada",
+    "difficulty": "medium",
+    "q": "What is the Official Languages Act and when was it passed?",
+    "opts": [
+      "Passed in 1969, it guarantees French and English services across the federal government",
+      "A 1982 act that made French the only language of Quebec",
+      "A 1867 act that established English as Canada's official language",
+      "A 1971 act that established Canada's multiculturalism policy"
+    ],
+    "ans": 0,
+    "exp": "In 1963 Parliament established the Royal Commission on Bilingualism and Biculturalism. This led to the Official Languages Act (1969), which guarantees French and English services in the federal government across Canada."
+  },
+  {
+    "id": "m_009",
+    "category": "Modern Canada",
+    "difficulty": "medium",
+    "q": "What happened in the Quebec sovereignty referendum of 1980?",
+    "opts": [
+      "Quebec voted to separate from the rest of Canada",
+      "The movement for Quebec sovereignty was defeated in a provincial referendum",
+      "Quebec voted to become an officially bilingual province",
+      "The referendum was cancelled because of very low voter turnout"
+    ],
+    "ans": 1,
+    "exp": "The movement for Quebec sovereignty gained strength but was defeated in a referendum in the province in 1980. Though sovereignty was again defeated in a second referendum in 1995, the autonomy of Quebec within Canada remains a lively topic."
+  },
+  {
+    "id": "m_010",
+    "category": "Modern Canada",
+    "difficulty": "easy",
+    "q": "When was the Canadian Space Agency established and what has it contributed?",
+    "opts": [
+      "1975 — it launched the first Canadian satellite into orbit",
+      "2000 — Canada joined the International Space Station program",
+      "1969 — a Canadian was part of the Apollo moon landing",
+      "Since 1989 — Canadian astronauts have explored space, often using the Canadian-built Canadarm"
+    ],
+    "ans": 3,
+    "exp": "Since 1989, the Canadian Space Agency and Canadian astronauts have participated in space exploration, often using the Canadian-designed and built Canadarm."
+  },
+  {
+    "id": "m_011",
+    "category": "Modern Canada",
+    "difficulty": "medium",
+    "q": "What did Wayne Gretzky accomplish and which team did he play for?",
+    "opts": [
+      "He won five Olympic gold medals representing Team Canada",
+      "One of hockey's greatest players ever, he played for the Edmonton Oilers from 1979 to 1988",
+      "He invented the modern Canadian style of hockey in the 1970s",
+      "He was the very first Canadian player in the NHL"
+    ],
+    "ans": 1,
+    "exp": "One of the greatest hockey players of all time, Wayne Gretzky, played for the Edmonton Oilers from 1979 to 1988."
+  },
+  {
+    "id": "m_012",
+    "category": "Modern Canada",
+    "difficulty": "medium",
+    "q": "What did Rick Hansen do in 1985?",
+    "opts": [
+      "He won multiple gold medals at the 1985 Paralympic Games",
+      "He circled the globe in a wheelchair, raising funds for spinal cord research",
+      "He became the first Canadian to successfully summit Mount Everest",
+      "He swam across the English Channel to raise money for cancer research"
+    ],
+    "ans": 1,
+    "exp": "In 1985, fellow British Columbian Rick Hansen circled the globe in a wheelchair to raise funds for spinal cord research."
+  },
+  {
+    "id": "m_013",
+    "category": "Modern Canada",
+    "difficulty": "medium",
+    "q": "What is La Francophonie and when did Canada help found it?",
+    "opts": [
+      "A Quebec arts festival that was established in 1967",
+      "An international association of French-speaking countries that Canada helped found in 1970",
+      "A Canadian government department managing French-language services",
+      "A French-Canadian political party that was established in 1960"
+    ],
+    "ans": 1,
+    "exp": "In 1970, Canada helped found La Francophonie, an international association of French-speaking countries."
+  },
+  {
+    "id": "m_014",
+    "category": "Modern Canada",
+    "difficulty": "easy",
+    "q": "What is the Group of Seven in art?",
+    "opts": [
+      "Seven Canadian Prime Ministers who shaped modern Canada",
+      "Seven influential French-Canadian writers of the 1960s",
+      "A group of seven Indigenous artists who pioneered Aboriginal art",
+      "Founded in 1920, a group of painters who captured Canada's rugged wilderness landscapes"
+    ],
+    "ans": 3,
+    "exp": "In the visual arts, Canada is historically perhaps best known for the Group of Seven, founded in 1920, who developed a style of painting to capture the rugged wilderness landscapes."
+  },
+  {
+    "id": "m_015",
+    "category": "Modern Canada",
+    "difficulty": "hard",
+    "q": "What happened to Japanese Canadians during the Second World War and when did the government apologize?",
+    "opts": [
+      "They were celebrated for their wartime service; no apology was needed",
+      "They were interned only briefly in 1944; the government apologized in 1950",
+      "The state forcibly relocated them and sold their property without compensation; Canada apologized in 1988",
+      "They were relocated to Quebec for safety; the government has never formally apologized"
+    ],
+    "ans": 2,
+    "exp": "The state of war and public opinion in B.C. led to the forcible relocation of Canadians of Japanese origin by the federal government and the sale of their property without compensation. This occurred even though the military and the RCMP told Ottawa that they posed little danger to Canada. The Government of Canada apologized in 1988 for wartime wrongs and compensated the victims."
+  },
+  {
+    "id": "g_001",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "easy",
+    "q": "What are the three key facts about Canada's system of government?",
+    "opts": [
+      "A republic, a democracy, and a federation",
+      "A federal state, a parliamentary democracy, and a constitutional monarchy",
+      "A monarchy, a senate system, and a federation",
+      "A democracy, a bilingual state, and a confederation"
+    ],
+    "ans": 1,
+    "exp": "There are three key facts about Canada's system of government: our country is a federal state, a parliamentary democracy, and a constitutional monarchy."
+  },
+  {
+    "id": "g_002",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "easy",
+    "q": "What are the three parts of Parliament?",
+    "opts": [
+      "The President, the Senate, and the Supreme Court",
+      "The Sovereign (Queen or King), the Senate, and the House of Commons",
+      "The Prime Minister, the Cabinet, and the Senate",
+      "The Governor General, the House of Commons, and the Supreme Court"
+    ],
+    "ans": 1,
+    "exp": "Parliament has three parts: the Sovereign (Queen or King), the Senate, and the House of Commons."
+  },
+  {
+    "id": "g_003",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "easy",
+    "q": "What is Canada's head of state?",
+    "opts": [
+      "The Prime Minister",
+      "The Governor General",
+      "The hereditary Sovereign (Queen or King)",
+      "The Chief Justice of the Supreme Court"
+    ],
+    "ans": 2,
+    "exp": "As a constitutional monarchy, Canada's Head of State is a hereditary Sovereign (Queen or King), who reigns in accordance with the Constitution: the rule of law."
+  },
+  {
+    "id": "g_004",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "medium",
+    "q": "What is the role of the Governor General?",
+    "opts": [
+      "To lead the federal government and set national policy",
+      "The Sovereign is represented by the Governor General, appointed on the advice of the Prime Minister",
+      "To serve as the presiding head of the Senate",
+      "To manage and administer federal elections on behalf of the Crown"
+    ],
+    "ans": 1,
+    "exp": "The Sovereign is represented in Canada by the Governor General, who is appointed by the Sovereign on the advice of the Prime Minister, usually for five years. In each of the ten provinces, the Sovereign is represented by the Lieutenant Governor."
+  },
+  {
+    "id": "g_005",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "medium",
+    "q": "What is the difference between the head of state and the head of government in Canada?",
+    "opts": [
+      "There is no difference — they are the same person",
+      "The head of state is the Sovereign; the head of government is the Prime Minister, who directs the country",
+      "The head of state is the Governor General; the head of government is the Senate",
+      "The head of state is elected; the head of government is appointed"
+    ],
+    "ans": 1,
+    "exp": "There is a clear distinction in Canada between the head of state — the Sovereign — and the head of government — the Prime Minister, who actually directs the governing of the country."
+  },
+  {
+    "id": "g_006",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "medium",
+    "q": "How are Senators chosen and how long do they serve?",
+    "opts": [
+      "Elected by Canadian citizens in provincial elections; serve four-year terms",
+      "Appointed by the Governor General on the PM's advice; serve until age 75",
+      "Appointed by provincial premiers from regional nominees; serve until age 70",
+      "Elected by Members of Parliament in a secret vote; serve six-year terms"
+    ],
+    "ans": 1,
+    "exp": "Senators are appointed by the Governor General on the advice of the Prime Minister and serve until age 75."
+  },
+  {
+    "id": "g_007",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "easy",
+    "q": "What are the federal government's responsibilities?",
+    "opts": [
+      "Education, health, property and civil rights",
+      "Municipal government, highways, and natural resources",
+      "Defence, foreign policy, trade, currency, criminal law, and citizenship",
+      "Agriculture only — shared with the provinces"
+    ],
+    "ans": 2,
+    "exp": "The federal government takes responsibility for matters of national and international concern. These include defence, foreign policy, interprovincial trade and communications, currency, navigation, criminal law and citizenship."
+  },
+  {
+    "id": "g_008",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "easy",
+    "q": "What are the provinces responsible for?",
+    "opts": [
+      "Defence, foreign policy, and criminal law",
+      "Currency, banking, and immigration policy",
+      "International trade and citizenship matters",
+      "Municipal government, education, health, natural resources, and highways"
+    ],
+    "ans": 3,
+    "exp": "The provinces are responsible for municipal government, education, health, natural resources, property and civil rights, and highways."
+  },
+  {
+    "id": "g_009",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "medium",
+    "q": "What jurisdictions do the federal government and provinces share?",
+    "opts": [
+      "Criminal law and education",
+      "Agriculture and immigration",
+      "Healthcare and national defence",
+      "Banking and natural resources"
+    ],
+    "ans": 1,
+    "exp": "The federal government and the provinces share jurisdiction over agriculture and immigration."
+  },
+  {
+    "id": "g_010",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "medium",
+    "q": "What does 'confidence of the House' mean?",
+    "opts": [
+      "The House of Commons must formally trust the Governor General",
+      "Cabinet ministers must retain House confidence and resign if defeated in a non-confidence vote",
+      "The Senate must approve all Cabinet ministerial appointments",
+      "The Prime Minister must be elected directly by all sitting MPs"
+    ],
+    "ans": 1,
+    "exp": "Cabinet ministers are responsible to the elected representatives, which means they must retain the 'confidence of the House' and have to resign if they are defeated in a non-confidence vote."
+  },
+  {
+    "id": "g_011",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "medium",
+    "q": "What are the three branches of Canada's government?",
+    "opts": [
+      "The Crown, the Senate, and the House of Commons",
+      "The Executive, Legislative, and Judicial branches",
+      "The Federal, Provincial, and Municipal branches",
+      "The Governor General, the Prime Minister, and the Supreme Court"
+    ],
+    "ans": 1,
+    "exp": "The interplay between the three branches of government — the Executive, Legislative, and Judicial — which work together but also sometimes in creative tension, helps to secure the rights and freedoms of Canadians."
+  },
+  {
+    "id": "g_012",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "medium",
+    "q": "What does the Premier do in a province?",
+    "opts": [
+      "Represents the Crown at the provincial level in official ceremonies",
+      "Leads the provincial government, similar to how the Prime Minister leads federally",
+      "Presides over the provincial legislature as its official Speaker",
+      "Appoints all provincial court judges on the premier's recommendation"
+    ],
+    "ans": 1,
+    "exp": "In each province, the Premier has a role similar to that of the Prime Minister in the federal government, just as the Lieutenant Governor has a role similar to that of the Governor General."
+  },
+  {
+    "id": "g_013",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "easy",
+    "q": "What is a bill in the Canadian legislative process?",
+    "opts": [
+      "A proposal for a new law that must pass both chambers and receive royal assent",
+      "A request for funding submitted by a province to Ottawa",
+      "A formal summary of the Prime Minister's annual policy priorities",
+      "A formal complaint submitted by an MP to Parliament"
+    ],
+    "ans": 0,
+    "exp": "Both the House of Commons and the Senate consider and review bills (proposals for new laws). No bill can become law in Canada until it has been passed by both chambers and has received royal assent, granted by the Governor General on behalf of the Sovereign."
+  },
+  {
+    "id": "g_014",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "medium",
+    "q": "What role does local or municipal government play?",
+    "opts": [
+      "Municipal governments have jurisdiction over criminal law and policing",
+      "Municipal governments oversee public education and provincial healthcare delivery",
+      "Municipal governments are accountable directly to the federal government",
+      "Municipal councils pass by-laws covering planning, roads, transit, and local services"
+    ],
+    "ans": 3,
+    "exp": "Local or municipal government plays an important role in the lives of citizens. Municipal governments usually have a council that passes laws called 'by-laws.' Municipalities are normally responsible for urban or regional planning, streets and roads, sanitation, snow removal, firefighting, ambulance, recreation facilities, public transit and some local health and social services."
+  },
+  {
+    "id": "g_015",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "hard",
+    "q": "What is the constitutional monarchy and what does the Crown symbolize?",
+    "opts": [
+      "A system in which the monarch personally makes all laws for Canada",
+      "A purely ceremonial arrangement with no real legal or political power",
+      "A system in which the Governor General holds supreme authority over Parliament",
+      "A system where the Head of State reigns under the Constitution, representing all government authority"
+    ],
+    "ans": 3,
+    "exp": "As a constitutional monarchy, Canada's Head of State is a hereditary Sovereign who reigns in accordance with the Constitution: the rule of law. The Crown is a symbol of government, including Parliament, the legislatures, the courts, police services and the Canadian Forces."
+  },
+  {
+    "id": "e_001",
+    "category": "Federal Elections",
+    "difficulty": "easy",
+    "q": "How are members of Parliament chosen?",
+    "opts": [
+      "They are appointed by the United Nations",
+      "They are chosen by provincial premiers directly",
+      "They are elected by voters in their local constituency (riding)",
+      "They are elected by landowners and police chiefs"
+    ],
+    "ans": 2,
+    "exp": "Canadians vote in elections for the people they want to represent them in the House of Commons. Members of the House of Commons are also known as members of Parliament or MPs. Each riding elects one MP."
+  },
+  {
+    "id": "e_002",
+    "category": "Federal Elections",
+    "difficulty": "easy",
+    "q": "How many electoral districts does Canada have?",
+    "opts": [
+      "265",
+      "301",
+      "308",
+      "338"
+    ],
+    "ans": 2,
+    "exp": "Canada is divided into 308 electoral districts, also known as ridings or constituencies. An electoral district is a geographical area represented by a member of Parliament (MP). The citizens in each electoral district elect one MP."
+  },
+  {
+    "id": "e_003",
+    "category": "Federal Elections",
+    "difficulty": "easy",
+    "q": "Who is eligible to vote in a federal election?",
+    "opts": [
+      "All residents of Canada aged 18 and over",
+      "Canadian citizens at least 18 years old on voting day and on the voters' list",
+      "Canadian citizens and permanent residents aged 18 and over",
+      "Anyone who has lived in Canada for more than one year"
+    ],
+    "ans": 1,
+    "exp": "You are eligible to vote in a federal election or cast a ballot in a federal referendum if you are: a Canadian citizen; at least 18 years old on voting day; and on the voters' list."
+  },
+  {
+    "id": "e_004",
+    "category": "Federal Elections",
+    "difficulty": "medium",
+    "q": "When must federal elections be held?",
+    "opts": [
+      "The third Monday of October every four years, though the PM may call an early election",
+      "The first Monday of October every three years, on a fixed schedule",
+      "Every five years with no fixed day required under the Constitution",
+      "Whenever the Governor General dissolves Parliament at the Senate's formal request"
+    ],
+    "ans": 0,
+    "exp": "Under legislation passed by Parliament, federal elections must be held on the third Monday in October every four years following the most recent general election. The Prime Minister may ask the Governor General to call an earlier election."
+  },
+  {
+    "id": "e_005",
+    "category": "Federal Elections",
+    "difficulty": "easy",
+    "q": "What is the secret ballot?",
+    "opts": [
+      "A ballot mailed secretly and directly to registered voters before election day",
+      "The legally protected right to vote in private, with no one permitted to watch",
+      "A special ballot used only in Senate leadership elections",
+      "A ballot reserved exclusively for voters who require accessibility accommodations"
+    ],
+    "ans": 1,
+    "exp": "Canadian law secures the right to a secret ballot. This means that no one can watch you vote and no one should look at how you voted. No one, including family members, your employer or union representative, has the right to insist that you tell them how you voted."
+  },
+  {
+    "id": "e_006",
+    "category": "Federal Elections",
+    "difficulty": "medium",
+    "q": "What is a majority government?",
+    "opts": [
+      "When the party in power holds at least half the seats in the House of Commons",
+      "A government where the PM's party holds more than 50% of Senate seats",
+      "A government supported by more than 75% of all Canadian voters",
+      "A government formed by two parties working in coalition"
+    ],
+    "ans": 0,
+    "exp": "Ordinarily, after an election, the leader of the political party with the most seats in the House of Commons is invited by the Governor General to form the government. If the party in power holds at least half of the seats in the House of Commons, this is called a majority government. If the party in power holds less than half of the seats, this is called a minority government."
+  },
+  {
+    "id": "e_007",
+    "category": "Federal Elections",
+    "difficulty": "medium",
+    "q": "What is the Official Opposition?",
+    "opts": [
+      "A group of appointed senators whose role is to oppose government legislation",
+      "The largest opposition party in the House of Commons, known as Her Majesty's Loyal Opposition",
+      "A committee of independent MPs assigned to review and amend government bills",
+      "A body appointed by the Governor General to formally review Cabinet decisions"
+    ],
+    "ans": 1,
+    "exp": "The other parties that are not in power are known as opposition parties. The opposition party with the most members of the House of Commons is the Official Opposition or Her Majesty's Loyal Opposition. The role of opposition parties is to peacefully oppose or try to improve government proposals."
+  },
+  {
+    "id": "e_008",
+    "category": "Federal Elections",
+    "difficulty": "medium",
+    "q": "What is Elections Canada?",
+    "opts": [
+      "A federal department within the government that sets and manages election dates",
+      "An independent, neutral agency of Parliament that manages elections and maintains voters' lists",
+      "A regulatory body that reviews and approves the eligibility of election candidates",
+      "A parliamentary committee that oversees the counting of ballots after each election"
+    ],
+    "ans": 1,
+    "exp": "The voters' lists used during federal elections and referendums are produced from the National Register of Electors by a neutral agency of Parliament called Elections Canada. This is a permanent database of Canadian citizens 18 years of age or older who are qualified to vote."
+  },
+  {
+    "id": "e_009",
+    "category": "Federal Elections",
+    "difficulty": "easy",
+    "q": "How do you mark a ballot in a federal election?",
+    "opts": [
+      "Write the full legal name of your preferred candidate on the ballot",
+      "Place an X in the circle beside the name of your chosen candidate",
+      "Rank all candidates on the ballot from most to least preferred",
+      "Touch the screen on an electronic voting machine to select your candidate"
+    ],
+    "ans": 1,
+    "exp": "You mark your ballot by placing an 'X' in the circle next to the name of the candidate of your choice."
+  },
+  {
+    "id": "e_010",
+    "category": "Federal Elections",
+    "difficulty": "medium",
+    "q": "What are the three major political parties currently represented in the House of Commons according to the study guide?",
+    "opts": [
+      "The Liberal Party, the NDP, and the Green Party",
+      "The Conservative Party, the New Democratic Party, and the Liberal Party",
+      "The Liberal Party, the Bloc Québécois, and the Green Party",
+      "The Conservative Party, the Liberal Party, and the Bloc Québécois"
+    ],
+    "ans": 1,
+    "exp": "The study guide states there are three major political parties currently represented in the House of Commons: the Conservative Party, the New Democratic Party, and the Liberal Party."
+  },
+  {
+    "id": "e_011",
+    "category": "Federal Elections",
+    "difficulty": "medium",
+    "q": "What is an advance poll?",
+    "opts": [
+      "A public opinion poll that predicts the election result",
+      "An opportunity to vote before the official election day if needed",
+      "A special vote held exclusively for senior citizens",
+      "A backup vote held in case the main election is cancelled"
+    ],
+    "ans": 1,
+    "exp": "If you cannot or do not wish to vote on election day, you can vote at the advance polls or by special ballot. The dates and location are on your voter information card."
+  },
+  {
+    "id": "e_012",
+    "category": "Federal Elections",
+    "difficulty": "medium",
+    "q": "What happens if a majority of House of Commons members vote against a major government decision?",
+    "opts": [
+      "The Senate may override the House of Commons and reverse the decision",
+      "The government falls and the Prime Minister typically must call a new election",
+      "The Governor General immediately appoints a new Prime Minister from the opposition",
+      "The Supreme Court intervenes to resolve the resulting constitutional crisis"
+    ],
+    "ans": 1,
+    "exp": "If a majority of the members of the House of Commons vote against a major government decision such as the budget, the party in power is defeated, which usually results in the Prime Minister asking the Governor General, on behalf of the Sovereign, to call an election."
+  },
+  {
+    "id": "e_013",
+    "category": "Federal Elections",
+    "difficulty": "easy",
+    "q": "Who can run as a candidate in a federal election?",
+    "opts": [
+      "Only members of registered political parties",
+      "Canadian citizens who are 18 years old or older",
+      "Any permanent resident who has lived in Canada for 5 years",
+      "Only Canadian-born citizens aged 21 and over"
+    ],
+    "ans": 1,
+    "exp": "Canadian citizens who are 18 years old or older may run in a federal election. The people who run for office are called candidates. There can be many candidates in an electoral district."
+  },
+  {
+    "id": "e_014",
+    "category": "Federal Elections",
+    "difficulty": "medium",
+    "q": "What does the Cabinet do?",
+    "opts": [
+      "The Cabinet introduces all new legislation without prior approval from the House",
+      "The PM and Cabinet direct the government, prepare the budget, and propose new laws",
+      "The Cabinet controls Senate appointments and directly selects all federal court judges",
+      "The Cabinet is responsible for the daily administrative operations of Parliament"
+    ],
+    "ans": 1,
+    "exp": "The Prime Minister and the Cabinet ministers are called the Cabinet and they make important decisions about how the country is governed. They prepare the budget and propose most new laws. Their decisions can be questioned by all members of the House of Commons."
+  },
+  {
+    "id": "e_015",
+    "category": "Federal Elections",
+    "difficulty": "easy",
+    "q": "In Canada, are you obliged to tell other people how you voted?",
+    "opts": [
+      "Yes, you must disclose your vote to your employer if asked",
+      "Yes, you must publicly declare your vote if a court requests it",
+      "No — you may choose to share how you voted, but no one can demand you tell them",
+      "Yes, but only to immediate family members"
+    ],
+    "ans": 2,
+    "exp": "You may choose to discuss how you voted with others, but no one — including family members, your employer or union representative — has the right to insist that you tell them how you voted. The ballot is secret."
+  },
+  {
+    "id": "j_001",
+    "category": "The Justice System",
+    "difficulty": "easy",
+    "q": "What is the presumption of innocence in Canada?",
+    "opts": [
+      "All accused persons bear the burden of proving their own innocence in court",
+      "Every person charged with an offence is considered innocent until proven guilty in court",
+      "Police treat all suspects as guilty unless and until evidence proves otherwise",
+      "The presumption applies only to first-time offenders charged with minor offences"
+    ],
+    "ans": 1,
+    "exp": "The Canadian justice system guarantees everyone due process under the law. Our judicial system is founded on the presumption of innocence in criminal matters, meaning everyone is innocent until proven guilty."
+  },
+  {
+    "id": "j_002",
+    "category": "The Justice System",
+    "difficulty": "easy",
+    "q": "What is due process in Canada?",
+    "opts": [
+      "The specific steps that police must follow to make an arrest",
+      "The principle that the government must respect all legal rights a person is entitled to",
+      "The formal process of applying for Canadian citizenship",
+      "The time limit for bringing a criminal case to court"
+    ],
+    "ans": 1,
+    "exp": "Due process is the principle that the government must respect all the legal rights a person is entitled to under the law. Canada's legal system is based on a heritage that includes the rule of law, freedom under the law, democratic principles and due process."
+  },
+  {
+    "id": "j_003",
+    "category": "The Justice System",
+    "difficulty": "easy",
+    "q": "What is the Supreme Court of Canada?",
+    "opts": [
+      "A court that handles only criminal cases across Canada",
+      "Canada's highest court — the Federal Court deals with matters concerning the federal government",
+      "A court that only hears cases involving the federal government",
+      "The court that must approve all legislation passed by Parliament"
+    ],
+    "ans": 1,
+    "exp": "The Supreme Court of Canada is our country's highest court. The Federal Court of Canada deals with matters concerning the federal government. In most provinces there is an appeal court and a trial court, sometimes called the Court of Queen's Bench or the Supreme Court."
+  },
+  {
+    "id": "j_004",
+    "category": "The Justice System",
+    "difficulty": "medium",
+    "q": "What is the role of the police in Canada?",
+    "opts": [
+      "To create and enforce all laws across Canada at every level of government",
+      "To enforce federal laws exclusively, leaving provincial matters to other agencies",
+      "To keep people safe, enforce the law, and serve communities who may question their conduct",
+      "To serve the federal government only, with no duty to assist the public directly"
+    ],
+    "ans": 2,
+    "exp": "The police are there to keep people safe and to enforce the law. You can ask the police for help in all kinds of situations. You can also question the police about their service or conduct if you feel you need to. Almost all police forces in Canada have a process by which you can bring your concerns to the police and seek action."
+  },
+  {
+    "id": "j_005",
+    "category": "The Justice System",
+    "difficulty": "medium",
+    "q": "What are the different types of police in Canada?",
+    "opts": [
+      "Only the RCMP operates anywhere in Canada",
+      "Canada has only one national police force — the RCMP",
+      "Each province has its own separate federal police force",
+      "Ontario and Quebec have provincial police; the RCMP enforces federal laws and serves other provinces"
+    ],
+    "ans": 3,
+    "exp": "There are different types of police in Canada. There are provincial police forces in Ontario and Quebec and municipal police departments in all provinces. The Royal Canadian Mounted Police (RCMP) enforce federal laws throughout Canada, and serve as the provincial police in all provinces and territories except Ontario and Quebec, as well as in some municipalities."
+  },
+  {
+    "id": "j_006",
+    "category": "The Justice System",
+    "difficulty": "easy",
+    "q": "What are legal aid services in Canada?",
+    "opts": [
+      "Government prosecutors who represent the Crown in criminal trials",
+      "Free or subsidized legal services available in most communities for those who cannot afford a lawyer",
+      "A government fund used to finance police investigations and court proceedings",
+      "Legal services available only to Canadian citizens, not permanent residents or newcomers"
+    ],
+    "ans": 1,
+    "exp": "Lawyers can help you with legal problems and act for you in court. If you cannot pay for a lawyer, in most communities there are legal aid services available free of charge or at a low cost."
+  },
+  {
+    "id": "sym_001",
+    "category": "Canadian Symbols",
+    "difficulty": "easy",
+    "q": "When was the current Canadian flag first raised?",
+    "opts": [
+      "1921",
+      "1952",
+      "1965",
+      "1982"
+    ],
+    "ans": 2,
+    "exp": "A new Canadian flag was raised for the first time in 1965. The red-white-red pattern comes from the flag of the Royal Military College, Kingston, founded in 1876. Red and white had been colours of France and England since the Middle Ages and the national colours of Canada since 1921."
+  },
+  {
+    "id": "sym_002",
+    "category": "Canadian Symbols",
+    "difficulty": "easy",
+    "q": "When did Canada adopt red and white as its national colours?",
+    "opts": [
+      "1867",
+      "1900",
+      "1921",
+      "1965"
+    ],
+    "ans": 2,
+    "exp": "Red and white had been colours of France and England since the Middle Ages and the national colours of Canada since 1921."
+  },
+  {
+    "id": "sym_003",
+    "category": "Canadian Symbols",
+    "difficulty": "easy",
+    "q": "What is Canada's national motto and what does it mean?",
+    "opts": [
+      "'Peace, Order and Good Government' — meaning Canada is governed peacefully",
+      "'A mari usque ad mare' — Latin meaning 'from sea to sea'",
+      "'True North Strong and Free' — meaning Canada is a northern nation",
+      "'O Canada' — meaning our home and native land"
+    ],
+    "ans": 1,
+    "exp": "Canada adopted an official coat of arms and a national motto, A mari usque ad mare, which in Latin means 'from sea to sea.' The arms contain symbols of England, France, Scotland and Ireland as well as red maple leaves."
+  },
+  {
+    "id": "sym_004",
+    "category": "Canadian Symbols",
+    "difficulty": "easy",
+    "q": "What is Canada's national anthem and when was it proclaimed?",
+    "opts": [
+      "'God Save the King' — proclaimed in 1867",
+      "'O Canada' — proclaimed national anthem in 1980, first sung in Quebec City in 1880",
+      "'The Maple Leaf Forever' — proclaimed as the anthem in 1900",
+      "'True North' — proclaimed as national anthem in 1982"
+    ],
+    "ans": 1,
+    "exp": "O Canada was proclaimed as the national anthem in 1980. It was first sung in Quebec City in 1880. French and English Canadians sing different words to the national anthem."
+  },
+  {
+    "id": "sym_005",
+    "category": "Canadian Symbols",
+    "difficulty": "easy",
+    "q": "What is Canada's official summer sport?",
+    "opts": [
+      "Baseball",
+      "Soccer",
+      "Lacrosse",
+      "Football"
+    ],
+    "ans": 2,
+    "exp": "Lacrosse, an ancient sport first played by Aboriginals, is the official summer sport. Hockey is Canada's most popular spectator sport and is considered to be the national winter sport."
+  },
+  {
+    "id": "sym_006",
+    "category": "Canadian Symbols",
+    "difficulty": "easy",
+    "q": "What is Canada's national winter sport?",
+    "opts": [
+      "Curling",
+      "Skiing",
+      "Speed skating",
+      "Ice hockey"
+    ],
+    "ans": 3,
+    "exp": "Hockey is Canada's most popular spectator sport and is considered to be the national winter sport. Ice hockey was developed in Canada in the 1800s."
+  },
+  {
+    "id": "sym_007",
+    "category": "Canadian Symbols",
+    "difficulty": "medium",
+    "q": "What coin does the beaver appear on?",
+    "opts": [
+      "The penny (one-cent coin)",
+      "The nickel (five-cent coin)",
+      "The dime (ten-cent coin)",
+      "The quarter (twenty-five-cent coin)"
+    ],
+    "ans": 1,
+    "exp": "The industrious beaver can be seen on the five-cent coin, on the coats of arms of Saskatchewan and Alberta, and of cities such as Montreal and Toronto. The beaver was adopted centuries ago as a symbol of the Hudson's Bay Company."
+  },
+  {
+    "id": "sym_008",
+    "category": "Canadian Symbols",
+    "difficulty": "medium",
+    "q": "When was the Peace Tower completed and what does it contain?",
+    "opts": [
+      "Completed in 1867 to mark Confederation — contains the Senate chamber",
+      "Completed in 1927 in memory of WWI — the Memorial Chamber holds the Books of Remembrance",
+      "Completed in 1965 when the new Canadian flag was first raised",
+      "Completed in 1982 to mark the patriation of the Constitution"
+    ],
+    "ans": 1,
+    "exp": "The Peace Tower was completed in 1927 in memory of the First World War. The Memorial Chamber within the Tower contains the Books of Remembrance in which are written the names of soldiers, sailors and airmen who died serving Canada in wars or while on duty."
+  },
+  {
+    "id": "sym_009",
+    "category": "Canadian Symbols",
+    "difficulty": "medium",
+    "q": "What is the Order of Canada and when was it started?",
+    "opts": [
+      "Canada's highest military honour, started in 1945",
+      "Canada's own honours system started in 1967, the centennial of Confederation",
+      "A medal given to all new Canadian citizens since 1982",
+      "An award for outstanding athletes, started in 1971"
+    ],
+    "ans": 1,
+    "exp": "After using British honours for many years, Canada started its own honours system with the Order of Canada in 1967, the centennial of Confederation."
+  },
+  {
+    "id": "sym_010",
+    "category": "Canadian Symbols",
+    "difficulty": "hard",
+    "q": "What is the Victoria Cross?",
+    "opts": [
+      "Canada's medal for 25 years of service in the Armed Forces",
+      "The highest honour for Canadians — awarded for conspicuous bravery facing the enemy — 96 awarded since 1854",
+      "A medal given to all Canadian veterans of the Second World War",
+      "An honour awarded by the Governor General to outstanding civilians"
+    ],
+    "ans": 1,
+    "exp": "The Victoria Cross (V.C.) is the highest honour available to Canadians and is awarded for the most conspicuous bravery, a daring or pre-eminent act of valour or self-sacrifice, or extreme devotion to duty in the presence of the enemy. The V.C. has been awarded to 96 Canadians since 1854."
+  },
+  {
+    "id": "sym_011",
+    "category": "Canadian Symbols",
+    "difficulty": "easy",
+    "q": "What is the Royal Anthem of Canada?",
+    "opts": [
+      "O Canada",
+      "The Maple Leaf Forever",
+      "God Save the Queen (or King)",
+      "True North"
+    ],
+    "ans": 2,
+    "exp": "The Royal Anthem of Canada, 'God Save the Queen (or King),' can be played or sung on any occasion when Canadians wish to honour the Sovereign."
+  },
+  {
+    "id": "sym_012",
+    "category": "Canadian Symbols",
+    "difficulty": "medium",
+    "q": "What is Remembrance Day and when is it observed?",
+    "opts": [
+      "A national holiday on November 1 to honour all living Canadian veterans",
+      "Observed on November 11 — Canadians wear red poppies and observe silence at the 11th hour",
+      "A national holiday on the second Monday of November to celebrate world peace",
+      "Observed on June 6 each year to mark the anniversary of the D-Day landings"
+    ],
+    "ans": 1,
+    "exp": "Canadians remember the sacrifices of veterans and brave fallen each year on November 11: Remembrance Day. Canadians wear the red poppy and observe a moment of silence at the 11th hour of the 11th day of the 11th month to honour the sacrifices of over a million brave men and women who have served, and the 110,000 who have given their lives."
+  },
+  {
+    "id": "sym_013",
+    "category": "Canadian Symbols",
+    "difficulty": "easy",
+    "q": "What are Canada's national public holidays? When is Canada Day?",
+    "opts": [
+      "Canada Day is June 24",
+      "Canada Day is July 1",
+      "Canada Day is July 4",
+      "Canada Day is September 1"
+    ],
+    "ans": 1,
+    "exp": "Canada Day is July 1 — celebrating the birth of Canada on July 1, 1867. Other national public holidays include New Year's Day (January 1), Good Friday, Victoria Day (Monday preceding May 25), Labour Day (first Monday of September), Thanksgiving Day (second Monday of October), Remembrance Day (November 11), and Christmas Day (December 25)."
+  },
+  {
+    "id": "econ_001",
+    "category": "Canada's Economy",
+    "difficulty": "easy",
+    "q": "Canada has one of the world's largest economies — what group does it belong to?",
+    "opts": [
+      "The G5",
+      "The G7",
+      "The G8",
+      "The G20 only"
+    ],
+    "ans": 2,
+    "exp": "Today, Canada has one of the ten largest economies in the world and is part of the G8 group of leading industrialized countries with the United States, Germany, the United Kingdom, Italy, France, Japan and Russia."
+  },
+  {
+    "id": "econ_002",
+    "category": "Canada's Economy",
+    "difficulty": "medium",
+    "q": "What are the three main types of industries in Canada's economy?",
+    "opts": [
+      "Technology, manufacturing industries, and agriculture",
+      "Service industries, manufacturing industries, and natural resources industries",
+      "Energy, forestry, and commercial fishing industries",
+      "Banking, international trade, and tourism industries"
+    ],
+    "ans": 1,
+    "exp": "Canada's economy includes three main types of industries: service industries (transportation, education, health care, banking, etc.), manufacturing industries (paper, automobiles, aerospace, etc.), and natural resources industries (forestry, fishing, agriculture, mining and energy)."
+  },
+  {
+    "id": "econ_003",
+    "category": "Canada's Economy",
+    "difficulty": "medium",
+    "q": "What percentage of working Canadians have jobs in service industries?",
+    "opts": [
+      "About 50%",
+      "About 60%",
+      "More than 75%",
+      "About 90%"
+    ],
+    "ans": 2,
+    "exp": "Service industries provide thousands of different jobs in areas like transportation, education, health care, construction, banking, communications, retail services, tourism and government. More than 75% of working Canadians now have jobs in service industries."
+  },
+  {
+    "id": "econ_004",
+    "category": "Canada's Economy",
+    "difficulty": "easy",
+    "q": "Who is Canada's largest international trading partner?",
+    "opts": [
+      "China",
+      "The United Kingdom",
+      "The United States",
+      "Mexico"
+    ],
+    "ans": 2,
+    "exp": "Canada's largest international trading partner is the United States. Over three-quarters of Canadian exports are destined for the U.S.A. Canada and the U.S. have the biggest bilateral trading relationship in the world."
+  },
+  {
+    "id": "econ_005",
+    "category": "Canada's Economy",
+    "difficulty": "medium",
+    "q": "When did Canada enact free trade with the United States?",
+    "opts": [
+      "1982",
+      "1988",
+      "1994",
+      "2001"
+    ],
+    "ans": 1,
+    "exp": "In 1988, Canada enacted free trade with the United States. Mexico became a partner in 1994 in the broader North American Free Trade Agreement (NAFTA)."
+  },
+  {
+    "id": "reg_001",
+    "category": "Canada's Regions",
+    "difficulty": "easy",
+    "q": "How many provinces and territories does Canada have?",
+    "opts": [
+      "8 provinces and 2 territories",
+      "10 provinces and 3 territories",
+      "12 provinces and 1 territory",
+      "9 provinces and 4 territories"
+    ],
+    "ans": 1,
+    "exp": "Canada has ten provinces and three territories. Each province and territory has its own capital city."
+  },
+  {
+    "id": "reg_002",
+    "category": "Canada's Regions",
+    "difficulty": "easy",
+    "q": "What is Canada's population approximately?",
+    "opts": [
+      "About 25 million",
+      "About 30 million",
+      "About 34 million",
+      "About 40 million"
+    ],
+    "ans": 2,
+    "exp": "Canada has a population of about 34 million people. While the majority live in cities, Canadians also live in small towns, rural areas and everywhere in between."
+  },
+  {
+    "id": "reg_003",
+    "category": "Canada's Regions",
+    "difficulty": "easy",
+    "q": "Why was Ottawa chosen as Canada's capital and when?",
+    "opts": [
+      "Ottawa was chosen as the capital in 1857 by Queen Victoria",
+      "It was chosen in 1867 because it was the largest Canadian city",
+      "It was chosen in 1864 at the Charlottetown Conference",
+      "Parliament moved to Ottawa in 1871 after British Columbia joined"
+    ],
+    "ans": 0,
+    "exp": "Ottawa, located on the Ottawa River, was chosen as the capital in 1857 by Queen Victoria. Today it is Canada's fourth largest metropolitan area."
+  },
+  {
+    "id": "reg_004",
+    "category": "Canada's Regions",
+    "difficulty": "easy",
+    "q": "What are Canada's five regions?",
+    "opts": [
+      "North, South, East, West, and Central",
+      "The Atlantic Provinces, Central Canada, The Prairie Provinces, The West Coast, and The Northern Territories",
+      "Quebec, Ontario, the Prairies, British Columbia, and the Arctic",
+      "The Maritimes, Central Canada, the Rockies, the Pacific Coast, and the Territories"
+    ],
+    "ans": 1,
+    "exp": "Canada includes many different geographical areas and five distinct regions: The Atlantic Provinces, Central Canada, The Prairie Provinces, The West Coast, and The Northern Territories."
+  },
+  {
+    "id": "reg_005",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What are the Atlantic Provinces?",
+    "opts": [
+      "Ontario, Quebec, Nova Scotia, and New Brunswick",
+      "Newfoundland and Labrador, Prince Edward Island, Nova Scotia, and New Brunswick",
+      "Nova Scotia, New Brunswick, Quebec, and Prince Edward Island",
+      "New Brunswick, Nova Scotia, Prince Edward Island, and Manitoba"
+    ],
+    "ans": 1,
+    "exp": "The Atlantic Provinces are Newfoundland and Labrador, Prince Edward Island, Nova Scotia, and New Brunswick. Atlantic Canada's coasts and natural resources, including fishing, farming, forestry and mining, have made these provinces an important part of Canada's history and development."
+  },
+  {
+    "id": "reg_006",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What is Prince Edward Island known for?",
+    "opts": [
+      "Known for large-scale oil production and its thriving energy industry",
+      "Known for its technology sector and status as a major Canadian financial centre",
+      "Known for its large Indigenous population and vast northern wilderness landscape",
+      "The smallest province, known for red soil, beaches, farming, and as the birthplace of Confederation"
+    ],
+    "ans": 3,
+    "exp": "Prince Edward Island (P.E.I.) is the smallest province, known for its beaches, red soil and agriculture, especially potatoes. P.E.I. is the birthplace of Confederation, connected to mainland Canada by one of the longest continuous multispan bridges in the world, the Confederation Bridge. Anne of Green Gables, set in P.E.I. by Lucy Maud Montgomery, is a much-loved story."
+  },
+  {
+    "id": "reg_007",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What is Central Canada and what does it produce?",
+    "opts": [
+      "Manitoba and Saskatchewan — known for wheat and grain farming",
+      "Ontario and Quebec — half of all Canadians live here; produce three-quarters of all manufactured goods",
+      "Alberta and British Columbia — known for energy and forestry",
+      "Nova Scotia and New Brunswick — known for fishing and shipbuilding"
+    ],
+    "ans": 1,
+    "exp": "More than half the people in Canada live in cities and towns near the Great Lakes and the St. Lawrence River in southern Quebec and Ontario, known as Central Canada and the industrial and manufacturing heartland. Together, Ontario and Quebec produce more than three-quarters of all Canadian manufactured goods."
+  },
+  {
+    "id": "reg_008",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What are the Prairie Provinces and what are they known for?",
+    "opts": [
+      "British Columbia, Alberta, and Saskatchewan — known for mountains and offshore oil",
+      "Manitoba, Saskatchewan, and Alberta — known for vast farmland and major energy resources",
+      "Manitoba, Saskatchewan, and Ontario — known for grain farming and heavy manufacturing",
+      "Alberta, Saskatchewan, and the Northwest Territories — known for oil and gas extraction"
+    ],
+    "ans": 1,
+    "exp": "Manitoba, Saskatchewan and Alberta are the Prairie Provinces, rich in energy resources and some of the most fertile farmland in the world. The region is mostly dry, with cold winters and hot summers."
+  },
+  {
+    "id": "reg_009",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What is Saskatchewan's contribution to Canada's agriculture?",
+    "opts": [
+      "Canada's leading dairy-producing province, with the largest number of dairy farms",
+      "Home to 40% of Canada's farmland, leading in grains, oilseeds, uranium, and potash",
+      "Canada's largest producer of beef cattle and the top exporter of red meat",
+      "The top producer of Canadian fruit, wine grapes, and orchard crops"
+    ],
+    "ans": 1,
+    "exp": "Saskatchewan, once known as the 'breadbasket of the world' and the 'wheat province,' has 40% of the arable land in Canada and is the country's largest producer of grains and oilseeds. It also boasts the world's richest deposits of uranium and potash, used in fertilizer, and produces oil and natural gas."
+  },
+  {
+    "id": "reg_010",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What is the RCMP training academy located in and what city?",
+    "opts": [
+      "In Alberta — located in Calgary",
+      "In Ontario — located in Ottawa",
+      "In Saskatchewan — located in Regina, the provincial capital",
+      "In Manitoba — located in Winnipeg"
+    ],
+    "ans": 2,
+    "exp": "Regina, the capital of Saskatchewan, is home to the training academy of the Royal Canadian Mounted Police."
+  },
+  {
+    "id": "reg_011",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What is British Columbia known for?",
+    "opts": [
+      "Known for flat prairie landscapes and some of Canada's largest oil refineries",
+      "Known for mountains, Pacific coastline, and Vancouver's role as Canada's main trading port",
+      "Known for its French-speaking majority and distinct civil law legal tradition",
+      "Known for being the largest Canadian province by total land area"
+    ],
+    "ans": 1,
+    "exp": "British Columbia is known for its majestic mountains and as Canada's Pacific gateway. The Port of Vancouver, Canada's largest and busiest, handles billions of dollars in goods traded around the world. Warm airstreams from the Pacific Ocean give the B.C. coast a temperate climate."
+  },
+  {
+    "id": "reg_012",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What is Montreal known for?",
+    "opts": [
+      "The capital city of Quebec and seat of the provincial government",
+      "Canada's second-largest city and the world's second-largest French-speaking city after Paris",
+      "The city that houses Canada's federal Parliament and Supreme Court buildings",
+      "Canada's largest English-speaking city east of Toronto"
+    ],
+    "ans": 1,
+    "exp": "Montreal, Canada's second largest city and the second largest mainly French-speaking city in the world after Paris, is famous for its cultural diversity."
+  },
+  {
+    "id": "reg_013",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What is the largest freshwater lake in the world and where is it?",
+    "opts": [
+      "Lake Ontario — the smallest of the Great Lakes, bordering Ontario and New York",
+      "Lake Superior — the largest freshwater lake in the world, one of the five Great Lakes",
+      "Lake Huron — the second-largest Great Lake, located entirely within Ontario",
+      "Great Bear Lake — Canada's largest lake, located in the Northwest Territories"
+    ],
+    "ans": 1,
+    "exp": "There are five Great Lakes located between Ontario and the United States: Lake Ontario, Lake Erie, Lake Huron, Lake Michigan (in the U.S.A.) and Lake Superior, the largest freshwater lake in the world."
+  },
+  {
+    "id": "reg_014",
+    "category": "Canada's Regions",
+    "difficulty": "easy",
+    "q": "What does 'Nunavut' mean and when was it established?",
+    "opts": [
+      "'The Arctic land' in Inuktitut — established in 1982",
+      "'Our land' in Inuktitut — established in 1999, with a population about 85% Inuit",
+      "'Northern home' in Inuktitut — established in 1993",
+      "'Land of the midnight sun' in Inuktitut — established in 2000"
+    ],
+    "ans": 1,
+    "exp": "Nunavut, meaning 'our land' in Inuktitut, was established in 1999 from the eastern part of the Northwest Territories, including all of the former District of Keewatin. The capital is Iqaluit. The population is about 85% Inuit, and Inuktitut is an official language and the first language in schools."
+  },
+  {
+    "id": "reg_015",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What is Nova Scotia most known for?",
+    "opts": [
+      "Known for its oil sands reserves and status as a major energy-producing province",
+      "The most populous Atlantic province, known for the Bay of Fundy and Halifax's naval base",
+      "Known for its French-speaking majority and distinct Acadian cultural heritage",
+      "Known for being Canada's largest province by total geographic area"
+    ],
+    "ans": 1,
+    "exp": "Nova Scotia is the most populous Atlantic Province, with a rich history as the gateway to Canada. Known for the world's highest tides in the Bay of Fundy, the province's identity is linked to shipbuilding, fisheries and shipping. As Canada's largest east coast port, deep-water and ice-free, the capital, Halifax, has played an important role in Atlantic trade and defence and is home to Canada's largest naval base."
+  },
+  {
+    "id": "r2_001",
+    "category": "Rights & Responsibilities",
+    "difficulty": "medium",
+    "q": "What ancient document from 1215 established the tradition of ordered liberty that Canada inherited?",
+    "opts": [
+      "The Bill of Rights (1689)",
+      "The Magna Carta (Great Charter of Freedoms)",
+      "The Act of Settlement (1701)",
+      "The Declaration of Independence (1776)"
+    ],
+    "ans": 1,
+    "exp": "Canadian law secures an 800-year old tradition of ordered liberty, which dates back to the signing of Magna Carta in 1215 in England, also known as the Great Charter of Freedoms."
+  },
+  {
+    "id": "r2_002",
+    "category": "Rights & Responsibilities",
+    "difficulty": "easy",
+    "q": "What phrase begins the Canadian Charter of Rights and Freedoms?",
+    "opts": [
+      "'We the people of Canada affirm our common values and shared rights...'",
+      "'Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law'",
+      "'All Canadians are born equal and hold these inalienable rights and freedoms...'",
+      "'Canada is a free and democratic society that upholds liberty and justice for all...'"
+    ],
+    "ans": 1,
+    "exp": "The Canadian Charter of Rights and Freedoms begins with the words, 'Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law.' This phrase underlines the importance of religious traditions to Canadian society and the dignity and worth of the human person."
+  },
+  {
+    "id": "r2_003",
+    "category": "Rights & Responsibilities",
+    "difficulty": "medium",
+    "q": "What does the Canadian Charter say about multiculturalism?",
+    "opts": [
+      "Multiculturalism is a temporary policy subject to review every 10 years",
+      "Multiculturalism is a fundamental characteristic of Canadian heritage — Canadians celebrate diversity and live in harmony",
+      "Multiculturalism only applies to immigrants within their first 10 years",
+      "Multiculturalism requires all Canadians to learn a second language"
+    ],
+    "ans": 1,
+    "exp": "The Charter describes Multiculturalism as a fundamental characteristic of the Canadian heritage and identity. Canadians celebrate the gift of one another's presence and work hard to respect pluralism and live in harmony."
+  },
+  {
+    "id": "r2_004",
+    "category": "Rights & Responsibilities",
+    "difficulty": "medium",
+    "q": "What can young Canadians do to serve their country besides joining the regular Canadian Forces?",
+    "opts": [
+      "Nothing — serving in the regular Canadian Armed Forces is the only meaningful option",
+      "Serve in the part-time reserves, join the cadets, or volunteer in emergency services",
+      "Apply to serve as an elections officer for Elections Canada during federal elections",
+      "Join a provincial police force only after first obtaining full Canadian citizenship"
+    ],
+    "ans": 1,
+    "exp": "You can serve in your local part-time navy, militia and air reserves and gain valuable experience, skills and contacts. Young people can learn discipline, responsibility and skills by getting involved in the cadets. You may also serve in the Coast Guard or emergency services such as a police force or fire department."
+  },
+  {
+    "id": "w2_001",
+    "category": "Who We Are",
+    "difficulty": "medium",
+    "q": "What were the diverse Aboriginal groups and what were their ways of life when Europeans arrived?",
+    "opts": [
+      "All Aboriginal groups were nomadic hunters who followed buffalo herds across the Prairies",
+      "All Aboriginal peoples were coastal fishers who lived along the ocean shores",
+      "Huron-Wendat farmed; Cree and Dene gathered; Sioux followed bison; Inuit and West Coast peoples lived off wildlife",
+      "Aboriginal peoples lived only in the northern territories and the Prairies"
+    ],
+    "ans": 2,
+    "exp": "The native people lived off the land in diverse ways: the Huron-Wendat of the Great Lakes region, like the Iroquois, were farmers and hunters. The Cree and Dene of the Northwest were hunter-gatherers. The Sioux were nomadic, following the bison (buffalo) herd. The Inuit lived off Arctic wildlife. West Coast natives preserved fish by drying and smoking."
+  },
+  {
+    "id": "w2_002",
+    "category": "Who We Are",
+    "difficulty": "medium",
+    "q": "When were Aboriginal territorial rights first guaranteed and by whom?",
+    "opts": [
+      "At Confederation in 1867, through legislation introduced by Sir John A. Macdonald",
+      "Through the Royal Proclamation of 1763 by King George III, establishing the basis for treaty talks",
+      "In 1982 through Section 35 of the Constitution Act, which recognized Aboriginal rights",
+      "In 1971 through the federal Multiculturalism Act and subsequent treaty agreements"
+    ],
+    "ans": 1,
+    "exp": "Aboriginal and treaty rights are in the Canadian Constitution. Territorial rights were first guaranteed through the Royal Proclamation of 1763 by King George III, and established the basis for negotiating treaties with the newcomers — treaties that were not always fully respected."
+  },
+  {
+    "id": "w2_003",
+    "category": "Who We Are",
+    "difficulty": "hard",
+    "q": "What impact did the arrival of European traders, missionaries, soldiers and colonists have on Aboriginal peoples?",
+    "opts": [
+      "It had no significant or lasting impact on traditional Aboriginal ways of life",
+      "It changed Aboriginal life forever — disease caused great losses, but economic and cultural bonds also formed",
+      "It affected only Aboriginal communities living along the Atlantic and Pacific coastlines",
+      "It led to the immediate and total assimilation of all Aboriginal peoples within decades"
+    ],
+    "ans": 1,
+    "exp": "The arrival of European traders, missionaries, soldiers and colonists changed the native way of life forever. Large numbers of Aboriginals died of European diseases to which they lacked immunity. However, Aboriginals and Europeans formed strong economic, religious and military bonds in the first 200 years of coexistence which laid the foundations of Canada."
+  },
+  {
+    "id": "w2_004",
+    "category": "Who We Are",
+    "difficulty": "medium",
+    "q": "Who established the basic way of life in English-speaking areas of Canada?",
+    "opts": [
+      "American settlers who migrated north following the American Revolutionary War",
+      "Hundreds of thousands of English, Welsh, Scottish, and Irish settlers who arrived from the 1600s onward",
+      "Exclusively British military soldiers who were permanently posted to garrison duty in Canada",
+      "German and Dutch settlers who began arriving in large numbers during the 1800s"
+    ],
+    "ans": 1,
+    "exp": "The basic way of life in English-speaking areas was established by hundreds of thousands of English, Welsh, Scottish and Irish settlers, soldiers and migrants from the 1600s to the 20th century. Generations of pioneers and builders of British origins, as well as other groups, invested and endured hardship in laying the foundations of our country."
+  },
+  {
+    "id": "w2_005",
+    "category": "Who We Are",
+    "difficulty": "medium",
+    "q": "What are the largest ethnic groups in Canada?",
+    "opts": [
+      "English, French, German, Chinese, Italian, Ukrainian, and South Asian among many others",
+      "Only English and French communities, which together form the majority population",
+      "English, American, and Australian, reflecting Commonwealth cultural ties",
+      "Chinese, South Asian, and Filipino, reflecting recent immigration patterns"
+    ],
+    "ans": 0,
+    "exp": "Many ethnic and religious groups live and work in peace as proud Canadians. The largest groups are the English, French, Scottish, Irish, German, Italian, Chinese, Aboriginal, Ukrainian, Dutch, South Asian and Scandinavian. Since the 1970s, most immigrants have come from Asian countries."
+  },
+  {
+    "id": "w2_006",
+    "category": "Who We Are",
+    "difficulty": "medium",
+    "q": "What is the role of faith communities in Canadian society?",
+    "opts": [
+      "Religion has no role whatsoever in Canadian public life",
+      "Faith communities are prohibited from providing social services",
+      "Only Christian faith communities are formally recognized by the state",
+      "The state has traditionally partnered with faith communities to promote welfare, harmony, and religious freedom"
+    ],
+    "ans": 3,
+    "exp": "In Canada the state has traditionally partnered with faith communities to promote social welfare, harmony and mutual respect; to provide schools and health care; to resettle refugees; and to uphold religious freedom, religious expression and freedom of conscience."
+  },
+  {
+    "id": "w2_007",
+    "category": "Who We Are",
+    "difficulty": "easy",
+    "q": "What is the Vikings' connection to Canada?",
+    "opts": [
+      "Vikings were the first Europeans to formally claim and name Canada as a territory",
+      "Vikings from Iceland who settled Greenland also reached Labrador and Newfoundland around 1000 AD",
+      "Vikings established the first permanent European settlement in Canada, lasting several centuries",
+      "Vikings traded with Indigenous peoples along the coast but never permanently settled in Canada"
+    ],
+    "ans": 1,
+    "exp": "The Vikings from Iceland who colonized Greenland 1,000 years ago also reached Labrador and the island of Newfoundland. The remains of their settlement, l'Anse aux Meadows, are a World Heritage site."
+  },
+  {
+    "id": "h2_001",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What was the significance of the Hudson's Bay Company granted in 1670?",
+    "opts": [
+      "It financed and built the first transcontinental railway linking eastern and western Canada",
+      "It was the first elected legislative assembly established in British North America",
+      "King Charles II granted it exclusive trading rights over the vast Hudson Bay watershed in 1670",
+      "It was given full administrative control over all of the territory of New France"
+    ],
+    "ans": 2,
+    "exp": "In 1670, King Charles II of England granted the Hudson's Bay Company exclusive trading rights over the watershed draining into Hudson Bay. For the next 100 years the Company competed with Montreal-based traders. The skilled and courageous men who travelled by canoe were called voyageurs and coureurs des bois."
+  },
+  {
+    "id": "h2_002",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "Who were the voyageurs and coureurs des bois?",
+    "opts": [
+      "French soldiers who defended New France against British military attacks",
+      "Skilled traders and paddlers who canoed the fur trade routes and allied with First Nations",
+      "English settlers who built the first permanent roads and bridges in Upper Canada",
+      "Missionaries who travelled inland to convert Indigenous peoples to Christianity"
+    ],
+    "ans": 1,
+    "exp": "The skilled and courageous men who travelled by canoe in the fur trade were called voyageurs and coureurs des bois. They formed strong alliances with First Nations."
+  },
+  {
+    "id": "h2_003",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What did Jean Talon, Bishop Laval, and Count Frontenac build in New France?",
+    "opts": [
+      "The first universities and schools anywhere in North America",
+      "A French Empire in North America stretching from Hudson Bay to the Gulf of Mexico",
+      "The first permanent European settlements established along the Atlantic coast",
+      "The fur trading posts that eventually grew into modern Canadian cities"
+    ],
+    "ans": 1,
+    "exp": "Outstanding leaders like Jean Talon, Bishop Laval, and Count Frontenac built a French Empire in North America that reached from Hudson Bay to the Gulf of Mexico."
+  },
+  {
+    "id": "h2_004",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What did Count Frontenac famously say when asked to surrender Quebec to the English in 1690?",
+    "opts": [
+      "'Quebec shall never fall to the English!'",
+      "'My only reply will be from the mouths of my cannons!'",
+      "'France will never abandon her colony!'",
+      "'We shall fight to the very last man!'"
+    ],
+    "ans": 1,
+    "exp": "Count Frontenac refused to surrender Quebec to the English in 1690, saying: 'My only reply will be from the mouths of my cannons!'"
+  },
+  {
+    "id": "h2_005",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What was the Great Peace of Montreal of 1701?",
+    "opts": [
+      "A peace treaty between Canada and the United States",
+      "A peace agreement that brought together 40 First Nations to end conflicts",
+      "A trade agreement between New France and the British colonies",
+      "A religious agreement between Catholics and Protestants in Canada"
+    ],
+    "ans": 1,
+    "exp": "The Great Peace of Montreal of 1701 brought together 40 First Nations to end conflicts."
+  },
+  {
+    "id": "h2_006",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What was the Montreal Stock Exchange and when did it open?",
+    "opts": [
+      "Canada's first chartered bank, opened in 1792",
+      "The first financial institution in Canada, opened in 1832",
+      "A colonial trading post for the fur trade, opened in the 1700s",
+      "A government financial institution opened after Confederation"
+    ],
+    "ans": 1,
+    "exp": "The Montreal Stock Exchange opened in 1832. The first financial institutions opened in the late 18th and early 19th centuries."
+  },
+  {
+    "id": "h2_007",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "Who was Mary Ann Shadd Cary and what was her significance?",
+    "opts": [
+      "Canada's first female Prime Minister",
+      "An anti-slavery activist who in 1853 became the first woman publisher in Canada, co-founding The Provincial Freeman",
+      "The first woman elected to the House of Commons in 1921",
+      "A Famous Five member who fought for women to be recognized as persons"
+    ],
+    "ans": 1,
+    "exp": "Mary Ann Shadd Cary was an outspoken activist in the movement to abolish slavery in the U.S.A. In 1853 she became the first woman publisher in Canada, helping to found and edit The Provincial Freeman, a weekly newspaper dedicated to anti-slavery, black immigration to Canada, temperance and upholding British rule."
+  },
+  {
+    "id": "h2_008",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What was the Underground Railroad?",
+    "opts": [
+      "A secret tunnel system under Montreal used during the American Civil War",
+      "A Christian anti-slavery network through which thousands of slaves escaped the US and settled in Canada",
+      "A network of French settlers who helped Loyalists escape to Canada",
+      "A system for transporting mail and goods across Upper Canada"
+    ],
+    "ans": 1,
+    "exp": "Thousands of slaves escaped from the United States, followed 'the North Star' and settled in Canada via the Underground Railroad, a Christian anti-slavery network."
+  },
+  {
+    "id": "h2_009",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What happened to some Nova Scotians who were given poor land after coming to Canada as Loyalists?",
+    "opts": [
+      "They returned to the United States permanently",
+      "In 1792, some moved to establish Freetown, Sierra Leone — a new British colony for freed slaves",
+      "They moved to Upper Canada and settled near the Great Lakes",
+      "They petitioned the British government for better land in the West Indies"
+    ],
+    "ans": 1,
+    "exp": "In turn, in 1792, some Nova Scotians who were given poor land moved on to establish Freetown, Sierra Leone (West Africa), a new British colony for freed slaves."
+  },
+  {
+    "id": "h2_010",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What was the Rebellions of 1837–38?",
+    "opts": [
+      "A successful revolution that led to Canada's immediate independence from Britain",
+      "Armed uprisings in Upper and Lower Canada demanding faster democratic reform, defeated by British troops",
+      "A border war fought between Canada and the United States along the Niagara frontier",
+      "An Indigenous-led uprising against European settler expansion in the Prairie West"
+    ],
+    "ans": 1,
+    "exp": "In the 1830s, reformers in Upper and Lower Canada believed that progress toward full democracy was too slow. When armed rebellions occurred in 1837–38, the rebels did not have enough public support to succeed. They were defeated by British troops and Canadian volunteers. A number of rebels were hanged or exiled."
+  },
+  {
+    "id": "h2_011",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "Who was Lord Durham and what did he recommend after the 1837–38 rebellions?",
+    "opts": [
+      "A Canadian reformer who advocated for full independence from British rule",
+      "An English reformer who recommended merging the Canadas, granting responsible government, and French assimilation",
+      "The Governor General who personally commanded troops to suppress the 1837 rebellions",
+      "A British general who decisively defeated the rebel forces in both Upper and Lower Canada"
+    ],
+    "ans": 1,
+    "exp": "Lord Durham, an English reformer sent to report on the rebellions, recommended that Upper and Lower Canada be merged and given responsible government. Controversially, Lord Durham also said that the quickest way for the Canadiens to achieve progress was to assimilate into English-speaking Protestant culture — a recommendation that demonstrated a complete lack of understanding of French Canadians."
+  },
+  {
+    "id": "h2_012",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "Who was Sir Louis-Hippolyte La Fontaine?",
+    "opts": [
+      "Canada's very first Prime Minister, serving from Confederation until 1873",
+      "A champion of democracy and French rights who led responsible government in the Canadas in 1849",
+      "The principal Father of Confederation who represented Quebec at the 1864 conferences",
+      "The founder of the modern Bloc Québécois and Quebec sovereignty movement"
+    ],
+    "ans": 1,
+    "exp": "Sir Louis-Hippolyte La Fontaine was a champion of democracy and French language rights. He became the first leader of a responsible government (similar to a prime minister) in the Canadas in 1849."
+  },
+  {
+    "id": "h2_013",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What was Sir George-Étienne Cartier's role in Confederation?",
+    "opts": [
+      "The first Premier of Quebec, elected after Confederation in 1867",
+      "A key architect of Confederation from Quebec who helped bring western provinces into Canada",
+      "The co-founder of the Liberal Party of Canada alongside Sir Wilfrid Laurier",
+      "The chief Canadian negotiator of the 1763 Treaty of Paris with France"
+    ],
+    "ans": 1,
+    "exp": "Sir George-Étienne Cartier was the key architect of Confederation from Quebec. A railway lawyer, Montrealer, close ally of Macdonald and patriotic Canadien, Cartier led Quebec into Confederation and helped negotiate the entry of the Northwest Territories, Manitoba and British Columbia into Canada."
+  },
+  {
+    "id": "h2_014",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "Whose portrait is on the Canadian $10 bill?",
+    "opts": [
+      "Sir Wilfrid Laurier",
+      "Sir Robert Borden",
+      "Sir John A. Macdonald",
+      "Sir Georges-Étienne Cartier"
+    ],
+    "ans": 2,
+    "exp": "Sir John A. Macdonald's portrait is on the $10 bill. Parliament has recognized January 11 as Sir John A. Macdonald Day."
+  },
+  {
+    "id": "h2_015",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "Whose portrait is on the Canadian $5 bill?",
+    "opts": [
+      "Sir John A. Macdonald",
+      "Sir Wilfrid Laurier",
+      "Sir Robert Borden",
+      "Louis Riel"
+    ],
+    "ans": 1,
+    "exp": "Sir Wilfrid Laurier's portrait is on the $5 bill. He was the first French-Canadian prime minister since Confederation and encouraged immigration to the West."
+  },
+  {
+    "id": "h2_016",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What was the North West Mounted Police (NWMP) established to do?",
+    "opts": [
+      "To protect the Canadian Pacific Railway from sabotage during construction in the West",
+      "Established in 1873 to bring order to the West and assist in treaty negotiations with Indigenous peoples",
+      "To enforce the Chinese Head Tax once the CPR was fully completed in 1885",
+      "To patrol and secure the Canada-United States border established after the War of 1812"
+    ],
+    "ans": 1,
+    "exp": "Prime Minister Macdonald established the North West Mounted Police (NWMP) in 1873 to pacify the West and assist in negotiations with the Indians. The NWMP founded Fort Calgary, Fort MacLeod and other centres that today are cities and towns. Regina became its headquarters."
+  },
+  {
+    "id": "h2_017",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "Who was Major-General Sir Sam Steele?",
+    "opts": [
+      "The first Chief Justice of the Supreme Court of Canada after Confederation",
+      "One of Canada's most celebrated frontier heroes — a distinguished Mounted Policeman and soldier",
+      "The general who commanded all Canadian forces during the Battle of Vimy Ridge",
+      "The founding commander of the Royal Canadian Air Force in the 1920s"
+    ],
+    "ans": 1,
+    "exp": "Some of Canada's most colourful heroes, such as Major-General Sir Sam Steele, came from the ranks of the Mounties. He is described as a great frontier hero, Mounted Policeman and soldier of the Queen."
+  },
+  {
+    "id": "h2_018",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "Who was Joseph Brant and what did he do?",
+    "opts": [
+      "A French-Canadian general who fought at Vimy Ridge",
+      "Joseph Brant led thousands of Loyalist Mohawk Indians into Canada during the American Revolution",
+      "A Métis leader who led the Red River Resistance against Ottawa",
+      "The first Indigenous member elected to the Canadian Parliament"
+    ],
+    "ans": 1,
+    "exp": "Joseph Brant led thousands of Loyalist Mohawk Indians into Canada. The Loyalists came from Dutch, German, British, Scandinavian, Aboriginal and other origins and from Presbyterian, Anglican, Baptist, Methodist, Jewish, Quaker and Catholic religious backgrounds."
+  },
+  {
+    "id": "h2_019",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What was Donald Smith's (Lord Strathcona's) role in completing the CPR?",
+    "opts": [
+      "He was the engineer who designed the entire railway route",
+      "The Scottish-born CPR director who drove the last spike on November 7, 1885",
+      "He was the Prime Minister who authorized and funded the CPR",
+      "He led the Chinese workers on the most difficult mountain section"
+    ],
+    "ans": 1,
+    "exp": "On November 7, 1885, a powerful symbol of unity was completed when Donald Smith (Lord Strathcona), the Scottish-born director of the Canadian Pacific Railway (CPR), drove the last spike."
+  },
+  {
+    "id": "h2_020",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "How many Ukrainians, Poles and other immigrants settled in the West before 1914 thanks to the railway?",
+    "opts": [
+      "About 50,000 Ukrainians and 30,000 Poles settled in Western Canada before 1914",
+      "170,000 Ukrainians, 115,000 Poles, and tens of thousands from Germany, Norway, and Sweden",
+      "Approximately 500,000 immigrants from all European countries combined before 1914",
+      "Around 100,000 Ukrainians and 50,000 Poles settled in the Prairie West before 1914"
+    ],
+    "ans": 1,
+    "exp": "The railway made it possible for immigrants, including 170,000 Ukrainians, 115,000 Poles and tens of thousands from Germany, France, Norway and Sweden to settle in the West before 1914 and develop a thriving agricultural sector."
+  },
+  {
+    "id": "h2_021",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What happened to Austro-Hungarian subjects in Canada during World War I?",
+    "opts": [
+      "They were welcomed as valued allies in Canada's effort against the German Empire",
+      "Over 8,000 Austro-Hungarian subjects were interned as 'enemy aliens' in 24 labour camps",
+      "They were promptly deported back to Austria-Hungary at the start of the war",
+      "They were conscripted directly into the Canadian military to serve on the Western Front"
+    ],
+    "ans": 1,
+    "exp": "Regrettably, from 1914 to 1920, Ottawa interned over 8,000 former Austro-Hungarian subjects, mainly Ukrainian men, as 'enemy aliens' in 24 labour camps across Canada, even though Britain advised against the policy."
+  },
+  {
+    "id": "h2_022",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "Who was General Sir Arthur Currie?",
+    "opts": [
+      "Canada's first Minister of National Defence, appointed after the First World War",
+      "A reserve officer who became Canada's greatest WWI commander, leading key victories in the last hundred days",
+      "The general who personally commanded the Canadian assault brigades on D-Day",
+      "The founding commander of the Royal Canadian Air Force established in the 1920s"
+    ],
+    "ans": 1,
+    "exp": "In 1918, under the command of General Sir Arthur Currie, Canada's greatest soldier, the Canadian Corps advanced alongside the French and British Empire troops in the last hundred days. These included the victorious Battle of Amiens on August 8, 1918 — which the Germans called 'the black day of the German Army' — followed by Arras, Canal du Nord, Cambrai and Mons."
+  },
+  {
+    "id": "h2_023",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What poem is often recited on Remembrance Day and who wrote it?",
+    "opts": [
+      "'The Maple Leaf Forever' — written by Alexander Muir",
+      "'In Flanders Fields' — written by Canadian Lieutenant-Colonel John McCrae in 1915",
+      "'O Canada' — composed by Calixa Lavallée",
+      "'The Soldier' — written by British poet Rupert Brooke"
+    ],
+    "ans": 1,
+    "exp": "Canadian medical officer Lieutenant-Colonel John McCrae composed the poem 'In Flanders Fields' in 1915; it is often recited on Remembrance Day."
+  },
+  {
+    "id": "h2_024",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What was the 'Roaring Twenties' and what followed?",
+    "opts": [
+      "A period of wartime hardship followed by economic recovery and renewed prosperity",
+      "Boom times with high employment and prosperity, followed by the 1929 crash and the Great Depression",
+      "A cultural revolution in Quebec followed by a push for French-Canadian independence",
+      "A wave of mass immigration followed by new federal restrictions on new arrivals"
+    ],
+    "ans": 1,
+    "exp": "The 'Roaring Twenties' were boom times, with prosperity for businesses and low unemployment. The stock market crash of 1929, however, led to the Great Depression or the 'Dirty Thirties.' Unemployment reached 27% in 1933 and many businesses were wiped out. Farmers in Western Canada were hit hardest by low grain prices and a terrible drought."
+  },
+  {
+    "id": "h2_025",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "When was the Bank of Canada created and what is its purpose?",
+    "opts": [
+      "Created in 1867 at Confederation to finance the newly formed Canadian government",
+      "Created in 1934 as Canada's central bank to manage the money supply and stabilize finance",
+      "Created in 1945 to rebuild the Canadian economy after the Second World War",
+      "Created in 1982 when the Constitution was patriated from the British Parliament"
+    ],
+    "ans": 1,
+    "exp": "The Bank of Canada, a central bank to manage the money supply and bring stability to the financial system, was created in 1934."
+  },
+  {
+    "id": "h2_026",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What was the Royal Canadian Air Force's contribution in World War II?",
+    "opts": [
+      "It flew all of the D-Day air support missions exclusively over Normandy",
+      "It served exclusively in the Pacific theatre fighting Japanese forces until 1945",
+      "It fought in the Battle of Britain and led Commonwealth nations in Allied air power",
+      "It was formed specifically to bomb German oil refineries in occupied Europe"
+    ],
+    "ans": 2,
+    "exp": "The Royal Canadian Air Force (RCAF) took part in the Battle of Britain and provided a high proportion of Commonwealth aircrew in bombers and fighter planes over Europe. Canada contributed more to the Allied air effort than any other Commonwealth country, with over 130,000 Allied air crew trained in Canada under the British Commonwealth Air Training Plan."
+  },
+  {
+    "id": "h2_027",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What was the Battle of Amiens (August 8, 1918) known as?",
+    "opts": [
+      "'The greatest single Canadian military victory of the entire First World War'",
+      "'The black day of the German Army' — a decisive victory led by the Canadian Corps",
+      "'The turning point of the entire Western Front and the beginning of the end'",
+      "'The day Canada proved its military worth to the British Empire'"
+    ],
+    "ans": 1,
+    "exp": "The victorious Battle of Amiens on August 8, 1918 — which the Germans called 'the black day of the German Army' — was one of the key victories in the last hundred days of WWI led by the Canadian Corps under General Sir Arthur Currie."
+  },
+  {
+    "id": "h2_028",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What was the women's suffrage movement in Canada?",
+    "opts": [
+      "A movement for women's equal pay in the workplace, active mainly in the 1960s",
+      "The effort to win women the right to vote, founded by Dr. Emily Stowe; Manitoba was first in 1916",
+      "A movement for women's labour rights and workplace safety, prominent in the 1950s",
+      "A campaign founded by Agnes Macphail to elect more women to Parliament"
+    ],
+    "ans": 1,
+    "exp": "The effort by women to achieve the right to vote is known as the women's suffrage movement. Its founder in Canada was Dr. Emily Stowe, the first Canadian woman to practise medicine in Canada. In 1916, Manitoba became the first province to grant voting rights to women."
+  },
+  {
+    "id": "h2_029",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "When did Quebec grant women the vote?",
+    "opts": [
+      "1918",
+      "1921",
+      "1930",
+      "1940"
+    ],
+    "ans": 3,
+    "exp": "Due to the work of Thérèse Casgrain and others, Quebec granted women the vote in 1940 — the last province to do so."
+  },
+  {
+    "id": "h2_030",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What was the Battle of Hong Kong (1941) and Dieppe (1942)?",
+    "opts": [
+      "Two successful Canadian operations — one in Asia and one in Europe",
+      "Two battles where Canada defeated Japan and Germany respectively",
+      "Two peacekeeping operations that Canada led in Asia and Europe",
+      "Brave but unsuccessful Canadian operations — failed defence of Hong Kong and a failed raid on Dieppe"
+    ],
+    "ans": 3,
+    "exp": "The Canadians fought bravely and suffered losses in the unsuccessful defence of Hong Kong (1941) from attack by Imperial Japan, and in a failed raid on Nazi-controlled Dieppe on the coast of France (1942)."
+  },
+  {
+    "id": "h2_031",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What happened at the end of WWII in the Pacific?",
+    "opts": [
+      "Canada signed a formal peace treaty with Japan in Ottawa following the surrender",
+      "Canadian forces participated in the liberation of the Philippines from Japanese occupation",
+      "Canada assisted the United States in dropping atomic bombs on Japanese cities",
+      "Japan attacked Canadian territory and mistreated POWs; Japan surrendered on August 14, 1945"
+    ],
+    "ans": 3,
+    "exp": "In the Pacific war, Japan invaded the Aleutian Islands, attacked a lighthouse on Vancouver Island, launched fire balloons over B.C. and the Prairies, and grossly maltreated Canadian prisoners of war captured at Hong Kong. Japan surrendered on August 14, 1945 — the end of four years of war in the Pacific."
+  },
+  {
+    "id": "h2_032",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What was the British Commonwealth Air Training Plan?",
+    "opts": [
+      "A Commonwealth plan to train Canadian pilots at Royal Air Force bases in Britain",
+      "Over 130,000 Allied aircrew trained in Canada, making it the top Commonwealth air training contributor",
+      "A post-war program to train commercial pilots for the expanding aviation industry",
+      "A Commonwealth agreement to share aircraft manufacturing equally between member nations"
+    ],
+    "ans": 1,
+    "exp": "Canada contributed more to the Allied air effort than any other Commonwealth country, with over 130,000 Allied air crew trained in Canada under the British Commonwealth Air Training Plan."
+  },
+  {
+    "id": "h2_033",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "Who was Alexander Graham Bell and what is his Canadian connection?",
+    "opts": [
+      "A Canadian inventor who created the telephone in his Ottawa laboratory",
+      "He conceived the idea of the telephone at his summer house in Canada",
+      "A British scientist who first demonstrated the telephone in Canada",
+      "A Canadian who commercialized the telephone after Bell invented it"
+    ],
+    "ans": 1,
+    "exp": "Alexander Graham Bell hit on the idea of the telephone at his summer house in Canada."
+  },
+  {
+    "id": "h2_034",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What did Matthew Evans and Henry Woodward invent?",
+    "opts": [
+      "The radio transmitter, later developed commercially by Guglielmo Marconi",
+      "The first electric light bulb, a patent later sold to Thomas Edison for commercialization",
+      "The telephone, a patent held by Alexander Graham Bell of Brantford, Ontario",
+      "The snowmobile, a winter vehicle patented by Joseph-Armand Bombardier of Quebec"
+    ],
+    "ans": 1,
+    "exp": "Matthew Evans and Henry Woodward together invented the first electric light bulb and later sold the patent to Thomas Edison who, more famously, commercialized the light bulb."
+  },
+  {
+    "id": "h2_035",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What did Reginald Fessenden contribute?",
+    "opts": [
+      "He invented the snowmobile for use in the remote Canadian winter landscape",
+      "He pioneered radio technology and sent the first wireless voice transmission in history",
+      "He invented the cardiac pacemaker used to regulate irregular heartbeats",
+      "He designed the Canadarm robotic arm used aboard the Space Shuttle"
+    ],
+    "ans": 1,
+    "exp": "Reginald Fessenden contributed to the invention of radio, sending the first wireless voice message in the world."
+  },
+  {
+    "id": "h2_036",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "Who was Dr. Wilder Penfield and what was he known as?",
+    "opts": [
+      "The Canadian inventor of the cardiac pacemaker, developed in Toronto",
+      "A pioneering brain surgeon at McGill University, called 'the greatest living Canadian'",
+      "The Montreal scientist who co-discovered insulin with Charles Best",
+      "The Halifax-born founder of the Canadian Space Agency"
+    ],
+    "ans": 1,
+    "exp": "Dr. Wilder Penfield was a pioneering brain surgeon at McGill University in Montreal, and was known as 'the greatest living Canadian.'"
+  },
+  {
+    "id": "h2_037",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "Who invented the Canadarm?",
+    "opts": [
+      "Developed entirely by the National Research Council with federal funding",
+      "Built by SPAR Aerospace and the National Research Council for use in outer space",
+      "Designed by NASA engineers in partnership with the Canadian federal government",
+      "Created by the Canadian Space Agency, which was established in 1989"
+    ],
+    "ans": 1,
+    "exp": "SPAR Aerospace and the National Research Council invented the Canadarm, a robotic arm used in outer space."
+  },
+  {
+    "id": "h2_038",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "Who were Mike Lazaridis and Jim Balsillie?",
+    "opts": [
+      "The founders of the Canadian Space Agency",
+      "Of Research in Motion (RIM) — the wireless company known for inventing the BlackBerry",
+      "The inventors of the snowmobile and standard time zones respectively",
+      "Canadian Nobel Prize-winning scientists in chemistry"
+    ],
+    "ans": 1,
+    "exp": "Mike Lazaridis and Jim Balsillie of Research in Motion (RIM) — a wireless communications company known for its most famous invention: the BlackBerry."
+  },
+  {
+    "id": "h2_039",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "Who were the Canadian Nobel Prize-winning scientists mentioned in the guide?",
+    "opts": [
+      "Frederick Banting, Charles Best, Alexander Fleming, and Wilder Penfield",
+      "Gerhard Herzberg, John Polanyi, Sidney Altman, Richard Taylor, Michael Smith, and Bertram Brockhouse",
+      "Only Frederick Banting, awarded the prize for the discovery of insulin in 1923",
+      "Marshall McLuhan, Harold Innis, and Northrop Frye for contributions to communications theory"
+    ],
+    "ans": 1,
+    "exp": "Gerhard Herzberg (a refugee from Nazi Germany), John Polanyi, Sidney Altman, Richard E. Taylor, Michael Smith and Bertram Brockhouse were Nobel Prize-winning scientists mentioned in the guide."
+  },
+  {
+    "id": "h2_040",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What was Paul Henderson's famous achievement in 1972?",
+    "opts": [
+      "He won Canada's first Olympic gold medal in ice hockey at the 1972 Winter Games",
+      "He scored the winning goal in the 1972 Canada-Soviet Summit Series, called 'the goal heard around the world'",
+      "He became the first Canadian captain to lead his team to a Stanley Cup victory",
+      "He set a new world record for goals scored in a single NHL regular season"
+    ],
+    "ans": 1,
+    "exp": "In 1972, Paul Henderson scored the winning goal for Canada in the Canada-Soviet Summit Series. This goal is often referred to as 'the goal heard around the world' and is still remembered today as an important event in both sports and cultural history."
+  },
+  {
+    "id": "h2_041",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "What did Donovan Bailey achieve at the 1996 Olympics?",
+    "opts": [
+      "He won a gold medal in ice hockey at the 1996 Atlanta Summer Olympics",
+      "He won double Olympic gold and set a world record in the 100m sprint at the 1996 Atlanta Games",
+      "He won gold in swimming and set a new world record at the 1996 Olympics",
+      "He became Canada's first gold medallist at the Paralympic Summer Games"
+    ],
+    "ans": 1,
+    "exp": "In 1996 at the Olympic Summer Games, Donovan Bailey became a world record sprinter and double Olympic gold medallist."
+  },
+  {
+    "id": "h2_042",
+    "category": "Canada's History",
+    "difficulty": "medium",
+    "q": "Who is Chantal Petitclerc?",
+    "opts": [
+      "Canada's first female Olympic gold medallist",
+      "A world champion wheelchair racer and Paralympic gold medalist",
+      "A Canadian figure skater who won multiple world championships",
+      "A Canadian marathon runner who competed in the Olympics"
+    ],
+    "ans": 1,
+    "exp": "Chantal Petitclerc became a world champion wheelchair racer and Paralympic gold medalist."
+  },
+  {
+    "id": "h2_043",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "What was the first Victoria Cross awarded to a Canadian and who received it?",
+    "opts": [
+      "Lieutenant Billy Bishop, awarded the V.C. for aerial combat during the First World War",
+      "Lieutenant Alexander Roberts Dunn of Toronto, awarded the V.C. for the Charge of the Light Brigade in 1854",
+      "Corporal Filip Konowal, awarded the V.C. for destroying enemy machine gun positions in WWI",
+      "Able Seaman William Hall, awarded the V.C. for his actions during the Indian Rebellion"
+    ],
+    "ans": 1,
+    "exp": "Then Lieutenant Alexander Roberts Dunn, born in present-day Toronto, served in the British Army in the Charge of the Light Brigade at Balaclava (1854) in the Crimean War, and was the first Canadian to be awarded the Victoria Cross."
+  },
+  {
+    "id": "h2_044",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "Who was the first black person to be awarded the Victoria Cross?",
+    "opts": [
+      "Colonel Alexander Roberts Dunn, decorated for service during the Crimean War",
+      "Able Seaman William Hall of Nova Scotia, whose parents were escaped slaves, awarded the V.C. in 1857",
+      "Corporal Filip Konowal, awarded the V.C. for bravery in the First World War",
+      "Captain Paul Triquet, awarded the V.C. for gallantry during the Second World War"
+    ],
+    "ans": 1,
+    "exp": "Able Seaman William Hall of Horton, Nova Scotia, whose parents were American slaves, was the first black man to be awarded the V.C. for his role in the Siege of Lucknow during the Indian Rebellion of 1857."
+  },
+  {
+    "id": "h2_045",
+    "category": "Canada's History",
+    "difficulty": "hard",
+    "q": "Who was the last Canadian to receive the Victoria Cross?",
+    "opts": [
+      "Captain Paul Triquet, awarded the V.C. for actions in Italy during the Second World War",
+      "Lieutenant Robert Hampton Gray, a naval pilot from B.C., killed bombing a Japanese warship in August 1945",
+      "Flying ace Captain Billy Bishop, awarded the V.C. for aerial combat in WWI",
+      "Corporal Filip Konowal, awarded the V.C. for destroying enemy positions in WWI"
+    ],
+    "ans": 1,
+    "exp": "Lieutenant Robert Hampton Gray, a navy pilot born in Trail, B.C., was killed while bombing and sinking a Japanese warship in August 1945, a few days before the end of the Second World War, and was the last Canadian to receive the V.C. to date."
+  },
+  {
+    "id": "m2_001",
+    "category": "Modern Canada",
+    "difficulty": "hard",
+    "q": "Who were the Nobel Prize-winning scientists mentioned in the study guide?",
+    "opts": [
+      "Only Frederick Banting, awarded the Nobel Prize for the discovery of insulin",
+      "Herzberg, Polanyi, Altman, Taylor, Smith, and Brockhouse — six Canadian Nobel Prize winners in science",
+      "Marshall McLuhan, Harold Innis, and Northrop Frye for contributions to communications theory",
+      "Emily Carr, Tom Thomson, and members of the Group of Seven for contributions to art"
+    ],
+    "ans": 1,
+    "exp": "Gerhard Herzberg, a refugee from Nazi Germany, John Polanyi, Sidney Altman, Richard E. Taylor, Michael Smith and Bertram Brockhouse were Nobel Prize-winning scientists mentioned in the guide."
+  },
+  {
+    "id": "m2_002",
+    "category": "Modern Canada",
+    "difficulty": "medium",
+    "q": "Who were Marshall McLuhan and Harold Innis?",
+    "opts": [
+      "Canadian prime ministers who shaped modern Canada",
+      "Pioneer thinkers in the field of communications and technology",
+      "Canadian artists who founded the Group of Seven",
+      "Founders of the Canadian Space Agency"
+    ],
+    "ans": 1,
+    "exp": "Marshall McLuhan and Harold Innis were pioneer thinkers in the field of communications and media, mentioned in the guide as examples of Canadian advances in science and technology."
+  },
+  {
+    "id": "m2_003",
+    "category": "Modern Canada",
+    "difficulty": "hard",
+    "q": "Which Canadian athlete was a prominent activist for gay and lesbian Canadians?",
+    "opts": [
+      "Donovan Bailey",
+      "Mark Tewksbury, Olympic gold medallist",
+      "Chantal Petitclerc",
+      "Catriona Le May Doan"
+    ],
+    "ans": 1,
+    "exp": "Mark Tewksbury, Olympic gold medallist, is mentioned in the guide as a prominent activist for gay and lesbian Canadians."
+  },
+  {
+    "id": "m2_004",
+    "category": "Modern Canada",
+    "difficulty": "medium",
+    "q": "What is the Grey Cup?",
+    "opts": [
+      "The championship trophy for the National Hockey League",
+      "The championship trophy for the Canadian Football League (CFL), donated by Lord Grey in 1909",
+      "An Olympic medal awarded to outstanding Canadian athletes",
+      "An award given by the Governor General for excellence in arts"
+    ],
+    "ans": 1,
+    "exp": "Canadian football is a popular game that differs in a number of ways from American football. Professional teams in the Canadian Football League (CFL) compete for the championship Grey Cup, donated by Lord Grey, the Governor General, in 1909."
+  },
+  {
+    "id": "m2_005",
+    "category": "Modern Canada",
+    "difficulty": "hard",
+    "q": "What refugees did Canada welcome after World War II?",
+    "opts": [
+      "Only British war brides and their children, who arrived after the Allied victory",
+      "Thousands fleeing Communist oppression — 37,000 Hungarians in 1956 and over 50,000 Vietnamese after 1975",
+      "Only refugees from Western European nations displaced by wartime bombing and destruction",
+      "Exclusively Asian refugees — no European refugees were accepted in this period"
+    ],
+    "ans": 1,
+    "exp": "Canada welcomed thousands of refugees from Communist oppression, including about 37,000 who escaped Soviet tyranny in Hungary in 1956. With the Communist victory in the Vietnam War in 1975, many Vietnamese fled, including over 50,000 who sought refuge in Canada."
+  },
+  {
+    "id": "m2_006",
+    "category": "Modern Canada",
+    "difficulty": "hard",
+    "q": "What is the significance of Les Automatistes of Quebec?",
+    "opts": [
+      "A group of Quebec engineers who modernized the province's infrastructure",
+      "Pioneers of modern abstract art in the 1950s, most notably Jean-Paul Riopelle",
+      "A group of Quebec writers who fought for French language rights",
+      "The first Quebec separatist political movement in Canada"
+    ],
+    "ans": 1,
+    "exp": "Les Automatistes of Quebec were pioneers of modern abstract art in the 1950s, most notably Jean-Paul Riopelle."
+  },
+  {
+    "id": "m2_007",
+    "category": "Modern Canada",
+    "difficulty": "hard",
+    "q": "Who was Kenojuak Ashevak?",
+    "opts": [
+      "A First Nations artist from British Columbia famous for totem poles",
+      "A pioneer of modern Inuit art with etchings, prints and soapstone sculptures",
+      "A Métis artist who documented the Red River Resistance",
+      "A Quebec sculptor known for historical figure carvings"
+    ],
+    "ans": 1,
+    "exp": "Kenojuak Ashevak pioneered modern Inuit art with etchings, prints and soapstone sculptures."
+  },
+  {
+    "id": "m2_008",
+    "category": "Modern Canada",
+    "difficulty": "hard",
+    "q": "What was the Cold War and how did Canada respond?",
+    "opts": [
+      "A trade war with the Soviet Union in the 1970s",
+      "A diplomatic dispute over Arctic sovereignty with the US",
+      "When eastern Europe became Communist, Canada joined NATO and NORAD with other western democracies",
+      "A period of competition between Quebec and English Canada"
+    ],
+    "ans": 2,
+    "exp": "The Cold War began when several liberated countries of eastern Europe became part of a Communist bloc controlled by the Soviet Union under the dictator Josef Stalin. Canada joined with other democratic countries of the West to form the North Atlantic Treaty Organization (NATO), a military alliance, and with the United States in the North American Aerospace Defence Command (NORAD)."
+  },
+  {
+    "id": "g2_001",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "hard",
+    "q": "What does the Sovereign's role as Head of the Commonwealth link Canada to?",
+    "opts": [
+      "Only other current and former members of the British Empire",
+      "53 other nations linked through the Commonwealth for cooperation on shared global goals",
+      "Only English-speaking nations that share Canada's legal and parliamentary traditions",
+      "Only European constitutional monarchies that recognize the same sovereign"
+    ],
+    "ans": 1,
+    "exp": "As Head of the Commonwealth, the Sovereign links Canada to 53 other nations that cooperate to advance social, economic and cultural progress. Other constitutional monarchies include Denmark, Norway, Sweden, Australia, New Zealand, The Netherlands, Spain, Thailand, Japan, Jordan and Morocco."
+  },
+  {
+    "id": "g2_002",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "medium",
+    "q": "What are Members of a provincial legislature called?",
+    "opts": [
+      "Only MPPs — Members of the Provincial Parliament",
+      "MLAs, MNAs, MPPs, or MHAs — depending on the province or territory",
+      "They are all called Members of Parliament (MPs)",
+      "Provincial Senators appointed by the premier"
+    ],
+    "ans": 1,
+    "exp": "The members of the provincial or territorial legislature are called members of the Legislative Assembly (MLAs), members of the National Assembly (MNAs), members of the Provincial Parliament (MPPs) or members of the House of Assembly (MHAs), depending on the province or territory."
+  },
+  {
+    "id": "g2_003",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "medium",
+    "q": "What is the role of the Commissioner in the territories?",
+    "opts": [
+      "The Commissioner is elected by territorial citizens as their Premier",
+      "The Commissioner represents the federal government and plays a ceremonial role in the territories",
+      "The Commissioner is appointed by the Supreme Court of Canada",
+      "The Commissioner oversees federal elections in the territories"
+    ],
+    "ans": 1,
+    "exp": "In the three territories, the Commissioner represents the federal government and plays a ceremonial role."
+  },
+  {
+    "id": "g2_004",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "hard",
+    "q": "What is the concept of 'Peace, Order and Good Government'?",
+    "opts": [
+      "Canada's official national motto, adopted at Confederation in 1867",
+      "A key phrase in the British North America Act of 1867 describing the purpose of Canadian institutions",
+      "The guiding constitutional principle used by the Supreme Court of Canada in landmark rulings",
+      "The official motto engraved on the Governor General's seal and standard"
+    ],
+    "ans": 1,
+    "exp": "Our institutions uphold a commitment to Peace, Order and Good Government, a key phrase in Canada's original constitutional document in 1867, the British North America Act."
+  },
+  {
+    "id": "g2_005",
+    "category": "How Canadians Govern Themselves",
+    "difficulty": "medium",
+    "q": "What does the First Nations band council system do?",
+    "opts": [
+      "They cast votes in federal elections on behalf of all registered band members",
+      "Band chiefs and councillors manage housing, schools, and services on reserves, while organizations advocate with governments",
+      "They directly appoint Indigenous senators to represent First Nations in the Senate",
+      "They administer all federal government programs and services delivered to Indigenous communities"
+    ],
+    "ans": 1,
+    "exp": "The First Nations have band chiefs and councillors who have major responsibilities on First Nations reserves, including housing, schools and other services. There are a number of provincial, regional and national Aboriginal organizations that are a voice for First Nations, Métis and Inuit people in their relationships with the federal, provincial and territorial governments."
+  },
+  {
+    "id": "e2_001",
+    "category": "Federal Elections",
+    "difficulty": "hard",
+    "q": "What information is on the voter information card?",
+    "opts": [
+      "Only your name and home address",
+      "When and where you vote, and the number to call for interpreters or special services",
+      "A complete list of all candidates running in your riding",
+      "Your voter registration number and polling station code"
+    ],
+    "ans": 1,
+    "exp": "Once an election has been called, Elections Canada mails a voter information card to each elector. The card lists when and where you vote and the number to call if you require an interpreter or other special services."
+  },
+  {
+    "id": "e2_002",
+    "category": "Federal Elections",
+    "difficulty": "medium",
+    "q": "What is the National Register of Electors?",
+    "opts": [
+      "A list of all political parties registered in Canada",
+      "A permanent database of Canadian citizens 18 and older who are qualified to vote — maintained by Elections Canada",
+      "A list of all candidates who have ever run in a federal election",
+      "A database of all Members of Parliament since Confederation"
+    ],
+    "ans": 1,
+    "exp": "The voters' lists used during federal elections and referendums are produced from the National Register of Electors by a neutral agency of Parliament called Elections Canada. This is a permanent database of Canadian citizens 18 years of age or older who are qualified to vote in federal elections and referendums."
+  },
+  {
+    "id": "e2_003",
+    "category": "Federal Elections",
+    "difficulty": "medium",
+    "q": "Can you still vote if you did not receive a voter information card?",
+    "opts": [
+      "No — you must present a valid voter information card to be permitted to vote",
+      "Yes — you can be added to the voters' list at the polling station on election day",
+      "Only if you contact Elections Canada at least one week before the election date",
+      "Only if you can provide proof that you were previously registered to vote"
+    ],
+    "ans": 1,
+    "exp": "Even if you choose not to be listed in the National Register of Electors or do not receive a voter information card, you can still be added to the voters' list at any time, including on election day."
+  },
+  {
+    "id": "e2_004",
+    "category": "Federal Elections",
+    "difficulty": "hard",
+    "q": "What happens immediately after polling stations close on election day?",
+    "opts": [
+      "Results are announced only the following morning after a full official recount",
+      "Every ballot is counted and results are made public, viewable on TV or the Elections Canada website",
+      "The Governor General formally announces the election winner in a televised address",
+      "The winning Prime Minister is immediately sworn into office on election night"
+    ],
+    "ans": 1,
+    "exp": "When the polls close, every ballot is counted and the results are made public. You can see the results on television or on the Elections Canada website (www.elections.ca)."
+  },
+  {
+    "id": "j2_001",
+    "category": "The Justice System",
+    "difficulty": "medium",
+    "q": "What does the blindfolded Lady Justice symbolize?",
+    "opts": [
+      "That justice cannot see or respond to the suffering of those without resources",
+      "That the law is applied impartially, blind to all factors except the relevant facts",
+      "That judges make rulings based on personal judgment rather than written law",
+      "That Canada's justice system operates independently from all government influence"
+    ],
+    "ans": 1,
+    "exp": "The blindfolded Lady Justice (the Scales of Justice, Vancouver Law Courts) symbolizes the impartial manner in which our laws are administered: blind to all considerations but the facts."
+  },
+  {
+    "id": "j2_002",
+    "category": "The Justice System",
+    "difficulty": "medium",
+    "q": "What types of courts exist in most provinces in Canada?",
+    "opts": [
+      "Each province has a single superior court that handles all legal matters",
+      "An appeal court and a trial court, plus provincial courts handling lesser offences and family matters",
+      "Only federally established courts that apply a single system of law across provinces",
+      "Each province is required to maintain exactly three levels of court by the Constitution"
+    ],
+    "ans": 1,
+    "exp": "In most provinces there is an appeal court and a trial court, sometimes called the Court of Queen's Bench or the Supreme Court. There are also provincial courts for lesser offences, family courts, traffic courts and small claims courts for civil cases involving small sums of money."
+  },
+  {
+    "id": "sym2_001",
+    "category": "Canadian Symbols",
+    "difficulty": "hard",
+    "q": "What is the origin of the fleur-de-lys in Canadian history?",
+    "opts": [
+      "Created by French Canadians after 1867 Confederation as a symbol of Quebec identity",
+      "The lily flower adopted by French royalty in 496 AD, symbolizing New France and later Quebec",
+      "A symbol used by the Acadian peoples before being officially adopted by the province of Quebec",
+      "Brought to New France by Samuel de Champlain as a symbol of French royal authority"
+    ],
+    "ans": 1,
+    "exp": "The lily flower (fleur-de-lys) was adopted by the French king in the year 496. It became the symbol of French royalty for more than 1,000 years, including the colony of New France. Revived at Confederation, the fleur-de-lys was included in the Canadian Red Ensign. In 1948 Quebec adopted its own flag, based on the Cross and the fleur-de-lys."
+  },
+  {
+    "id": "sym2_002",
+    "category": "Canadian Symbols",
+    "difficulty": "medium",
+    "q": "What is the Clarkson Cup?",
+    "opts": [
+      "The trophy awarded annually to the Canadian Football League's championship-winning team",
+      "Established in 2005 by Governor General Adrienne Clarkson — the first of Asian origin — for women's hockey",
+      "An award presented for outstanding achievement in Canadian arts and cultural performance",
+      "The prize given annually to Canada's most accomplished Olympic athlete"
+    ],
+    "ans": 1,
+    "exp": "The Clarkson Cup, established in 2005 by Adrienne Clarkson, the 26th Governor General (and the first of Asian origin), is awarded for women's hockey."
+  },
+  {
+    "id": "sym2_003",
+    "category": "Canadian Symbols",
+    "difficulty": "medium",
+    "q": "What was the Canadian Red Ensign?",
+    "opts": [
+      "A provincial flag still flown officially by the Government of Ontario",
+      "The flag that served as Canada's unofficial national flag for about 100 years before 1965",
+      "The original flag of New France, flown over the colony from its founding until 1763",
+      "A purely military flag flown by Canadian armed forces only during wartime"
+    ],
+    "ans": 1,
+    "exp": "The Canadian Red Ensign served as the Canadian flag for about 100 years. It has been carried officially by veterans since 2005."
+  },
+  {
+    "id": "sym2_004",
+    "category": "Canadian Symbols",
+    "difficulty": "medium",
+    "q": "What is the Stanley Cup and who donated it?",
+    "opts": [
+      "The World Hockey Championship trophy donated by the first Prime Minister",
+      "The championship trophy for professional hockey, donated by Lord Stanley, the Governor General, in 1892",
+      "A trophy for amateur hockey created in 1917 when the NHL was founded",
+      "A Canadian Olympic gold medal trophy created in 1920"
+    ],
+    "ans": 1,
+    "exp": "The National Hockey League plays for the championship Stanley Cup, donated by Lord Stanley, the Governor General, in 1892."
+  },
+  {
+    "id": "sym2_005",
+    "category": "Canadian Symbols",
+    "difficulty": "hard",
+    "q": "What is Sir John A. Macdonald Day?",
+    "opts": [
+      "July 1 — Canada Day, which was proposed and championed by Sir John A. Macdonald",
+      "January 11 — recognized by Parliament as Sir John A. Macdonald Day, marking his birthday",
+      "November 20 — the date of Sir John A. Macdonald's death in office",
+      "October 1 — the anniversary of the date he was first sworn in as Prime Minister"
+    ],
+    "ans": 1,
+    "exp": "Parliament has recognized January 11 as Sir John A. Macdonald Day — marking his birthday (he was born January 11, 1815)."
+  },
+  {
+    "id": "sym2_006",
+    "category": "Canadian Symbols",
+    "difficulty": "hard",
+    "q": "When is Sir Wilfrid Laurier Day?",
+    "opts": [
+      "January 11",
+      "July 1",
+      "November 20",
+      "November 11"
+    ],
+    "ans": 2,
+    "exp": "November 20 is Sir Wilfrid Laurier Day — one of Canada's national public holidays listed in the study guide."
+  },
+  {
+    "id": "sym2_007",
+    "category": "Canadian Symbols",
+    "difficulty": "medium",
+    "q": "What are the Books of Remembrance?",
+    "opts": [
+      "Historical records of all Acts of Parliament",
+      "Books in the Peace Tower's Memorial Chamber listing Canadians who died in military service",
+      "Records of all Canadian citizens who received the Order of Canada",
+      "Official lists of all Governors General since Confederation"
+    ],
+    "ans": 1,
+    "exp": "The Memorial Chamber within the Peace Tower contains the Books of Remembrance in which are written the names of soldiers, sailors and airmen who died serving Canada in wars or while on duty."
+  },
+  {
+    "id": "sym2_008",
+    "category": "Canadian Symbols",
+    "difficulty": "medium",
+    "q": "What is Victoria Day and when is it celebrated?",
+    "opts": [
+      "A holiday on May 1 marking Queen Victoria's coronation",
+      "The Monday preceding May 25 — celebrating the Sovereign's birthday",
+      "A holiday on June 24 celebrating Quebec's patron saint",
+      "The second Monday of May celebrating Canadian culture"
+    ],
+    "ans": 1,
+    "exp": "Victoria Day is celebrated on the Monday preceding May 25 — the Sovereign's birthday. It is a national public holiday."
+  },
+  {
+    "id": "sym2_009",
+    "category": "Canadian Symbols",
+    "difficulty": "medium",
+    "q": "What is the Fête nationale in Quebec and when is it celebrated?",
+    "opts": [
+      "Quebec's provincial holiday on July 1, coinciding with Canada Day",
+      "June 24 — the Feast of St. John the Baptist — Quebec's national holiday",
+      "The second Monday of June celebrating French-Canadian culture",
+      "A Quebec holiday on October 24 marking Confederation"
+    ],
+    "ans": 1,
+    "exp": "The Fête nationale (Quebec) is celebrated on June 24 — the Feast of St. John the Baptist. It is Quebec's provincial holiday and one of Canada's national public holidays."
+  },
+  {
+    "id": "econ2_001",
+    "category": "Canada's Economy",
+    "difficulty": "medium",
+    "q": "What does natural resources industry include?",
+    "opts": [
+      "Only oil, natural gas, and petroleum extraction operations",
+      "Forestry, fishing, agriculture, mining, and energy — industries vital to Canada's history and economy",
+      "Only renewable energy sources such as wind, solar, and hydroelectric power",
+      "Manufacturing, technology, and the advanced services sector"
+    ],
+    "ans": 1,
+    "exp": "Natural resources industries include forestry, fishing, agriculture, mining and energy. These industries have played an important part in the country's history and development. Today, the economy of many areas of the country still depends on developing natural resources."
+  },
+  {
+    "id": "econ2_002",
+    "category": "Canada's Economy",
+    "difficulty": "medium",
+    "q": "What does manufacturing industry in Canada produce?",
+    "opts": [
+      "Primarily automobiles, steel products, and heavy industrial machinery",
+      "Paper, high-tech equipment, aerospace products, automobiles, food, clothing, and other goods",
+      "Exclusively raw natural resource commodities processed for international export",
+      "Primarily military hardware, defence systems, and government procurement contracts"
+    ],
+    "ans": 1,
+    "exp": "Manufacturing industries make products to sell in Canada and around the world. Manufactured products include paper, high technology equipment, aerospace technology, automobiles, machinery, food, clothing and many other goods."
+  },
+  {
+    "id": "econ2_003",
+    "category": "Canada's Economy",
+    "difficulty": "hard",
+    "q": "What does NAFTA stand for and what does it encompass?",
+    "opts": [
+      "North American Federation of Trade Allies — a security and trade pact",
+      "North American Free Trade Agreement — covering over 444 million people and trillions in trade",
+      "National Agreement for Free Trade with America — a bilateral Canada-US deal",
+      "Northern Atlantic Free Trade Area — a multilateral agreement among Atlantic nations"
+    ],
+    "ans": 1,
+    "exp": "Mexico became a partner in 1994 in the broader North American Free Trade Agreement (NAFTA), with over 444 million people and over $1 trillion in merchandise trade in 2008."
+  },
+  {
+    "id": "reg2_001",
+    "category": "Canada's Regions",
+    "difficulty": "hard",
+    "q": "What is the Confederation Bridge and what provinces does it connect?",
+    "opts": [
+      "A major bridge connecting mainland New Brunswick to mainland Nova Scotia",
+      "One of the longest continuous multispan bridges in the world, connecting PEI to New Brunswick",
+      "A bridge connecting Ontario and Quebec across the St. Lawrence River near Montreal",
+      "A bridge connecting the British Columbia mainland to Vancouver Island"
+    ],
+    "ans": 1,
+    "exp": "P.E.I. is connected to mainland Canada by one of the longest continuous multispan bridges in the world, the Confederation Bridge. At almost 13 kilometres in length, the bridge is the longest in the world to cross water that freezes in winter."
+  },
+  {
+    "id": "reg2_002",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What is Winnipeg's most famous street intersection and what is St. Boniface?",
+    "opts": [
+      "Main and Broadway — St. Boniface is Winnipeg's arts district",
+      "Portage and Main — St. Boniface is Winnipeg's French Quarter with Western Canada's largest Francophone community",
+      "King and Queen Streets — St. Boniface is Winnipeg's historic district",
+      "Osborne and Corydon — St. Boniface is a suburb of Winnipeg"
+    ],
+    "ans": 1,
+    "exp": "The province's most populous city is Winnipeg, whose Exchange District includes the most famous street intersection in Canada, Portage and Main. Winnipeg's French Quarter, St. Boniface, has Western Canada's largest Francophone community at 45,000."
+  },
+  {
+    "id": "reg2_003",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What percentage of Manitoba's population is of Ukrainian origin and what is notable about its Aboriginal population?",
+    "opts": [
+      "About 5% of Ukrainian origin; Manitoba has the smallest Aboriginal population in Canada",
+      "About 14% of Ukrainian origin; Manitoba has the largest Aboriginal population of any province, over 15%",
+      "About 20% of Ukrainian origin; Manitoba has the second-largest Aboriginal population in Canada",
+      "About 10% of Ukrainian origin; Manitoba's Aboriginal population is equal to Saskatchewan's"
+    ],
+    "ans": 1,
+    "exp": "Manitoba is also an important centre of Ukrainian culture, with 14% reporting Ukrainian origins, and the largest Aboriginal population of any province, at over 15%."
+  },
+  {
+    "id": "reg2_004",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What is Newfoundland and Labrador's distinction geographically?",
+    "opts": [
+      "It is the most northerly province in Canada",
+      "It is the most easterly point in North America and has its own time zone",
+      "It is the only island province in Canada",
+      "It is the province with the longest coastline in Canada"
+    ],
+    "ans": 1,
+    "exp": "Newfoundland and Labrador is the most easterly point in North America and has its own time zone. In addition to its natural beauty, the province has a unique heritage linked to the sea."
+  },
+  {
+    "id": "reg2_005",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What is the Bay of Fundy known for?",
+    "opts": [
+      "Its exceptional whale watching and marine life",
+      "The world's highest tides — it is located in Nova Scotia",
+      "Being the site of the first French settlement in Canada",
+      "The longest undefended border crossing in the Maritimes"
+    ],
+    "ans": 1,
+    "exp": "Nova Scotia is known for the world's highest tides in the Bay of Fundy."
+  },
+  {
+    "id": "reg2_006",
+    "category": "Canada's Regions",
+    "difficulty": "hard",
+    "q": "What is the Okanagan Valley in British Columbia known for?",
+    "opts": [
+      "Its salmon fishing and forestry industry",
+      "Its fruit orchards and wine industry",
+      "Its gold mining and natural resources",
+      "Its high-tech industry and innovation centres"
+    ],
+    "ans": 1,
+    "exp": "B.C. is also known for mining, fishing, and the fruit orchards and wine industry of the Okanagan Valley."
+  },
+  {
+    "id": "reg2_007",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What is the most spoken language in BC cities after English?",
+    "opts": [
+      "French — reflecting Canada's status as an officially bilingual country",
+      "Chinese and Punjabi — reflecting the province's large and established Asian communities",
+      "Cantonese only — the dominant language of BC's oldest immigrant communities",
+      "Spanish — reflecting immigration from Latin American countries"
+    ],
+    "ans": 1,
+    "exp": "The province's large Asian communities have made Chinese and Punjabi the most spoken languages in the cities after English."
+  },
+  {
+    "id": "reg2_008",
+    "category": "Canada's Regions",
+    "difficulty": "hard",
+    "q": "What is the 'Land of the Midnight Sun'?",
+    "opts": [
+      "A nickname for the northern regions of British Columbia and the Yukon Territory",
+      "The North — where summer daylight can last up to 24 hours and winter brings months of darkness",
+      "A name used exclusively for the territory of Nunavut in federal government documents",
+      "A term historically used only for the Yukon during the Klondike Gold Rush era"
+    ],
+    "ans": 1,
+    "exp": "The North is often referred to as the 'Land of the Midnight Sun' because at the height of summer, daylight can last up to 24 hours. In winter, the sun disappears and darkness sets in for three months."
+  },
+  {
+    "id": "reg2_009",
+    "category": "Canada's Regions",
+    "difficulty": "hard",
+    "q": "What is the Mackenzie River and what is its significance?",
+    "opts": [
+      "The longest river in Canada, flowing through British Columbia to the Pacific",
+      "At 4,200 km, one of North America's longest river systems, flowing through the Northwest Territories",
+      "A major river that forms part of the international boundary between Canada and the USA",
+      "The primary water source supplying irrigation for the Prairie Provinces"
+    ],
+    "ans": 1,
+    "exp": "The Mackenzie River, at 4,200 kilometres, is the second-longest river system in North America after the Mississippi and drains an area of 1.8 million square kilometres. It flows through the Northwest Territories."
+  },
+  {
+    "id": "reg2_010",
+    "category": "Canada's Regions",
+    "difficulty": "hard",
+    "q": "What is Yellowknife known as and why?",
+    "opts": [
+      "'The Oil Capital of the North' — due to massive oil reserves",
+      "'The diamond capital of North America' — capital of the Northwest Territories with about 20,000 people",
+      "'The Gold Capital of Canada' — due to historic gold mining",
+      "'The Gateway to the Arctic' — due to its northern location"
+    ],
+    "ans": 1,
+    "exp": "The capital of the Northwest Territories, Yellowknife (population 20,000), is called the 'diamond capital of North America.'"
+  },
+  {
+    "id": "reg2_011",
+    "category": "Canada's Regions",
+    "difficulty": "hard",
+    "q": "What is the coldest temperature ever recorded in Canada and where?",
+    "opts": [
+      "-50°C in Nunavut",
+      "-63°C in the Yukon",
+      "-55°C in the Northwest Territories",
+      "-45°C in northern Manitoba"
+    ],
+    "ans": 1,
+    "exp": "Yukon holds the record for the coldest temperature ever recorded in Canada (-63°C)."
+  },
+  {
+    "id": "reg2_012",
+    "category": "Canada's Regions",
+    "difficulty": "hard",
+    "q": "What is Mount Logan and who is it named after?",
+    "opts": [
+      "Canada's highest mountain, located in Alberta and named after a fur trade explorer",
+      "Canada's highest peak, in the Yukon, named for Sir William Logan, a celebrated geologist",
+      "Canada's highest mountain, in the Rockies of Alberta, named after a Prime Minister",
+      "A major peak in the Northwest Territories named after a famous Arctic expedition leader"
+    ],
+    "ans": 1,
+    "exp": "Mount Logan, located in the Yukon, is the highest mountain in Canada. It is named in honour of Sir William Logan, a world-famous geologist, born in Montreal in 1798 to Scottish immigrant parents. Logan founded and directed the Geological Survey of Canada from 1842 to 1869 and is considered one of Canada's greatest scientists."
+  },
+  {
+    "id": "reg2_013",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What does the tundra in the North consist of?",
+    "opts": [
+      "Dense boreal forests and frozen lakes covering thousands of square kilometres",
+      "A vast, treeless Arctic plain with permanently frozen soil, where some hunt, fish, and trap",
+      "Open grasslands similar in character and climate to the southern Prairie Provinces",
+      "Coastal wetlands, salt marshes, and swamps formed by tidal activity"
+    ],
+    "ans": 1,
+    "exp": "Much of the North is made up of tundra, the vast rocky Arctic plain. Because of the cold Arctic climate, there are no trees on the tundra and the soil is permanently frozen. Some continue to earn a living by hunting, fishing and trapping. Inuit art is sold throughout Canada and around the world."
+  },
+  {
+    "id": "reg2_014",
+    "category": "Canada's Regions",
+    "difficulty": "hard",
+    "q": "What is the Canadian Rangers?",
+    "opts": [
+      "A federal law enforcement agency based in Canada's three northern territories",
+      "Part-time Canadian Forces Reserves who address security and sovereignty in the North using Indigenous knowledge",
+      "A volunteer organization that fights wildfires in remote northern Canadian communities",
+      "A dedicated search and rescue organization operating exclusively within the Arctic Circle"
+    ],
+    "ans": 1,
+    "exp": "Canada's vast North brings security and sovereignty challenges. The Canadian Rangers, part of the Canadian Forces Reserves (militia), play a key role. Drawing on Indigenous knowledge and experience, the Rangers travel by snowmobile in the winter and all-terrain vehicles in the summer from Resolute to the Magnetic North Pole, and keep the flag flying in Canada's Arctic."
+  },
+  {
+    "id": "reg2_015",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What is Quebec's role in pulp and paper production?",
+    "opts": [
+      "Quebec is the smallest producer of pulp and paper in Canada",
+      "Quebec is Canada's main producer of pulp and paper",
+      "Quebec exports pulp and paper only to France",
+      "Quebec's pulp and paper industry was shut down in the 1990s"
+    ],
+    "ans": 1,
+    "exp": "Quebec is Canada's main producer of pulp and paper."
+  },
+  {
+    "id": "reg2_016",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What makes Ontario unique in terms of French-speaking population?",
+    "opts": [
+      "Ontario has no significant French-speaking population outside of Ottawa",
+      "Ontario has the largest French-speaking population outside Quebec, with a strong heritage of language preservation",
+      "Ontario is officially bilingual, like New Brunswick, under the federal Official Languages Act",
+      "Ontario has a larger French-speaking population than New Brunswick in absolute numbers"
+    ],
+    "ans": 1,
+    "exp": "Founded by United Empire Loyalists, Ontario also has the largest French-speaking population outside of Quebec, with a proud history of preserving their language and culture."
+  },
+  {
+    "id": "reg2_017",
+    "category": "Canada's Regions",
+    "difficulty": "medium",
+    "q": "What is the Niagara region in Ontario known for?",
+    "opts": [
+      "Its automobile manufacturing plants",
+      "Its vineyards, wines and fruit crops",
+      "Its steel production and heavy industry",
+      "Its technology and innovation sector"
+    ],
+    "ans": 1,
+    "exp": "The Niagara region is known for its vineyards, wines and fruit crops."
+  },
+  {
+    "id": "reg2_018",
+    "category": "Canada's Regions",
+    "difficulty": "hard",
+    "q": "What is the 19-member Legislative Assembly of Nunavut and how does it choose its leaders?",
+    "opts": [
+      "Elected by political party affiliation, with the winning party forming the territorial government",
+      "The 19-member Assembly chooses a premier and ministers by consensus, with no political parties",
+      "Appointed directly by the federal government in Ottawa on the Prime Minister's recommendation",
+      "Elected every three years in territory-wide votes open to all residents over the age of 16"
+    ],
+    "ans": 1,
+    "exp": "The 19-member Legislative Assembly chooses a premier and ministers by consensus. The population is about 85% Inuit, and Inuktitut is an official language and the first language in schools."
+  }
+]
