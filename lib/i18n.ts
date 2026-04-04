@@ -69,6 +69,74 @@ const strings = {
   flash_mark_known: { en: '✓ Mark as Known', fr: '✓ Marquer comme connue' },
   flash_next: { en: 'Next →', fr: 'Suivant →' },
 
+  // Home page
+  home_hero_title: {
+    en: 'Prepare for your Canadian Citizenship Test',
+    fr: 'Préparez-vous à votre test de citoyenneté canadienne',
+  },
+  home_hero_sub: {
+    en: 'Free practice questions, flashcards, study guides, and mock exams — everything you need to pass with confidence.',
+    fr: 'Questions d\'entraînement gratuites, fiches, guides d\'étude et examens simulés — tout ce qu\'il vous faut pour réussir avec confiance.',
+  },
+  home_stat_questions: { en: 'Questions', fr: 'Questions' },
+  home_stat_categories: { en: 'Categories', fr: 'Catégories' },
+  home_stat_free: { en: 'Free', fr: 'Gratuit' },
+  home_stat_forever: { en: 'Forever', fr: 'À vie' },
+  home_card_quiz_title: { en: 'Practice Quiz', fr: "Quiz d'entraînement" },
+  home_card_quiz_desc: {
+    en: 'Answer questions by category and difficulty with instant feedback.',
+    fr: 'Répondez aux questions par catégorie et difficulté avec des retours instantanés.',
+  },
+  home_card_flash_title: { en: 'Flashcards', fr: 'Fiches' },
+  home_card_flash_desc: {
+    en: 'Flip through every question and mark what you already know.',
+    fr: 'Parcourez toutes les questions et marquez ce que vous savez déjà.',
+  },
+  home_card_guide_title: { en: 'Study Guide', fr: "Guide d'étude" },
+  home_card_guide_desc: {
+    en: 'Structured notes, key facts, and important dates by topic.',
+    fr: 'Notes structurées, faits clés et dates importantes par sujet.',
+  },
+  home_card_mock_title: { en: 'Mock Exam', fr: 'Examen simulé' },
+  home_card_mock_desc: {
+    en: '20 timed questions — just like the real test. Score 75% to pass.',
+    fr: '20 questions chronométrées — comme le vrai examen. Obtenez 75\u00a0% pour réussir.',
+  },
+  home_how_title: { en: 'How It Works', fr: 'Comment ça fonctionne' },
+  home_step_study_title: { en: 'Study', fr: 'Étudier' },
+  home_step_study_desc: {
+    en: 'Read the study guide and learn key facts by topic.',
+    fr: 'Lisez le guide d\'étude et apprenez les faits clés par sujet.',
+  },
+  home_step_practice_title: { en: 'Practice', fr: 'Pratiquer' },
+  home_step_practice_desc: {
+    en: 'Quiz yourself and flip flashcards until you feel confident.',
+    fr: 'Testez-vous et parcourez les fiches jusqu\'à vous sentir confiant.',
+  },
+  home_step_pass_title: { en: 'Pass', fr: 'Réussir' },
+  home_step_pass_desc: {
+    en: 'Take the mock exam to simulate test-day conditions.',
+    fr: 'Passez l\'examen simulé pour reproduire les conditions du vrai test.',
+  },
+  home_cta_title: { en: 'Ready to start studying?', fr: 'Prêt à commencer à étudier\u00a0?' },
+  home_cta_sub: {
+    en: 'Take a quick practice quiz and see where you stand.',
+    fr: 'Faites un quiz d\'entraînement rapide et voyez où vous en êtes.',
+  },
+  home_cta_btn: { en: 'Start Practicing', fr: 'Commencer à pratiquer' },
+
+  // Footer
+  footer_disclaimer: {
+    en: 'Study content adapted from',
+    fr: 'Contenu d\'étude adapté de',
+  },
+  footer_note_label: { en: 'Note:', fr: 'Remarque\u00a0:' },
+  footer_note_body: {
+    en: 'Questions and study content on this site are based on the official Discover Canada study guide (2012 edition). While we have worked to ensure accuracy, always verify information with the official Government of Canada resource at',
+    fr: 'Les questions et le contenu d\'étude de ce site sont tirés du guide officiel Découvrir le Canada (édition 2012). Bien que nous ayons travaillé à en assurer l\'exactitude, veuillez toujours vérifier les informations auprès de la ressource officielle du gouvernement du Canada à',
+  },
+  footer_privacy: { en: 'Privacy Policy', fr: 'Politique de confidentialité' },
+
   // Mock exam page
   mock_title: { en: 'Mock Exams', fr: 'Examens simulés' },
   mock_subtitle: {
