@@ -10,11 +10,14 @@ import {
   CATEGORIES,
   type Question,
 } from '@/lib/questions';
+import { useLang } from '@/contexts/LanguageContext';
+import { t, categoryLabel } from '@/lib/i18n';
 
-const DIFFICULTY_TABS = ['All', 'Easy', 'Medium', 'Hard'];
+const DIFFICULTY_KEYS = ['All', 'Easy', 'Medium', 'Hard'] as const;
 const CATEGORY_TABS = ['All', ...CATEGORIES];
 
 export default function QuizClient() {
+  const { lang } = useLang();
   const [category, setCategory] = useState('All');
   const [difficulty, setDifficulty] = useState('All');
   const [questions, setQuestions] = useState<Question[]>(() =>
@@ -66,6 +69,14 @@ export default function QuizClient() {
     applyFilters(category, difficulty);
   }
 
+  const difficultyLabel = (key: string) => {
+    if (key === 'All') return t('quiz_all', lang);
+    if (key === 'Easy') return t('quiz_easy', lang);
+    if (key === 'Medium') return t('quiz_medium', lang);
+    if (key === 'Hard') return t('quiz_hard', lang);
+    return key;
+  };
+
   const showAd = currentIndex > 0 && currentIndex % 5 === 0 && selectedAnswer !== null;
   const pct = questions.length > 0 ? Math.round((score / questions.length) * 100) : 0;
   const passed = pct >= 75;
@@ -73,14 +84,14 @@ export default function QuizClient() {
   if (questions.length === 0) {
     return (
       <div className="max-w-2xl mx-auto px-4 py-16 text-center text-gray-500">
-        No questions match these filters. Try a different combination.
+        {t('quiz_no_match', lang)}
       </div>
     );
   }
 
   return (
     <div className="max-w-2xl mx-auto px-4 py-8">
-      <h1 className="text-2xl font-bold text-gray-900 mb-6">Practice Quiz</h1>
+      <h1 className="text-2xl font-bold text-gray-900 mb-6">{t('quiz_title', lang)}</h1>
 
       {/* Category filter */}
       <div className="mb-3 overflow-x-auto">
@@ -95,7 +106,7 @@ export default function QuizClient() {
                   : 'bg-white text-gray-600 border-gray-200 hover:border-[#C0392B]'
               }`}
             >
-              {cat}
+              {cat === 'All' ? t('quiz_all', lang) : categoryLabel(cat, lang)}
             </button>
           ))}
         </div>
@@ -103,7 +114,7 @@ export default function QuizClient() {
 
       {/* Difficulty filter */}
       <div className="mb-6 flex gap-2">
-        {DIFFICULTY_TABS.map((diff) => (
+        {DIFFICULTY_KEYS.map((diff) => (
           <button
             key={diff}
             onClick={() => handleDifficultyChange(diff)}
@@ -113,7 +124,7 @@ export default function QuizClient() {
                 : 'bg-white text-gray-600 border-gray-200 hover:border-gray-400'
             }`}
           >
-            {diff}
+            {difficultyLabel(diff)}
           </button>
         ))}
       </div>
@@ -124,13 +135,13 @@ export default function QuizClient() {
           <p className="text-4xl font-bold text-gray-900 mb-1">
             {score}/{questions.length}
           </p>
-          <p className="text-gray-500 mb-4">{pct}% correct</p>
+          <p className="text-gray-500 mb-4">{pct}{t('quiz_pct_correct', lang)}</p>
           <span
             className={`inline-block px-4 py-1.5 rounded-full text-sm font-semibold mb-6 ${
               passed ? 'bg-green-100 text-green-700' : 'bg-red-100 text-[#C0392B]'
             }`}
           >
-            {passed ? 'PASS — Great work!' : 'FAIL — Keep studying!'}
+            {passed ? t('quiz_pass', lang) : t('quiz_fail', lang)}
           </span>
           <div className="mb-6">
             <ProgressBar current={score} total={questions.length} />
@@ -139,7 +150,7 @@ export default function QuizClient() {
             onClick={handleRestart}
             className="px-6 py-2.5 bg-[#C0392B] text-white rounded-lg font-medium hover:bg-[#a93226] transition-colors"
           >
-            Try Again
+            {t('quiz_try_again', lang)}
           </button>
         </div>
       ) : (
@@ -147,10 +158,10 @@ export default function QuizClient() {
         <>
           <div className="flex items-center justify-between mb-2">
             <span className="text-sm text-gray-500">
-              Question {currentIndex + 1} of {questions.length}
+              {t('quiz_question_of', lang, { n: currentIndex + 1, total: questions.length })}
             </span>
             <span className="text-sm font-semibold text-gray-900">
-              Score: {score}/{currentIndex}
+              {t('quiz_score', lang, { score, n: currentIndex })}
             </span>
           </div>
           <div className="mb-4">
@@ -171,7 +182,9 @@ export default function QuizClient() {
                 onClick={handleNext}
                 className="px-6 py-2.5 bg-[#C0392B] text-white rounded-lg font-medium hover:bg-[#a93226] transition-colors"
               >
-                {currentIndex + 1 >= questions.length ? 'See Results' : 'Next Question'}
+                {currentIndex + 1 >= questions.length
+                  ? t('quiz_see_results', lang)
+                  : t('quiz_next', lang)}
               </button>
             </div>
           )}

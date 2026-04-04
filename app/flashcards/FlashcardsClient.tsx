@@ -9,8 +9,11 @@ import {
   CATEGORIES,
   type Question,
 } from '@/lib/questions';
+import { useLang } from '@/contexts/LanguageContext';
+import { t, categoryLabel } from '@/lib/i18n';
 
 export default function FlashcardsClient() {
+  const { lang } = useLang();
   const [category, setCategory] = useState('All');
   const [deck, setDeck] = useState<Question[]>(() => getAllQuestions());
   const [known, setKnown] = useState<Set<string>>(new Set());
@@ -47,13 +50,12 @@ export default function FlashcardsClient() {
     const newKnown = new Set(known);
     newKnown.add(current.id);
     setKnown(newKnown);
-    // stay at same index (next card slides in), but clamp
     setIndex((i) => Math.min(i, activeDeck.length - 2));
   }
 
   return (
     <div className="max-w-2xl mx-auto px-4 py-8">
-      <h1 className="text-2xl font-bold text-gray-900 mb-6">Flashcards</h1>
+      <h1 className="text-2xl font-bold text-gray-900 mb-6">{t('flash_title', lang)}</h1>
 
       {/* Controls */}
       <div className="flex flex-wrap items-center gap-3 mb-6">
@@ -62,10 +64,10 @@ export default function FlashcardsClient() {
           onChange={(e) => handleCategory(e.target.value)}
           className="text-sm border border-gray-200 rounded-lg px-3 py-2 text-gray-700 bg-white focus:outline-none focus:border-[#C0392B]"
         >
-          <option value="All">All Categories</option>
+          <option value="All">{t('flash_all_categories', lang)}</option>
           {CATEGORIES.map((c) => (
             <option key={c} value={c}>
-              {c}
+              {categoryLabel(c, lang)}
             </option>
           ))}
         </select>
@@ -77,25 +79,25 @@ export default function FlashcardsClient() {
           <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
           </svg>
-          Shuffle
+          {t('flash_shuffle', lang)}
         </button>
 
         {known.size > 0 && (
           <span className="text-xs text-gray-400">
-            {known.size} marked as known
+            {t('flash_marked_known', lang, { n: known.size })}
           </span>
         )}
       </div>
 
       {activeDeck.length === 0 ? (
         <div className="text-center py-16">
-          <p className="text-xl font-semibold text-gray-900 mb-2">You know them all!</p>
-          <p className="text-gray-500 mb-6">All cards in this deck are marked as known.</p>
+          <p className="text-xl font-semibold text-gray-900 mb-2">{t('flash_know_all', lang)}</p>
+          <p className="text-gray-500 mb-6">{t('flash_know_all_sub', lang)}</p>
           <button
             onClick={() => { setKnown(new Set()); setIndex(0); }}
             className="px-6 py-2.5 bg-[#C0392B] text-white rounded-lg font-medium hover:bg-[#a93226] transition-colors"
           >
-            Reset Deck
+            {t('flash_reset', lang)}
           </button>
         </div>
       ) : current ? (
@@ -109,14 +111,14 @@ export default function FlashcardsClient() {
               disabled={index === 0}
               className="px-4 py-2 border border-gray-200 rounded-lg text-sm font-medium text-gray-600 hover:border-gray-400 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
             >
-              ← Previous
+              {t('flash_prev', lang)}
             </button>
 
             <button
               onClick={handleMarkKnown}
               className="px-4 py-2 border border-green-200 bg-green-50 rounded-lg text-sm font-medium text-green-700 hover:bg-green-100 transition-colors"
             >
-              ✓ Mark as Known
+              {t('flash_mark_known', lang)}
             </button>
 
             <button
@@ -124,7 +126,7 @@ export default function FlashcardsClient() {
               disabled={index >= activeDeck.length - 1}
               className="px-4 py-2 border border-gray-200 rounded-lg text-sm font-medium text-gray-600 hover:border-gray-400 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
             >
-              Next →
+              {t('flash_next', lang)}
             </button>
           </div>
         </>

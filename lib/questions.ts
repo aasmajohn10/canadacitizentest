@@ -8,6 +8,9 @@ export interface Question {
   opts: string[];
   ans: number;
   exp: string;
+  q_fr?: string;
+  opts_fr?: string[];
+  exp_fr?: string;
 }
 
 export const CATEGORIES = [

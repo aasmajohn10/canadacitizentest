@@ -4,6 +4,7 @@ import './globals.css';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { Analytics } from '@vercel/analytics/next';
+import { LanguageProvider } from '@/contexts/LanguageContext';
 
 const dmSans = DM_Sans({
   subsets: ['latin'],
@@ -47,9 +48,11 @@ export default function RootLayout({
         />
       </head>
       <body className="min-h-full flex flex-col font-[family-name:var(--font-dm-sans)] bg-white text-gray-900 antialiased">
-        <Navbar />
-        <main className="flex-1">{children}</main>
-        <Footer />
+        <LanguageProvider>
+          <Navbar />
+          <main className="flex-1">{children}</main>
+          <Footer />
+        </LanguageProvider>
         <Analytics />
       </body>
     </html>

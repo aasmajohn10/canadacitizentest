@@ -3,18 +3,21 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useState } from 'react';
-
-const links = [
-  { href: '/', label: 'Home' },
-  { href: '/quiz', label: 'Quiz' },
-  { href: '/flashcards', label: 'Flashcards' },
-  { href: '/guide', label: 'Study Guide' },
-  { href: '/mock', label: 'Mock Exam' },
-];
+import { useLang } from '@/contexts/LanguageContext';
+import { t } from '@/lib/i18n';
 
 export default function Navbar() {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
+  const { lang, setLang } = useLang();
+
+  const links = [
+    { href: '/', label: t('nav_home', lang) },
+    { href: '/quiz', label: t('nav_quiz', lang) },
+    { href: '/flashcards', label: t('nav_flashcards', lang) },
+    { href: '/guide', label: t('nav_guide', lang) },
+    { href: '/mock', label: t('nav_mock', lang) },
+  ];
 
   return (
     <nav className="sticky top-0 z-50 bg-white border-b border-gray-100">
@@ -40,6 +43,26 @@ export default function Navbar() {
               {l.label}
             </Link>
           ))}
+
+          {/* Language toggle */}
+          <div className="ml-3 flex items-center border border-gray-200 rounded-md overflow-hidden text-xs font-semibold">
+            <button
+              onClick={() => setLang('en')}
+              className={`px-2.5 py-1.5 transition-colors ${
+                lang === 'en' ? 'bg-[#C0392B] text-white' : 'text-gray-500 hover:bg-gray-100'
+              }`}
+            >
+              EN
+            </button>
+            <button
+              onClick={() => setLang('fr')}
+              className={`px-2.5 py-1.5 transition-colors ${
+                lang === 'fr' ? 'bg-[#C0392B] text-white' : 'text-gray-500 hover:bg-gray-100'
+              }`}
+            >
+              FR
+            </button>
+          </div>
         </div>
 
         {/* Mobile hamburger */}
@@ -77,6 +100,26 @@ export default function Navbar() {
               {l.label}
             </Link>
           ))}
+
+          {/* Mobile language toggle */}
+          <div className="mt-2 flex items-center gap-1 border border-gray-200 rounded-md overflow-hidden text-xs font-semibold w-fit">
+            <button
+              onClick={() => setLang('en')}
+              className={`px-3 py-1.5 transition-colors ${
+                lang === 'en' ? 'bg-[#C0392B] text-white' : 'text-gray-500 hover:bg-gray-100'
+              }`}
+            >
+              EN
+            </button>
+            <button
+              onClick={() => setLang('fr')}
+              className={`px-3 py-1.5 transition-colors ${
+                lang === 'fr' ? 'bg-[#C0392B] text-white' : 'text-gray-500 hover:bg-gray-100'
+              }`}
+            >
+              FR
+            </button>
+          </div>
         </div>
       )}
     </nav>

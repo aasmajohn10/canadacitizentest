@@ -2,6 +2,8 @@
 
 import { useState } from 'react';
 import { type Question } from '@/lib/questions';
+import { useLang } from '@/contexts/LanguageContext';
+import { t, categoryLabel } from '@/lib/i18n';
 
 interface FlashcardProps {
   question: Question;
@@ -11,14 +13,21 @@ interface FlashcardProps {
 
 export default function Flashcard({ question, index, total }: FlashcardProps) {
   const [flipped, setFlipped] = useState(false);
+  const { lang } = useLang();
 
-  // Reset flip when card changes
+  const questionText = (lang === 'fr' && question.q_fr) ? question.q_fr : question.q;
+  const answerText = (lang === 'fr' && question.opts_fr?.length)
+    ? question.opts_fr[question.ans]
+    : question.opts[question.ans];
+  const explanation = (lang === 'fr' && question.exp_fr) ? question.exp_fr : question.exp;
+  const cat = categoryLabel(question.category, lang);
+
   const key = question.id;
 
   return (
     <div className="flex flex-col items-center gap-4">
       <p className="text-sm text-gray-500">
-        Card {index + 1} of {total}
+        {t('flash_card_of', lang, { n: index + 1, total })}
       </p>
 
       {/* 3D flip card */}
@@ -43,12 +52,12 @@ export default function Flashcard({ question, index, total }: FlashcardProps) {
             className="absolute inset-0 bg-white border border-gray-200 rounded-2xl flex flex-col items-center justify-center p-8 shadow-sm"
           >
             <span className="text-xs font-semibold text-[#C0392B] uppercase tracking-wider mb-4">
-              {question.category}
+              {cat}
             </span>
             <p className="text-center text-lg font-semibold text-gray-900 leading-snug">
-              {question.q}
+              {questionText}
             </p>
-            <p className="mt-4 text-xs text-gray-400">Tap to reveal answer</p>
+            <p className="mt-4 text-xs text-gray-400">{t('flash_tap', lang)}</p>
           </div>
 
           {/* Back */}
@@ -60,9 +69,9 @@ export default function Flashcard({ question, index, total }: FlashcardProps) {
             className="absolute inset-0 bg-[#C0392B] rounded-2xl flex flex-col items-center justify-center p-8 shadow-sm"
           >
             <p className="text-center text-lg font-semibold text-white leading-snug">
-              {question.opts[question.ans]}
+              {answerText}
             </p>
-            <p className="mt-4 text-xs text-white/70 text-center">{question.exp}</p>
+            <p className="mt-4 text-xs text-white/70 text-center">{explanation}</p>
           </div>
         </div>
       </div>

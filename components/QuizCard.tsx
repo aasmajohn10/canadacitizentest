@@ -1,6 +1,8 @@
 'use client';
 
 import { Question } from '@/lib/questions';
+import { useLang } from '@/contexts/LanguageContext';
+import { t } from '@/lib/i18n';
 
 interface QuizCardProps {
   question: Question;
@@ -9,7 +11,12 @@ interface QuizCardProps {
 }
 
 export default function QuizCard({ question, selectedAnswer, onAnswer }: QuizCardProps) {
+  const { lang } = useLang();
   const answered = selectedAnswer !== null;
+
+  const questionText = (lang === 'fr' && question.q_fr) ? question.q_fr : question.q;
+  const opts = (lang === 'fr' && question.opts_fr?.length) ? question.opts_fr : question.opts;
+  const explanation = (lang === 'fr' && question.exp_fr) ? question.exp_fr : question.exp;
 
   function getButtonClass(index: number) {
     if (!answered) {
@@ -22,9 +29,9 @@ export default function QuizCard({ question, selectedAnswer, onAnswer }: QuizCar
 
   return (
     <div className="flex flex-col gap-4">
-      <p className="text-lg font-semibold text-gray-900 leading-snug">{question.q}</p>
+      <p className="text-lg font-semibold text-gray-900 leading-snug">{questionText}</p>
       <div className="flex flex-col gap-2">
-        {question.opts.map((opt, i) => (
+        {opts.map((opt, i) => (
           <button
             key={i}
             onClick={() => !answered && onAnswer(i)}
@@ -41,8 +48,8 @@ export default function QuizCard({ question, selectedAnswer, onAnswer }: QuizCar
 
       {answered && (
         <div className="mt-1 p-3 bg-blue-50 border border-blue-100 rounded-lg text-sm text-blue-900">
-          <span className="font-semibold">Explanation: </span>
-          {question.exp}
+          <span className="font-semibold">{t('card_explanation', lang)}</span>
+          {explanation}
         </div>
       )}
     </div>
