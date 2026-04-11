@@ -18,6 +18,10 @@
         "content": "The Constitution of Canada was amended in 1982 to entrench the Canadian Charter of Rights and Freedoms. The Charter protects: Mobility Rights (Canadians can live and work anywhere in Canada, enter and leave freely, and apply for a passport); Aboriginal Peoples' Rights (Charter rights will not adversely affect Aboriginal treaty rights); Official Language Rights (French and English have equal status in Parliament and throughout government); and Multiculturalism (a fundamental characteristic of Canadian heritage and identity)."
       },
       {
+        "heading": "Democratic rights and mobility rights",
+        "content": "The Charter guarantees democratic rights: every Canadian citizen has the right to vote in federal and provincial elections and to stand for election, regardless of race, gender, religion or other personal characteristics. Governments (federal and provincial) must hold elections at least every five years. Mobility rights allow Canadian citizens to enter, remain in, and leave Canada freely, and to live and work anywhere in the province of their choice. Permanent residents also have the right to move and take up residence in any province. These rights can only be limited by laws providing for reasonable residency requirements for social services."
+      },
+      {
         "heading": "Citizenship responsibilities",
         "content": "In Canada, rights come with responsibilities. These include: obeying the law (no person or group is above the law); taking responsibility for oneself and one's family (getting a job and working hard in keeping with one's abilities); serving on a jury when called (legally required — it makes the justice system work); voting in elections (the right to vote comes with a responsibility to do so); helping others in the community (volunteering); and protecting and enjoying our heritage and environment."
       },
@@ -28,6 +32,10 @@
       {
         "heading": "Defending Canada",
         "content": "There is no compulsory military service in Canada. However, serving in the regular Canadian Forces (navy, army and air force) is a noble way to contribute to Canada and an excellent career choice. You may also serve in the Coast Guard or emergency services such as a police force or fire department."
+      },
+      {
+        "heading": "Language rights and multiculturalism",
+        "content": "English and French are Canada's two official languages and have equal status in Parliament and throughout the federal government. Citizens have the right to communicate with and receive services from the federal government in either official language. The Charter also protects the rights of official-language minority communities to education in their own language where numbers warrant. Multiculturalism is recognized as a fundamental characteristic of Canadian heritage and identity. The Charter instructs courts to interpret rights in a manner consistent with the preservation and enhancement of the multicultural heritage of Canadians."
       }
     ],
     "key_facts": [
@@ -40,8 +48,14 @@
       "Gay and lesbian Canadians enjoy full protection and equal treatment under the law, including access to civil marriage"
     ],
     "important_dates": [
-      { "year": "1215", "event": "Magna Carta signed — 800-year-old tradition of ordered liberty begins" },
-      { "year": "1982", "event": "Canadian Charter of Rights and Freedoms becomes part of the Constitution" }
+      {
+        "year": "1215",
+        "event": "Magna Carta signed — 800-year-old tradition of ordered liberty begins"
+      },
+      {
+        "year": "1982",
+        "event": "Canadian Charter of Rights and Freedoms becomes part of the Constitution"
+      }
     ]
   },
   {
@@ -69,6 +83,10 @@
       {
         "heading": "Diversity in Canada",
         "content": "Many ethnic and religious groups live and work in peace as proud Canadians. The largest groups are the English, French, Scottish, Irish, German, Italian, Chinese, Aboriginal, Ukrainian, Dutch, South Asian and Scandinavian. Since the 1970s, most immigrants have come from Asian countries. Canada's diversity includes gay and lesbian Canadians, who enjoy full protection of and equal treatment under the law, including access to civil marriage. The great majority of Canadians identify as Christians; the largest religious affiliation is Catholic."
+      },
+      {
+        "heading": "Immigration and Canada's future",
+        "content": "Canada's population has grown enormously through immigration. Since 1947, more than 5 million people have immigrated to Canada from every corner of the world. Canada welcomes thousands of permanent residents each year through economic, family, and humanitarian streams. Newcomers to Canada are encouraged to integrate into Canadian society while maintaining their cultural heritage — this is the foundation of Canadian multiculturalism. All permanent residents have a path to citizenship after meeting residency requirements. Canada is also a signatory to the United Nations Convention Relating to the Status of Refugees and accepts thousands of refugees fleeing war, persecution, and natural disaster each year."
       }
     ],
     "key_facts": [
@@ -83,10 +101,22 @@
       "The House of Commons recognized in 2006 that the Quebecois form a nation within a united Canada"
     ],
     "important_dates": [
-      { "year": "1604", "event": "First French settlement north of Florida established by French explorers" },
-      { "year": "1755–1763", "event": "The Great Upheaval — more than two-thirds of Acadians deported by British" },
-      { "year": "2006", "event": "House of Commons recognizes Quebecois form a nation within united Canada" },
-      { "year": "2008", "event": "Ottawa formally apologizes for residential schools" }
+      {
+        "year": "1604",
+        "event": "First French settlement north of Florida established by French explorers"
+      },
+      {
+        "year": "1755–1763",
+        "event": "The Great Upheaval — more than two-thirds of Acadians deported by British"
+      },
+      {
+        "year": "2006",
+        "event": "House of Commons recognizes Quebecois form a nation within united Canada"
+      },
+      {
+        "year": "2008",
+        "event": "Ottawa formally apologizes for residential schools"
+      }
     ]
   },
   {
@@ -126,6 +156,10 @@
       {
         "heading": "Great Canadian inventions and discoveries",
         "content": "Alexander Graham Bell — telephone; Joseph-Armand Bombardier — snowmobile; Sir Sandford Fleming — worldwide standard time zones; Matthew Evans and Henry Woodward — first electric light bulb; Reginald Fessenden — radio; Dr. Wilder Penfield — pioneering brain surgeon; Dr. John A. Hopps — first cardiac pacemaker; SPAR Aerospace — Canadarm; Mike Lazaridis and Jim Balsillie — BlackBerry. Sir Frederick Banting and Charles Best discovered insulin, saving 16 million lives worldwide. Basketball was invented by Canadian James Naismith in 1891."
+      },
+      {
+        "heading": "Postwar rights and recognition",
+        "content": "After WWII, Canada gradually extended full democratic rights to all citizens. In 1948, Japanese Canadians — who had been forcibly relocated during the war — regained the right to vote. In 1960, the Canadian Bill of Rights was passed by Prime Minister Diefenbaker, and in the same year Aboriginal peoples were granted the federal vote. In 1982, the Constitution Act entrenched the Canadian Charter of Rights and Freedoms, providing constitutional protection for individual rights for the first time. In 1988, the Multiculturalism Act was passed. Formal apologies were made: to Japanese Canadians in 1988, to Aboriginal peoples for residential schools in 2008, and to Chinese Canadians for the Head Tax in 2006. These acts of recognition reflect Canada's ongoing journey toward a more just and inclusive society."
       }
     ],
     "key_facts": [
@@ -143,23 +177,74 @@
       "James Naismith invented basketball in 1891"
     ],
     "important_dates": [
-      { "year": "1497", "event": "John Cabot reaches Canada's East Coast" },
-      { "year": "1534–1542", "event": "Jacques Cartier's three voyages — names Canada" },
-      { "year": "1608", "event": "Champlain founds Quebec City" },
-      { "year": "1759", "event": "Battle of the Plains of Abraham — Britain defeats France" },
-      { "year": "1774", "event": "Quebec Act — protects French Catholic rights" },
-      { "year": "1776", "event": "40,000+ Loyalists flee American Revolution to Canada" },
-      { "year": "1793", "event": "Upper Canada first province in Empire to move toward abolishing slavery" },
-      { "year": "1847–48", "event": "Nova Scotia first to achieve responsible government" },
-      { "year": "1867", "event": "Confederation — Canada born on July 1" },
-      { "year": "1873", "event": "North West Mounted Police established" },
-      { "year": "1885", "event": "CPR completed November 7" },
-      { "year": "1917", "event": "Battle of Vimy Ridge — April 9 (Vimy Day)" },
-      { "year": "1918", "event": "Women gain federal voting rights" },
-      { "year": "1944", "event": "D-Day — June 6, Canadians storm Juno Beach" },
-      { "year": "1949", "event": "Newfoundland and Labrador joins Canada" },
-      { "year": "1960", "event": "Aboriginal peoples gain the right to vote" },
-      { "year": "1999", "event": "Nunavut created" }
+      {
+        "year": "1497",
+        "event": "John Cabot reaches Canada's East Coast"
+      },
+      {
+        "year": "1534–1542",
+        "event": "Jacques Cartier's three voyages — names Canada"
+      },
+      {
+        "year": "1608",
+        "event": "Champlain founds Quebec City"
+      },
+      {
+        "year": "1759",
+        "event": "Battle of the Plains of Abraham — Britain defeats France"
+      },
+      {
+        "year": "1774",
+        "event": "Quebec Act — protects French Catholic rights"
+      },
+      {
+        "year": "1776",
+        "event": "40,000+ Loyalists flee American Revolution to Canada"
+      },
+      {
+        "year": "1793",
+        "event": "Upper Canada first province in Empire to move toward abolishing slavery"
+      },
+      {
+        "year": "1847–48",
+        "event": "Nova Scotia first to achieve responsible government"
+      },
+      {
+        "year": "1867",
+        "event": "Confederation — Canada born on July 1"
+      },
+      {
+        "year": "1873",
+        "event": "North West Mounted Police established"
+      },
+      {
+        "year": "1885",
+        "event": "CPR completed November 7"
+      },
+      {
+        "year": "1917",
+        "event": "Battle of Vimy Ridge — April 9 (Vimy Day)"
+      },
+      {
+        "year": "1918",
+        "event": "Women gain federal voting rights"
+      },
+      {
+        "year": "1944",
+        "event": "D-Day — June 6, Canadians storm Juno Beach"
+      },
+      {
+        "year": "1949",
+        "event": "Newfoundland and Labrador joins Canada"
+      },
+      {
+        "year": "1960",
+        "event": "Aboriginal peoples gain the right to vote"
+      },
+      {
+        "year": "1999",
+        "event": "Nunavut created"
+      }
     ]
   },
   {
@@ -169,49 +254,119 @@
     "summary": "Postwar Canada enjoyed record prosperity and became an active member of the international community — a multicultural, peaceful, and prosperous nation.",
     "sections": [
       {
-        "heading": "Trade and economic growth",
-        "content": "Postwar Canada enjoyed record prosperity. The discovery of oil in Alberta in 1947 began Canada's modern energy industry. In 1951, for the first time, a majority of Canadians could afford adequate food, shelter and clothing. Social assistance programs grew: the Canada Health Act ensures healthcare coverage; employment insurance was introduced in 1940; Old Age Security was devised as early as 1927; the Canada and Quebec Pension Plans were established in 1965."
+        "heading": "Postwar prosperity and the welfare state",
+        "content": "Postwar Canada enjoyed record prosperity. The discovery of oil in Alberta in 1947 began Canada's modern energy industry. By 1951, for the first time, a majority of Canadians could afford adequate food, shelter and clothing. Canada built a comprehensive social safety net: employment insurance was introduced in 1940; Old Age Security was devised as early as 1927; the Canada and Quebec Pension Plans were established in 1965; and the Canada Health Act ensures universal healthcare coverage for all Canadians. These programs reflect Canada's values of fairness, compassion, and collective responsibility."
       },
       {
         "heading": "International engagement",
-        "content": "Canada joined the United Nations (UN) and NATO, a military alliance with other Western democracies. Canada also joined NORAD with the United States. Canada participated in the Korean War (1950–53), with 500 dead and 1,000 wounded. Canada has taken part in numerous UN peacekeeping missions. Canada remains a leading member of the Commonwealth of Nations."
+        "content": "Canada joined the United Nations (UN) at its founding in 1945 and NATO in 1949, a military alliance with Western democracies to deter Soviet aggression during the Cold War. Canada also joined NORAD (North American Aerospace Defense Command) with the United States to protect North American airspace. Canada participated in the Korean War (1950–53), with 500 Canadians killed and 1,000 wounded. Canada has taken part in numerous UN peacekeeping missions around the world, earning a reputation as an honest broker and peacekeeper. Former Prime Minister Lester B. Pearson won the Nobel Peace Prize in 1957 for proposing the first UN peacekeeping force during the Suez Crisis."
+      },
+      {
+        "heading": "The Constitution Act of 1982",
+        "content": "A defining moment in modern Canadian history came in 1982, when Prime Minister Pierre Elliott Trudeau patriated the Canadian Constitution. For the first time, Canada could amend its own constitution without approval from the British Parliament. The Constitution Act, 1982 included the Canadian Charter of Rights and Freedoms, which guarantees fundamental freedoms, democratic rights, mobility rights, legal rights, equality rights, and language rights for all Canadians. It also recognized and affirmed the existing Aboriginal and treaty rights of the Aboriginal peoples of Canada. The 'notwithstanding clause' (Section 33) allows Parliament or provincial legislatures to override certain Charter rights for a five-year renewable period."
       },
       {
         "heading": "Canada and Quebec",
-        "content": "Quebec experienced rapid change in the 1960s known as the Quiet Revolution. In 1963, Parliament established the Royal Commission on Bilingualism and Biculturalism. The Official Languages Act (1969) guarantees French and English services in the federal government. In 1970, Canada helped found La Francophonie, an international association of French-speaking countries. The Quebec sovereignty movement was defeated in referendums in both 1980 and 1995."
+        "content": "Quebec experienced rapid social, economic and political change in the 1960s known as the Quiet Revolution. In 1963, Parliament established the Royal Commission on Bilingualism and Biculturalism (the B&B Commission). The Official Languages Act (1969) guarantees French and English services in the federal government. In 1970, Canada helped found La Francophonie, an international association of French-speaking countries. The October Crisis of 1970 saw the FLQ (Front de libération du Québec) kidnap a British diplomat and a Quebec cabinet minister; Prime Minister Trudeau invoked the War Measures Act. The Quebec sovereignty movement was defeated in referendums in 1980 (59.6% No) and in 1995 (50.6% No — a very close result)."
+      },
+      {
+        "heading": "Immigration and multiculturalism",
+        "content": "Since 1947, more than 5 million people have immigrated to Canada. The Immigration Act of 1976 introduced a points-based system for skilled workers. In 1971, Prime Minister Pierre Trudeau proclaimed multiculturalism as an official policy — Canada was the first country in the world to adopt multiculturalism as a government policy. The Canadian Multiculturalism Act became law in 1988, enshrining in law Canada's commitment to a pluralist society. Since the 1970s, most immigrants have come from Asian countries including India, China, the Philippines, and Pakistan. The government has formally apologized for past discriminatory immigration policies, including the Chinese Head Tax (apology in 2006) and the forced relocation of Japanese Canadians during WWII (apology in 1988)."
       },
       {
         "heading": "A changing society and arts",
-        "content": "The idea of multiculturalism gained a new impetus — by the 1960s, one-third of Canadians had origins that were neither British nor French. Canadian artists have a long history of achievement: the Group of Seven (founded 1920) captured Canada's rugged wilderness landscapes; Emily Carr painted West Coast scenes; Kenojuak Ashevak pioneered modern Inuit art. Canadian athletes have excelled worldwide — Wayne Gretzky played for the Edmonton Oilers from 1979 to 1988; Terry Fox began his Marathon of Hope in 1980; Rick Hansen circled the globe in a wheelchair in 1985."
+        "content": "By the 1960s, one-third of Canadians had origins that were neither British nor French, reshaping Canadian identity. Canadian artists have achieved international recognition: the Group of Seven (founded 1920) captured Canada's rugged wilderness landscapes; Emily Carr painted the West Coast; Kenojuak Ashevak pioneered modern Inuit art. Canadian literature produced Nobel Prizes and international acclaim through authors like Alice Munro (Nobel Prize in Literature, 2013). Canadian athletes have excelled worldwide — Wayne Gretzky played for the Edmonton Oilers from 1979 to 1988 and is considered the greatest hockey player of all time; Terry Fox began his Marathon of Hope in April 1980 before cancer stopped him; Rick Hansen circled the globe in a wheelchair in 1985–87, raising $26 million for spinal cord injury research."
       }
     ],
     "key_facts": [
       "Oil discovered in Alberta in 1947 — began Canada's modern energy industry",
       "Employment insurance introduced in 1940; Old Age Security from 1927; Canada Pension Plan from 1965",
-      "Canada joined NATO and NORAD — both military alliances",
-      "Korean War (1950–53): 500 Canadians dead, 1,000 wounded",
+      "Canada joined the UN in 1945, NATO in 1949, and NORAD jointly with the US",
+      "Korean War (1950–53): 500 Canadians killed, 1,000 wounded",
+      "Lester B. Pearson won the Nobel Peace Prize in 1957 for creating the first UN peacekeeping force",
+      "Constitution Act 1982 patriated the Constitution and entrenched the Charter of Rights and Freedoms",
       "Official Languages Act (1969) guarantees French and English federal services",
-      "Canada helped found La Francophonie in 1970",
-      "Quebec sovereignty defeated in referendums in 1980 and 1995",
+      "Canada helped found La Francophonie in 1970; was the first country to adopt official multiculturalism policy (1971)",
+      "Quebec sovereignty defeated in referendums in 1980 (59.6% No) and 1995 (50.6% No)",
       "Wayne Gretzky played for Edmonton Oilers 1979–1988",
-      "Terry Fox began Marathon of Hope in 1980",
-      "Rick Hansen circled globe in wheelchair in 1985",
-      "Government apologized to Japanese Canadians in 1988",
-      "Government apologized to Chinese Canadians for Head Tax in 2006"
+      "Terry Fox began Marathon of Hope in April 1980",
+      "Rick Hansen circled globe in wheelchair in 1985–87, raising $26 million",
+      "Government apologized to Japanese Canadians in 1988 and to Chinese Canadians for Head Tax in 2006",
+      "Alice Munro won the Nobel Prize in Literature in 2013"
     ],
     "important_dates": [
-      { "year": "1940", "event": "Employment insurance introduced" },
-      { "year": "1947", "event": "Oil discovered in Alberta" },
-      { "year": "1949", "event": "Canada joins NATO" },
-      { "year": "1950–53", "event": "Korean War — Canada participates with UN" },
-      { "year": "1965", "event": "Canada and Quebec Pension Plans established" },
-      { "year": "1969", "event": "Official Languages Act passed" },
-      { "year": "1970", "event": "Canada helps found La Francophonie" },
-      { "year": "1980", "event": "Quebec sovereignty referendum defeated; Terry Fox begins Marathon of Hope" },
-      { "year": "1985", "event": "Rick Hansen circles globe in wheelchair" },
-      { "year": "1988", "event": "Canada-US Free Trade Agreement; government apologizes to Japanese Canadians" },
-      { "year": "1994", "event": "NAFTA comes into effect" },
-      { "year": "1995", "event": "Second Quebec sovereignty referendum defeated" }
+      {
+        "year": "1927",
+        "event": "Old Age Security program begins"
+      },
+      {
+        "year": "1940",
+        "event": "Employment insurance introduced"
+      },
+      {
+        "year": "1945",
+        "event": "Canada joins the United Nations"
+      },
+      {
+        "year": "1947",
+        "event": "Oil discovered in Alberta"
+      },
+      {
+        "year": "1949",
+        "event": "Canada joins NATO"
+      },
+      {
+        "year": "1950–53",
+        "event": "Korean War — Canada participates with UN"
+      },
+      {
+        "year": "1957",
+        "event": "PM Lester Pearson wins Nobel Peace Prize"
+      },
+      {
+        "year": "1965",
+        "event": "Canada and Quebec Pension Plans established"
+      },
+      {
+        "year": "1969",
+        "event": "Official Languages Act passed"
+      },
+      {
+        "year": "1970",
+        "event": "Canada helps found La Francophonie; October Crisis (FLQ)"
+      },
+      {
+        "year": "1971",
+        "event": "Canada adopts multiculturalism as official policy (world's first)"
+      },
+      {
+        "year": "1980",
+        "event": "Quebec sovereignty referendum defeated; Terry Fox begins Marathon of Hope"
+      },
+      {
+        "year": "1982",
+        "event": "Constitution Act — Charter of Rights and Freedoms entrenched"
+      },
+      {
+        "year": "1985–87",
+        "event": "Rick Hansen circles globe in wheelchair — $26M raised"
+      },
+      {
+        "year": "1988",
+        "event": "Canadian Multiculturalism Act; apology to Japanese Canadians"
+      },
+      {
+        "year": "1994",
+        "event": "NAFTA comes into effect"
+      },
+      {
+        "year": "1995",
+        "event": "Second Quebec sovereignty referendum defeated (50.6% No)"
+      },
+      {
+        "year": "2006",
+        "event": "Apology for Chinese Head Tax"
+      }
     ]
   },
   {
@@ -243,6 +398,10 @@
       {
         "heading": "Municipal government",
         "content": "Local or municipal government plays an important role in citizens' lives. Municipal governments usually have a council that passes laws called by-laws affecting only the local community. Municipalities are normally responsible for urban planning, streets and roads, sanitation, snow removal, firefighting, ambulance, recreation facilities, public transit, and some local health and social services."
+      },
+      {
+        "heading": "Aboriginal self-government",
+        "content": "Aboriginal peoples in Canada — First Nations, Métis, and Inuit — have inherent rights of self-government recognized in the Constitution. Many First Nations communities govern themselves through band councils and have jurisdiction over education, social services, land use, and cultural matters on their reserve lands. The Nisga'a Treaty (2000) in British Columbia was a landmark agreement giving the Nisga'a Nation self-governing powers over lands and resources. The creation of Nunavut in 1999 was a major achievement in Inuit self-determination — Nunavut has its own Legislative Assembly and Premier. Canada continues to negotiate treaties and self-government agreements with Aboriginal communities across the country."
       }
     ],
     "key_facts": [
@@ -256,8 +415,14 @@
       "The Governor General is appointed usually for five years"
     ],
     "important_dates": [
-      { "year": "1867", "event": "British North America Act defines federal and provincial powers at Confederation" },
-      { "year": "1982", "event": "Constitution Act — Canada fully patriates its constitution" }
+      {
+        "year": "1867",
+        "event": "British North America Act defines federal and provincial powers at Confederation"
+      },
+      {
+        "year": "1982",
+        "event": "Constitution Act — Canada fully patriates its constitution"
+      }
     ]
   },
   {
@@ -285,6 +450,10 @@
       {
         "heading": "After an election",
         "content": "The leader of the political party with the most seats in the House of Commons is invited by the Governor General to form the government and becomes Prime Minister. If the party holds at least half the seats, it is a majority government; fewer than half is a minority government. The Prime Minister and Cabinet ministers make important decisions, prepare the budget, and propose most new laws. The opposition party with the most seats is the Official Opposition (Her Majesty's Loyal Opposition)."
+      },
+      {
+        "heading": "Political parties and their roles",
+        "content": "Canada has several major federal political parties. The Conservative Party of Canada generally favours lower taxes, smaller government, and free markets. The Liberal Party of Canada has historically championed social programs, official bilingualism, and multiculturalism. The New Democratic Party (NDP) focuses on workers' rights, expanded social programs, and environmental protection. The Bloc Québécois is a federal party that advocates for Quebec's interests and sovereignty. The Green Party of Canada focuses on environmental issues and sustainable development. Candidates run as members of parties or as independents. Political parties are funded by contributions from individuals; there are strict limits on donations and spending during election campaigns to ensure fairness."
       }
     ],
     "key_facts": [
@@ -299,10 +468,22 @@
       "Women gained federal vote in 1918; Aboriginal peoples in 1960"
     ],
     "important_dates": [
-      { "year": "1758", "event": "First representative assembly elected in Halifax, Nova Scotia" },
-      { "year": "1918", "event": "Women gain the right to vote in federal elections" },
-      { "year": "1948", "event": "Japanese-Canadians gain the right to vote" },
-      { "year": "1960", "event": "Aboriginal peoples gain the right to vote in federal elections" }
+      {
+        "year": "1758",
+        "event": "First representative assembly elected in Halifax, Nova Scotia"
+      },
+      {
+        "year": "1918",
+        "event": "Women gain the right to vote in federal elections"
+      },
+      {
+        "year": "1948",
+        "event": "Japanese-Canadians gain the right to vote"
+      },
+      {
+        "year": "1960",
+        "event": "Aboriginal peoples gain the right to vote in federal elections"
+      }
     ]
   },
   {
@@ -313,31 +494,59 @@
     "sections": [
       {
         "heading": "Foundations of Canada's justice system",
-        "content": "Canada's legal system is based on a heritage that includes the rule of law, freedom under the law, democratic principles and due process. Due process is the principle that the government must respect all the legal rights a person is entitled to under the law. The law in Canada applies to everyone, including judges, politicians and the police."
+        "content": "Canada's legal system is based on a heritage that includes the rule of law, freedom under the law, democratic principles and due process. Due process is the principle that the government must respect all the legal rights a person is entitled to under the law. The law in Canada applies to everyone, including judges, politicians and the police. Canada inherits two main legal traditions: the common law tradition from England (used in all provinces except Quebec) and the civil law tradition from France (the Civil Code of Quebec governs private law in that province)."
+      },
+      {
+        "heading": "Criminal law and civil law",
+        "content": "Canadian law is divided into two broad categories. Criminal law deals with offences against society — such as theft, assault, impaired driving, and drug offences — and is the responsibility of the federal government. A person accused of a crime is presumed innocent until proven guilty beyond a reasonable doubt. Civil law deals with disputes between individuals or organizations, such as contracts, property, family matters, and personal injury claims. In civil cases, a plaintiff sues a defendant; in criminal cases, the state (Crown) prosecutes the accused. Youth criminal justice: young people between 12 and 17 who commit offences are dealt with under the Youth Criminal Justice Act."
       },
       {
         "heading": "Courts",
-        "content": "The Supreme Court of Canada is our country's highest court. The Federal Court of Canada deals with matters concerning the federal government. In most provinces there is an appeal court and a trial court (sometimes called the Court of Queen's Bench or the Supreme Court). There are also provincial courts for lesser offences, family courts, traffic courts and small claims courts."
+        "content": "The Supreme Court of Canada is our country's highest court, with nine justices appointed by the Governor General on the advice of the Prime Minister. The Federal Court of Canada deals with matters concerning the federal government. In most provinces there is an appeal court and a trial court (sometimes called the Court of Queen's Bench or the Supreme Court of the province). There are also provincial courts that handle lesser offences, family courts, traffic courts, and small claims courts. Decisions of higher courts are binding on lower courts — this creates consistent, predictable law across the country."
+      },
+      {
+        "heading": "Rights when arrested",
+        "content": "If you are arrested, you have the right to be told why you are being arrested and to be informed of your right to consult a lawyer without delay. You have the right to remain silent — you are not obliged to answer police questions beyond identifying yourself in certain circumstances. You must be brought before a judge or justice of the peace within 24 hours or as soon as possible. No one can be held in custody for an unreasonable length of time without being charged or released. These rights come from the Canadian Charter of Rights and Freedoms (1982) and the common law right of habeas corpus, which dates back to 1215."
+      },
+      {
+        "heading": "Jury duty",
+        "content": "Every adult Canadian citizen has a civic duty to serve on a jury when called. A jury is a group of 12 citizens chosen to hear evidence in serious criminal cases and deliver a verdict of guilty or not guilty. In civil cases, juries of six or eight members may be used. A jury must reach a unanimous verdict in criminal cases. Serving on a jury is one of the most important responsibilities of citizenship — it ensures that ordinary citizens, not just judges, have a role in delivering justice. You may be excused from jury duty in certain circumstances, but generally you must attend if summoned."
       },
       {
         "heading": "Police",
-        "content": "There are provincial police forces in Ontario and Quebec, and municipal police departments in all provinces. The Royal Canadian Mounted Police (RCMP) enforce federal laws throughout Canada, and serve as the provincial police in all provinces and territories except Ontario and Quebec. You can ask the police for help and also question the police about their service or conduct."
+        "content": "There are provincial police forces in Ontario (OPP) and Quebec (Sûreté du Québec), and municipal police departments in cities and towns across all provinces. The Royal Canadian Mounted Police (RCMP) enforce federal laws throughout Canada, and serve as the provincial police in all provinces and territories except Ontario and Quebec. The RCMP was established as the North West Mounted Police in 1873 by Prime Minister Macdonald. You can ask the police for help and also question the police about their service or conduct. Citizens may file complaints about police misconduct to independent civilian review bodies."
       },
       {
         "heading": "Getting legal help",
-        "content": "Lawyers can help you with legal problems and act for you in court. If you cannot pay for a lawyer, in most communities there are legal aid services available free of charge or at a low cost."
+        "content": "Everyone in Canada has the right to consult a lawyer. Lawyers can help you understand your legal rights, draft documents, negotiate settlements, and represent you in court. If you cannot afford a lawyer, legal aid services are available in most communities free of charge or at a low cost. Law societies in each province regulate lawyers and can assist you in finding one. In addition, community legal clinics provide free advice on issues such as housing, employment, and social benefits. Immigration and refugee cases are handled by the Immigration and Refugee Board (IRB), a federal administrative tribunal."
       }
     ],
     "key_facts": [
-      "Everyone is innocent until proven guilty — this is the presumption of innocence",
+      "Everyone is innocent until proven guilty beyond a reasonable doubt — the presumption of innocence",
       "Due process means the government must respect all legal rights a person is entitled to",
       "The law in Canada applies to everyone — including judges, politicians and police",
-      "The Supreme Court of Canada is the country's highest court",
-      "The RCMP enforce federal laws and serve as provincial police in all provinces and territories except Ontario and Quebec",
-      "Legal aid services are available free of charge or at low cost in most communities"
+      "The Supreme Court of Canada is the country's highest court — nine justices",
+      "Criminal law is federal; civil law (contracts, property, family) is largely provincial",
+      "Quebec uses the Civil Code (French tradition); all other provinces use common law (English tradition)",
+      "If arrested: you have the right to know the reason, to remain silent, and to consult a lawyer without delay",
+      "The RCMP enforce federal laws and serve as provincial police in all provinces except Ontario and Quebec",
+      "Jury duty: 12 citizens deliver unanimous verdicts in serious criminal cases — a key civic responsibility",
+      "Legal aid services are available free of charge or at low cost in most communities",
+      "Youth aged 12–17 who commit offences are dealt with under the Youth Criminal Justice Act"
     ],
     "important_dates": [
-      { "year": "1982", "event": "Charter of Rights and Freedoms enshrines legal rights including presumption of innocence" }
+      {
+        "year": "1215",
+        "event": "Magna Carta — establishes habeas corpus (right to challenge unlawful detention)"
+      },
+      {
+        "year": "1873",
+        "event": "North West Mounted Police (later RCMP) established by PM Macdonald"
+      },
+      {
+        "year": "1982",
+        "event": "Charter of Rights and Freedoms enshrines legal rights including presumption of innocence and right to counsel"
+      }
     ]
   },
   {
@@ -367,6 +576,10 @@
         "content": "O Canada was proclaimed the national anthem in 1980; it was first sung in Quebec City in 1880. The Royal Anthem is God Save the Queen (or King). The Order of Canada was started in 1967, the centennial of Confederation. The Victoria Cross (V.C.) is the highest honour — awarded for the most conspicuous bravery in the presence of the enemy. It has been awarded to 96 Canadians since 1854."
       },
       {
+        "heading": "Currency and notable Canadians on bills",
+        "content": "Canada's currency features distinguished Canadians and national symbols. The $5 bill features Sir Wilfrid Laurier (first French-Canadian Prime Minister since Confederation). The $10 bill features Sir John A. Macdonald (Canada's first Prime Minister). The $20 bill features the reigning Sovereign. The $50 bill features William Lyon Mackenzie King (longest-serving Prime Minister). The $100 bill features Sir Robert Borden (PM during WWI). The five-cent coin (nickel) features the beaver — Canada's national animal and a symbol of industry. The 25-cent coin (quarter) features the caribou. Canadian paper currency has featured Viola Desmond, a Black Canadian woman who challenged racial segregation in Nova Scotia, on the new $10 bill."
+      },
+      {
         "heading": "National public holidays",
         "content": "New Year's Day — January 1; Sir John A. Macdonald Day — January 11; Good Friday; Easter Monday; Vimy Day — April 9; Victoria Day — Monday preceding May 25; Fête nationale (Quebec) — June 24; Canada Day — July 1; Labour Day — first Monday of September; Thanksgiving Day — second Monday of October; Remembrance Day — November 11; Sir Wilfrid Laurier Day — November 20; Christmas Day — December 25; Boxing Day — December 26."
       }
@@ -385,12 +598,30 @@
       "Remembrance Day is November 11 — moment of silence at the 11th hour of the 11th day of the 11th month"
     ],
     "important_dates": [
-      { "year": "1892", "event": "Stanley Cup donated by Governor General Lord Stanley" },
-      { "year": "1921", "event": "Red and white confirmed as Canada's national colours" },
-      { "year": "1927", "event": "Peace Tower completed in memory of WWI" },
-      { "year": "1965", "event": "Current Canadian flag raised for the first time" },
-      { "year": "1967", "event": "Order of Canada established — centennial of Confederation" },
-      { "year": "1980", "event": "O Canada proclaimed the national anthem" }
+      {
+        "year": "1892",
+        "event": "Stanley Cup donated by Governor General Lord Stanley"
+      },
+      {
+        "year": "1921",
+        "event": "Red and white confirmed as Canada's national colours"
+      },
+      {
+        "year": "1927",
+        "event": "Peace Tower completed in memory of WWI"
+      },
+      {
+        "year": "1965",
+        "event": "Current Canadian flag raised for the first time"
+      },
+      {
+        "year": "1967",
+        "event": "Order of Canada established — centennial of Confederation"
+      },
+      {
+        "year": "1980",
+        "event": "O Canada proclaimed the national anthem"
+      }
     ]
   },
   {
@@ -401,11 +632,31 @@
     "sections": [
       {
         "heading": "A trading nation and the G8",
-        "content": "Canada has one of the ten largest economies in the world and is part of the G8 group of leading industrialized countries. In 1988, Canada enacted free trade with the United States. Mexico became a partner in 1994 in the broader North American Free Trade Agreement (NAFTA). Canada enjoys close relations with the United States — each is the other's largest trading partner, and over three-quarters of Canadian exports are destined for the U.S.A."
+        "content": "Canada has one of the ten largest economies in the world and is part of the G8 group of leading industrialized countries. In 1988, Canada enacted free trade with the United States. Mexico became a partner in 1994 in the broader North American Free Trade Agreement (NAFTA). Canada enjoys close relations with the United States — each is the other's largest trading partner, and over three-quarters of Canadian exports are destined for the U.S.A. Canada also maintains strong trade ties with the European Union, Japan, China, and other Asia-Pacific nations."
       },
       {
         "heading": "Three types of industries",
-        "content": "Service industries provide thousands of different jobs in transportation, education, health care, construction, banking, communications, retail, tourism and government. More than 75% of working Canadians have jobs in service industries. Manufacturing industries make products such as paper, high technology equipment, aerospace technology, automobiles and machinery. Natural resources industries include forestry, fishing, agriculture, mining and energy — a large percentage of Canada's exports are natural resources commodities."
+        "content": "Service industries provide thousands of different jobs in transportation, education, health care, construction, banking, communications, retail, tourism and government. More than 75% of working Canadians have jobs in service industries. Manufacturing industries make products such as paper, high-technology equipment, aerospace technology, automobiles and machinery — Ontario and Quebec are the manufacturing heartland. Natural resources industries include forestry, fishing, agriculture, mining and energy. A large percentage of Canada's exports are natural resources commodities, including oil and gas, potash, wheat, softwood lumber and minerals."
+      },
+      {
+        "heading": "Banking and the Bank of Canada",
+        "content": "The Bank of Canada was created in 1934 to manage the country's money supply and set monetary policy. Canada's dollar (CAD) is the country's official currency. Canada has a stable, well-regulated banking sector — the big chartered banks (such as RBC, TD, Scotiabank, BMO, and CIBC) are among the most highly rated in the world. The Montreal Stock Exchange, opened in 1832, was Canada's first; the Toronto Stock Exchange (TSX) is now the country's main exchange and one of the largest in the world by market capitalization. Federal taxes fund services including national defence, old age security, employment insurance, and infrastructure."
+      },
+      {
+        "heading": "Energy and natural resources",
+        "content": "Canada is one of the world's leading producers and exporters of energy. Alberta's oil sands contain one of the largest proven oil reserves on earth. Saskatchewan is the world's largest exporter of potash and one of the leading uranium producers. British Columbia is a major exporter of natural gas and hydroelectric power. Quebec and Manitoba generate large amounts of hydroelectric power. Canada is also one of the world's top producers of nickel, gold, copper, iron ore, and zinc. The forestry sector is vital to provinces like B.C., Ontario, and Quebec, supporting thousands of jobs in logging, sawmilling, and pulp and paper."
+      },
+      {
+        "heading": "Agriculture and food",
+        "content": "Canada's Prairie Provinces — Manitoba, Saskatchewan, and Alberta — are among the most productive agricultural regions on earth. Saskatchewan alone has 40% of Canada's arable land and is one of the world's top exporters of wheat, canola (rapeseed), barley, flax, and lentils. The Canadian Wheat Board historically marketed grain for Prairie farmers on world markets. Dairy, poultry, and egg sectors operate under supply management systems that stabilize prices and incomes. Canada's fishing industry is centred on both the Atlantic and Pacific coasts — seafood products including lobster, crab, shrimp, and salmon are major exports. Agriculture contributes billions of dollars annually to the Canadian economy and supports hundreds of thousands of jobs."
+      },
+      {
+        "heading": "Technology and innovation",
+        "content": "Canada is home to a vibrant technology sector. Cities like Toronto, Vancouver, Waterloo, Montreal, and Ottawa have developed strong technology ecosystems. Canadian companies and researchers have contributed major innovations: the Canadarm robotic arm was developed by SPAR Aerospace and used on NASA Space Shuttles and the International Space Station; BlackBerry (RIM) pioneered mobile email; Nortel Networks was once the world's largest telecom equipment company. Canadian universities rank among the world's best in artificial intelligence research — the University of Toronto, University of Montreal, and others have produced pioneers in machine learning. Canada actively attracts global technology talent and investment."
+      },
+      {
+        "heading": "Workers' rights and labour",
+        "content": "Canadian workers are protected by both federal and provincial employment laws. The Labour Day holiday, celebrated on the first Monday in September, honours the contributions of working people to Canadian society. Unions have played a key role in winning workplace rights including fair wages, safe working conditions, paid vacations, and limits on working hours. The federal government sets minimum standards for federally regulated industries, while each province sets its own minimum wage and labour rules for provincially regulated workplaces. Canada's Employment Insurance (EI) program provides temporary income support for workers who lose their jobs, along with special benefits for parental leave, illness, and compassionate care."
       }
     ],
     "key_facts": [
@@ -413,13 +664,31 @@
       "In 1988 Canada enacted free trade with the US; NAFTA with Mexico followed in 1994",
       "Over three-quarters of Canadian exports go to the United States",
       "More than 75% of working Canadians work in service industries",
-      "Canada's three types of industries: service, manufacturing, and natural resources"
+      "Canada's three types of industries: service, manufacturing, and natural resources",
+      "The Bank of Canada was created in 1934 to manage the money supply",
+      "The Montreal Stock Exchange (1832) was Canada's first; the Toronto Stock Exchange (TSX) is now the main exchange",
+      "Alberta's oil sands contain one of the world's largest proven oil reserves",
+      "Saskatchewan is the world's largest exporter of potash and has 40% of Canada's arable land",
+      "Labour Day (first Monday in September) honours Canadian workers",
+      "The Canadarm was developed by SPAR Aerospace for NASA Space Shuttles"
     ],
     "important_dates": [
-      { "year": "1832", "event": "Montreal Stock Exchange opened" },
-      { "year": "1934", "event": "Bank of Canada created to manage money supply" },
-      { "year": "1988", "event": "Canada-US Free Trade Agreement enacted" },
-      { "year": "1994", "event": "NAFTA comes into effect — Canada, US, Mexico" }
+      {
+        "year": "1832",
+        "event": "Montreal Stock Exchange opened"
+      },
+      {
+        "year": "1934",
+        "event": "Bank of Canada created to manage money supply"
+      },
+      {
+        "year": "1988",
+        "event": "Canada-US Free Trade Agreement enacted"
+      },
+      {
+        "year": "1994",
+        "event": "NAFTA comes into effect — Canada, US, Mexico"
+      }
     ]
   },
   {
@@ -451,6 +720,10 @@
       {
         "heading": "The Northern Territories",
         "content": "The Northwest Territories, Nunavut and Yukon contain one-third of Canada's land mass but have a population of only 100,000. The North is often called the 'Land of the Midnight Sun.' Nunavut, meaning 'our land' in Inuktitut, was established in 1999 — the capital is Iqaluit and the population is about 85% Inuit. Yukon holds the record for the coldest temperature recorded in Canada (−63°C). The Northwest Territories capital, Yellowknife, is called the 'diamond capital of North America.'"
+      },
+      {
+        "heading": "Provincial and territorial capitals",
+        "content": "Each province and territory has its own capital city: Ontario — Toronto; Quebec — Quebec City; British Columbia — Victoria; Alberta — Edmonton; Saskatchewan — Regina; Manitoba — Winnipeg; Nova Scotia — Halifax; New Brunswick — Fredericton; PEI — Charlottetown; Newfoundland and Labrador — St. John's; Yukon — Whitehorse; Northwest Territories — Yellowknife; Nunavut — Iqaluit. Ottawa is the national capital, located on the Ontario side of the Ottawa River across from Gatineau, Quebec. The Parliament Buildings, Rideau Canal (a UNESCO World Heritage Site), and the National Gallery of Canada are located in Ottawa."
       }
     ],
     "key_facts": [
@@ -466,17 +739,42 @@
       "Saskatchewan has 40% of Canada's arable land",
       "RCMP training academy is in Regina, Saskatchewan",
       "Nunavut (1999) means 'our land' in Inuktitut — 85% Inuit population",
-      "The Northern territories contain one-third of Canada's land mass but only 100,000 people"
+      "The Northern territories contain one-third of Canada's land mass but only 100,000 people",
+      "Provincial/territorial capitals include: Toronto (ON), Quebec City (QC), Victoria (BC), Edmonton (AB), Regina (SK), Winnipeg (MB), Halifax (NS), Fredericton (NB), Charlottetown (PEI), St. John's (NL), Whitehorse (YT), Yellowknife (NT), Iqaluit (NU)"
     ],
     "important_dates": [
-      { "year": "1857", "event": "Ottawa chosen as capital by Queen Victoria" },
-      { "year": "1867", "event": "Ontario, Quebec, Nova Scotia, New Brunswick join Confederation" },
-      { "year": "1870", "event": "Manitoba joins Confederation" },
-      { "year": "1871", "event": "British Columbia joins Confederation" },
-      { "year": "1873", "event": "Prince Edward Island joins Confederation" },
-      { "year": "1905", "event": "Alberta and Saskatchewan join Confederation" },
-      { "year": "1949", "event": "Newfoundland and Labrador joins Canada" },
-      { "year": "1999", "event": "Nunavut created from eastern Northwest Territories" }
+      {
+        "year": "1857",
+        "event": "Ottawa chosen as capital by Queen Victoria"
+      },
+      {
+        "year": "1867",
+        "event": "Ontario, Quebec, Nova Scotia, New Brunswick join Confederation"
+      },
+      {
+        "year": "1870",
+        "event": "Manitoba joins Confederation"
+      },
+      {
+        "year": "1871",
+        "event": "British Columbia joins Confederation"
+      },
+      {
+        "year": "1873",
+        "event": "Prince Edward Island joins Confederation"
+      },
+      {
+        "year": "1905",
+        "event": "Alberta and Saskatchewan join Confederation"
+      },
+      {
+        "year": "1949",
+        "event": "Newfoundland and Labrador joins Canada"
+      },
+      {
+        "year": "1999",
+        "event": "Nunavut created from eastern Northwest Territories"
+      }
     ]
   }
 ]
